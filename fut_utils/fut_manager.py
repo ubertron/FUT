@@ -1,16 +1,19 @@
-from pathlib import Path
 import pandas as pd
+import os
 import logging
 import matplotlib.pyplot as plt
+import shutil
 
+from datetime import datetime
+from pathlib import Path
 from pandas.core.frame import DataFrame
 from typing import Tuple
 
 logging.basicConfig()
 logging.getLogger().setLevel(logging.INFO)
 
-# CLUB_ANALYZER: Path = Path(__file__).parent.joinpath('data/club-analyzer_2024_01_03.csv')
-CLUB_ANALYZER: Path = Path(__file__).parent.joinpath('data/club-analyzer_2024_01_03.csv')
+DATA_DIR: Path = Path(__file__).parent.joinpath('data')
+DATA_PATH: Path = DATA_DIR.joinpath('club-analyzer.csv')
 PLOTS_DIR: Path = Path(__file__).parent.joinpath('plots')
 
 
@@ -21,9 +24,31 @@ class FutManager:
     POSITION: str = 'Position'
     ID: str = 'Id'
 
-    def __init__(self, data_path: Path):
-        self.data_path: Path = data_path
-        self.data: DataFrame = pd.read_csv(data_path.as_posix())
+    def __init__(self, data_path: Path = DATA_PATH):
+        if data_path.exists():
+            self.data_path = data_path
+            logging.info(f'New data file found.')
+        else:
+            self.data_path = list(DATA_DIR.glob('club-analyzer*'))[-1]
+            logging.info(f'Accessing latest data: {self.data_path}')
+
+        assert self.data_path.exists(), 'No data found.'
+
+        if self.data_path == DATA_PATH:
+            self._handle_data_file(data_path)
+
+        self.data: DataFrame = pd.read_csv(self.data_path.as_posix())
+        self.generate_histogram()
+
+    def _handle_data_file(self, data_path: Path):
+        """
+        Renames the data file by date
+        :param data_path:
+        """
+        creation_date = os.path.getmtime(data_path)
+        nice_date = datetime.utcfromtimestamp(creation_date).strftime('%Y_%m_%d')
+        self.data_path = data_path.parent.joinpath(f'{data_path.stem}_{nice_date}.csv')
+        os.rename(data_path.as_posix(), self.data_path.as_posix())
 
     @property
     def bins(self) -> list[int]:
@@ -71,4 +96,5 @@ class FutManager:
 if __name__ == '__main__':
     # FutManager().find(key_value_pairs=[(FutManager().RATING, 83)])
     # FutManager().find(key_value_pairs=[(FutManager().POSITION, 'CB')])
-    FutManager(data_path=CLUB_ANALYZER).generate_histogram()
+    # FutManager(data_path=DATA_PATH).generate_histogram()
+    FutManager()
