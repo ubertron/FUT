@@ -3,6 +3,7 @@ from pandas import DataFrame
 from pathlib import Path
 
 from widgets.grid_widget import GridWidget
+from widgets.generic_widget import GenericWidget
 from fut_utils.fut_manager import FutManager
 
 
@@ -13,9 +14,9 @@ class FutDataWidget(GridWidget):
     SILVER = 'Silver'
     BRONZE = 'Bronze'
 
-    def __init__(self):
+    def __init__(self, fut_manager: FutManager):
         super(FutDataWidget, self).__init__()
-        self.fut_manager: FutManager = FutManager(data_path=None, use_last_data=False)
+        self.fut_manager: FutManager = fut_manager
         self.addRow(self.PLAYER_COUNT)
         self.addRow(self.TOTAL_VALUE)
         self.addRow(self.GOLD)
