@@ -5,34 +5,44 @@ import matplotlib.pyplot as plt
 import shutil
 
 from datetime import datetime
-from enum import Enum
 from pandas.core.frame import DataFrame
 from pathlib import Path
 from typing import Tuple, Optional, Union, List
 
 from core.enums import FileExtension
+from fut_utils.fut_enums import FutAttr, League
 
 logging.basicConfig()
 logging.getLogger().setLevel(logging.INFO)
 
 DATA_FILE_STEM = 'club-analyzer'
+DATA_FILE_FILENAME = f'{DATA_FILE_STEM}{FileExtension.csv.value}'
 DATA_DIR: Path = Path(__file__).parent.joinpath('data')
-DEFAULT_DATA_FILE: Path = DATA_DIR.joinpath(f'{DATA_FILE_STEM}{FileExtension.csv.value}')
+DEFAULT_DATA_FILE: Path = DATA_DIR.joinpath(DATA_FILE_FILENAME)
+DOWNLOADED_DATA_FILE: Path = Path.home().joinpath('Downloads', DATA_FILE_FILENAME)
 PLOTS_DIR: Path = Path(__file__).parent.joinpath('plots')
 
-
-class FutAttr(Enum):
-    surname: str = 'Lastname'
-    name: str = 'Name'
-    rating: str = 'Rating'
-    position: str = 'Position'
-    id: str = 'Id'
-    club: str = 'Club'
-    league: str = 'League'
+POSITION_DICT = {
+    0: 'GK',
+    2: 'RWB',
+    3: 'RB',
+    5: 'CB',
+    7: 'LB',
+    8: 'LWB',
+    10: 'CDM',
+    12: 'RM',
+    14: 'CM',
+    16: 'LM',
+    18: 'CAM',
+    23: 'RW',
+    25: 'ST',
+    27: 'LW',
+}
 
 
 class FutManager:
     def __init__(self, data_path: Optional[Path] = DEFAULT_DATA_FILE, use_last_data: bool = True):
+        self._handle_default_data_file()
         self.use_last_data: bool = use_last_data
         self.data_path: Path or None = data_path
 
@@ -46,26 +56,27 @@ class FutManager:
 
     @data_path.setter
     def data_path(self, value: Path or None):
+        self._data_path = value
+
         if value == DEFAULT_DATA_FILE:
             if value.exists():
-                self._handle_default_data_file(value)
+                self._rename_default_data_file(value)
             else:
                 value = None
 
         if value is None:
-            if self.use_last_data:
-                self._data_path = self.last_data_file
-        else:
-            if value.exists():
-                self._data_path = value
-            else:
-                self._data_path = None
+            self._data_path = self.last_data_file if self.use_last_data else None
 
     @property
     def data(self) -> DataFrame:
         return pd.read_csv(self.data_path.as_posix())
 
-    def _handle_default_data_file(self, data_path: Path):
+    @staticmethod
+    def _handle_default_data_file():
+        if DOWNLOADED_DATA_FILE.exists() and not DEFAULT_DATA_FILE.exists():
+            shutil.move(DOWNLOADED_DATA_FILE, DEFAULT_DATA_FILE)
+
+    def _rename_default_data_file(self, data_path: Path):
         """
         Renames the data file by date
         :param data_path:
@@ -88,7 +99,8 @@ class FutManager:
 
     @property
     def rating_range(self) -> Tuple[int]:
-        return self.data[FutAttr.rating.value].min(), self.data[FutAttr.rating.value].max()
+        result = self.data[FutAttr.rating.value].min(), self.data[FutAttr.rating.value].max()
+        return result
 
     @property
     def player_count(self) -> int:
@@ -181,7 +193,7 @@ class FutManager:
                 print(f'{key}: {value}')
         return result
 
-    def list_leagues(self, input_data: Optional[DataFrame] = None, format_results: bool = False):
+    def format_league_data(self, input_data: Optional[DataFrame] = None, format_results: bool = False):
         """
         Produces a dictionary with the frequencies of the leagues
         :param input_data:
@@ -206,6 +218,26 @@ class FutManager:
         result = data[key.value].value_counts().to_dict()
         return result
 
+    def league_analyser(self, league: League, format_data: bool = False):
+        df = self.find_value(FutAttr.league, value=league.value)
+        positions = list(set(df[FutAttr.position.value].to_list()))
+        position_map = {POSITION_DICT.get(i): self.find([(FutAttr.league.value, league.value),
+                                                         (FutAttr.position.value, i)]) for i in positions}
+
+        if format_data:
+            for key, value in position_map.items():
+                values = value.iterrows()
+                player_data = [f'{row[FutAttr.surname.value]} [{row[FutAttr.rating.value]}]' for i, row in values]
+                print(f'{key}: {", ".join(player_data)}')
+
+        return position_map
+
+    @property
+    def leagues(self) -> List[str]:
+        result = list(set(self.data[FutAttr.league.value].to_list()))
+        result.sort()
+        return result
+
     @staticmethod
     def format_player(x: DataFrame):
         """
@@ -218,14 +250,24 @@ class FutManager:
 
 if __name__ == '__main__':
     fm = FutManager()
+    # print('\n'.join(fm.leagues))
+    fm.league_analyser(League.d1_arkema, format_data=True)
+    # fm.league_analyser(League.wsl)
+    # fm.league_analyser(League.serie_a)
     # FutManager().find(key_value_pairs=[(FutManager().RATING, 83)])
     # FutManager().find(key_value_pairs=[(FutManager().POSITION, 'CB')])
     # FutManager(data_path=DATA_PATH).generate_histogram()
-    fm.generate_histogram()
-    print(fm.total_player_rating)
+    # fm.generate_histogram()
+    # print(fm.total_player_rating)
     # FutManager().find(key_value_pairs=[(FutManager.SURNAME, 'Messi')], first_only=True)
     # FutManager().list_leagues(format_results=True)
     # FutManager().list_clubs()
     # FutManager().find_max(FutAttribute.RATING, 70, format_data=True)
     # print(FutManager().find_value(FutAttribute.SURNAME, 'Messi')['Club'].to_string())
     # fm.list_clubs(input_data=fm.find_max(FutAttr.Rating, value=58), format_results=True)
+    # print(fm.data.iloc[0])
+    # FutManager().find_value(FutAttr.surname, 'Lavelle', format_data=True)
+    # FutManager().find_value(FutAttr.surname, 'Bennacer', format_data=True)
+    # FutManager().find_value(FutAttr.surname, 'Fernandes', format_data=True)
+    # FutManager().find_value(FutAttr.surname, 'Saka', format_data=True)
+    # print(FutManager().find_value(FutAttr.surname, 'Kane')[FutAttr.position.value])  # ST 25
