@@ -10,6 +10,7 @@ from pathlib import Path
 from typing import Tuple, Optional, Union, List
 
 from core.enums import FileExtension
+from fut_utils import POSITION_DICT
 from fut_utils.fut_enums import FutAttr, League
 
 logging.basicConfig()
@@ -21,24 +22,6 @@ DATA_DIR: Path = Path(__file__).parent.joinpath('data')
 DEFAULT_DATA_FILE: Path = DATA_DIR.joinpath(DATA_FILE_FILENAME)
 DOWNLOADED_DATA_FILE: Path = Path.home().joinpath('Downloads', DATA_FILE_FILENAME)
 PLOTS_DIR: Path = Path(__file__).parent.joinpath('plots')
-
-POSITION_DICT = {
-    0: 'GK',
-    2: 'RWB',
-    3: 'RB',
-    5: 'CB',
-    7: 'LB',
-    8: 'LWB',
-    10: 'CDM',
-    12: 'RM',
-    14: 'CM',
-    16: 'LM',
-    18: 'CAM',
-    21: 'CF',
-    23: 'RW',
-    25: 'ST',
-    27: 'LW',
-}
 
 
 class FutManager:
@@ -278,6 +261,6 @@ if __name__ == '__main__':
     # print(fm.data.iloc[0])
     # FutManager().find_value(FutAttr.surname, 'Lavelle', format_data=True)
     # FutManager().find_value(FutAttr.surname, 'Bennacer', format_data=True)
-    FutManager().find_value(FutAttr.surname, 'Benzema', format_data=True)
+    # FutManager().find_value(FutAttr.surname, 'Benzema', format_data=True)
     # FutManager().find_value(FutAttr.surname, 'Saka', format_data=True)
     # print(FutManager().find_value(FutAttr.surname, 'Kane')[FutAttr.position.value])  # ST 25
