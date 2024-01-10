@@ -34,6 +34,7 @@ POSITION_DICT = {
     14: 'CM',
     16: 'LM',
     18: 'CAM',
+    21: 'CF',
     23: 'RW',
     25: 'ST',
     27: 'LW',
@@ -109,6 +110,14 @@ class FutManager:
     @property
     def total_player_rating(self) -> int:
         return self.player_ratings.sum()
+
+    @property
+    def mean_player_rating(self) -> float:
+        return self.player_ratings.mean()
+
+    @property
+    def median_player_rating(self) -> int:
+        return int(self.player_ratings.median())
 
     @property
     def num_gold(self) -> int:
@@ -218,10 +227,11 @@ class FutManager:
         result = data[key.value].value_counts().to_dict()
         return result
 
-    def league_analyser(self, league: League, format_data: bool = False):
-        df = self.find_value(FutAttr.league, value=league.value)
+    def league_analyser(self, league: League or str, format_data: bool = False):
+        league = league.value if type(league) is League else league
+        df = self.find_value(FutAttr.league, value=league)
         positions = list(set(df[FutAttr.position.value].to_list()))
-        position_map = {POSITION_DICT.get(i): self.find([(FutAttr.league.value, league.value),
+        position_map = {POSITION_DICT.get(i): self.find([(FutAttr.league.value, league),
                                                          (FutAttr.position.value, i)]) for i in positions}
 
         if format_data:
@@ -250,14 +260,14 @@ class FutManager:
 
 if __name__ == '__main__':
     fm = FutManager()
+    fm.generate_histogram()
     # print('\n'.join(fm.leagues))
-    fm.league_analyser(League.d1_arkema, format_data=True)
-    # fm.league_analyser(League.wsl)
+    # fm.league_analyser(League.d1_arkema, format_data=True)
+    fm.league_analyser(League.wsl)
     # fm.league_analyser(League.serie_a)
     # FutManager().find(key_value_pairs=[(FutManager().RATING, 83)])
     # FutManager().find(key_value_pairs=[(FutManager().POSITION, 'CB')])
     # FutManager(data_path=DATA_PATH).generate_histogram()
-    # fm.generate_histogram()
     # print(fm.total_player_rating)
     # FutManager().find(key_value_pairs=[(FutManager.SURNAME, 'Messi')], first_only=True)
     # FutManager().list_leagues(format_results=True)
@@ -268,6 +278,6 @@ if __name__ == '__main__':
     # print(fm.data.iloc[0])
     # FutManager().find_value(FutAttr.surname, 'Lavelle', format_data=True)
     # FutManager().find_value(FutAttr.surname, 'Bennacer', format_data=True)
-    # FutManager().find_value(FutAttr.surname, 'Fernandes', format_data=True)
+    FutManager().find_value(FutAttr.surname, 'Benzema', format_data=True)
     # FutManager().find_value(FutAttr.surname, 'Saka', format_data=True)
     # print(FutManager().find_value(FutAttr.surname, 'Kane')[FutAttr.position.value])  # ST 25

@@ -10,6 +10,8 @@ from fut_utils.fut_manager import FutManager
 class FutDataWidget(GridWidget):
     PLAYER_COUNT = 'Player Count'
     TOTAL_VALUE = 'Total Value'
+    MEAN = 'Mean'
+    MEDIAN = 'Median'
     GOLD = 'Gold'
     SILVER = 'Silver'
     BRONZE = 'Bronze'
@@ -19,6 +21,8 @@ class FutDataWidget(GridWidget):
         self.fut_manager: FutManager = fut_manager
         self.addRow(self.PLAYER_COUNT)
         self.addRow(self.TOTAL_VALUE)
+        self.addRow(self.MEAN)
+        self.addRow(self.MEDIAN)
         self.addRow(self.GOLD)
         self.addRow(self.SILVER)
         self.addRow(self.BRONZE)
@@ -32,6 +36,8 @@ class FutDataWidget(GridWidget):
         self.fut_manager.data_path = data_path
         self.set_value(self.PLAYER_COUNT, f'{self.fut_manager.player_count:,}')
         self.set_value(self.TOTAL_VALUE, f'{self.fut_manager.total_player_rating:,}')
+        self.set_value(self.MEAN, f'{self.fut_manager.mean_player_rating:.1f}')
+        self.set_value(self.MEDIAN, self.fut_manager.median_player_rating)
         self.set_value(self.GOLD, self.fut_manager.num_gold)
         self.set_value(self.SILVER, self.fut_manager.num_silver)
         self.set_value(self.BRONZE, self.fut_manager.num_bronze)
