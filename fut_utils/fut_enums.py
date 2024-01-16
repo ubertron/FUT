@@ -2,13 +2,21 @@ from enum import Enum
 
 
 class FutAttr(Enum):
-    surname: str = 'Lastname'
-    name: str = 'Name'
-    rating: str = 'Rating'
-    position: str = 'Position'
-    id: str = 'Id'
     club: str = 'Club'
+    id: str = 'Id'
     league: str = 'League'
+    name: str = 'Name'
+    position: str = 'Position'
+    rarity: str = 'Rarity'
+    rating: str = 'Rating'
+    surname: str = 'Lastname'
+
+
+class Rarity(Enum):
+    common: str = 'Common'
+    rare: str = 'Rare'
+    totw: str = 'Team of the Week'
+
 
 
 class League(Enum):

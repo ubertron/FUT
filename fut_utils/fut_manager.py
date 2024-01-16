@@ -240,13 +240,23 @@ class FutManager:
         for key, value in x.to_dict().items():
             print(f'{key}: {list(value.values())[0]}')
 
+    def value_list(self, attr: FutAttr) -> List[str]:
+        """
+        Returns a unique list of all the values of an attribute
+        :param attr:
+        :return:
+        """
+        result = list(set(self.data[attr.value].tolist()))
+        result.sort(key=lambda x: x.lower())
+        return result
+
 
 if __name__ == '__main__':
     fm = FutManager()
-    fm.generate_histogram()
+    # fm.generate_histogram()
     # print('\n'.join(fm.leagues))
     # fm.league_analyser(League.d1_arkema, format_data=True)
-    fm.league_analyser(League.wsl)
+    # fm.league_analyser(League.wsl)
     # fm.league_analyser(League.serie_a)
     # FutManager().find(key_value_pairs=[(FutManager().RATING, 83)])
     # FutManager().find(key_value_pairs=[(FutManager().POSITION, 'CB')])
@@ -264,3 +274,6 @@ if __name__ == '__main__':
     # FutManager().find_value(FutAttr.surname, 'Benzema', format_data=True)
     # FutManager().find_value(FutAttr.surname, 'Saka', format_data=True)
     # print(FutManager().find_value(FutAttr.surname, 'Kane')[FutAttr.position.value])  # ST 25
+    # print(fm.find_value(FutAttr.surname, 'de Vrij')['Rarity'])
+    print('\n'.join(fm.value_list(FutAttr.rarity)))
+
