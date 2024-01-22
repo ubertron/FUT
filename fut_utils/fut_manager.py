@@ -3,6 +3,7 @@ import os
 import logging
 import matplotlib.pyplot as plt
 import shutil
+import statistics
 
 from datetime import datetime
 from pandas.core.frame import DataFrame
@@ -10,6 +11,7 @@ from pathlib import Path
 from typing import Tuple, Optional, Union, List
 
 from core.enums import FileExtension
+from core import PROJECT_ROOT
 from fut_utils import POSITION_DICT
 from fut_utils.fut_enums import FutAttr, League
 
@@ -101,6 +103,10 @@ class FutManager:
     @property
     def median_player_rating(self) -> int:
         return int(self.player_ratings.median())
+
+    @property
+    def mode_player_rating(self) -> int:
+        return statistics.mode(self.player_ratings.tolist())
 
     @property
     def num_gold(self) -> int:
@@ -253,7 +259,7 @@ class FutManager:
 
 if __name__ == '__main__':
     fm = FutManager()
-    # fm.generate_histogram()
+    fm.generate_histogram()
     # print('\n'.join(fm.leagues))
     # fm.league_analyser(League.d1_arkema, format_data=True)
     # fm.league_analyser(League.wsl)
@@ -275,5 +281,5 @@ if __name__ == '__main__':
     # FutManager().find_value(FutAttr.surname, 'Saka', format_data=True)
     # print(FutManager().find_value(FutAttr.surname, 'Kane')[FutAttr.position.value])  # ST 25
     # print(fm.find_value(FutAttr.surname, 'de Vrij')['Rarity'])
-    print('\n'.join(fm.value_list(FutAttr.rarity)))
+    # print('\n'.join(fm.value_list(FutAttr.rarity)))
 

@@ -30,6 +30,13 @@ class GridWidget(QWidget):
         button = QPushButton(text)
         return self.addWidget(button, row, col, row_span, col_span)
 
+    def clear(self):
+        """
+        Clear the layout
+        """
+        for i in reversed(range(self.layout().count())):
+            self.layout().itemAt(i).widget().setParent(None)
+
 
 if __name__ == '__main__':
     from PySide6.QtWidgets import QApplication
@@ -45,5 +52,7 @@ if __name__ == '__main__':
     _label = QLabel('test5')
     _label.setStyleSheet('background-color: red')
     grid_widget.addWidget(_label, 2, 0, 1, 2)
+    grid_widget.clear()
+    grid_widget.addWidget(QLabel('test1'), 0, 0, 1, 1)
     grid_widget.show()
     app.exec()

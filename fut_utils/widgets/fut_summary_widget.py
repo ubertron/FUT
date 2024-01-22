@@ -18,7 +18,6 @@ class FutSummaryWidget(GenericWidget):
         self.fut_manager_ui = fut_manager_ui
         button_bar: GenericWidget = self.add_widget(GenericWidget(alignment=Alignment.horizontal, spacing=2))
         self.data_combo_box: QComboBox = button_bar.add_widget(QComboBox())
-        button_bar.add_stretch()
         button_bar.setSizePolicy(QSizePolicy.Preferred, QSizePolicy.Maximum)
         data_panel: GenericWidget = self.add_widget(GenericWidget(alignment=Alignment.horizontal))
         self.data_widget: FutDataWidget = data_panel.add_widget(FutDataWidget(fut_manager=self.fut_manager))

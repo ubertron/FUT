@@ -40,6 +40,7 @@ class FutManagerUI(GenericWidget):
         self.fut_manager.generate_histogram()   # get latest histogram
         self.tab_widget.setCurrentIndex(self.settings.value(self.TAB_INDEX, 0))
         self.tab_widget.currentChanged.connect(self.tab_widget_changed)
+        self.setStyleSheet('font: 10pt "Verdana";')
 
     @property
     def data_files(self) -> List[Path]:
@@ -57,5 +58,5 @@ if __name__ == '__main__':
     qdarktheme.setup_theme()
     fut_manager = FutManagerUI()
     fut_manager.show()
-    fut_manager.resize(480, 312)
+    fut_manager.resize(512, 320)
     app.exec()
