@@ -287,13 +287,15 @@ class FutManager:
         :return:
         """
         result = list(set(self.data[attr.value].tolist()))
-        result.sort(key=lambda x: x.lower())
+        result.sort(key=lambda x: str(x).lower())
         return result
 
 
 if __name__ == '__main__':
     fm = FutManager()
-    fm.generate_histogram()
+    # fm.generate_histogram()
+    # print(fm.data.columns)
+    # print(fm.value_list(FutAttr.loans))
     # FutManager()._validate_data_file(DOWNLOADED_DATA_FILE)
     # print('\n'.join(fm.leagues))
     # fm.league_analyser(League.d1_arkema, format_data=True)

@@ -5,6 +5,7 @@ class FutAttr(Enum):
     club: str = 'Club'
     id: str = 'Id'
     league: str = 'League'
+    loans: str = 'Loans'
     name: str = 'Name'
     position: str = 'Position'
     rarity: str = 'Rarity'

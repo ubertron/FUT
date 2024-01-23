@@ -55,9 +55,8 @@ class FutLeagueWidget(GenericWidget):
         player_dict = OrderedDict()
 
         for key, value in position_map.items():
-            values = value.iterrows()
-            player_data = [self.format_player(row) for i, row in values]
-            player_data.sort(key=lambda i: i.lower())
+            value.sort_values(by=FutAttr.rating.value, ascending=False, inplace=True)
+            player_data = [self.format_player(row) for i, row in value.iterrows()]
             player_info = []
             idx = 0
 
