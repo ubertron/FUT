@@ -1,5 +1,6 @@
 from pathlib import Path
 
+CREATOR: str = 'Robosoft'
 DATA_DIR: Path = Path(__file__).parent.joinpath('data')
 PLOTS_DIR: Path = Path(__file__).parent.joinpath('plots')
 POSITION_DICT: dict = {
@@ -19,4 +20,3 @@ POSITION_DICT: dict = {
     25: 'ST',
     27: 'LW',
 }
-CREATOR = 'Robosoft'

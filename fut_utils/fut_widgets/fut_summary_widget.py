@@ -4,7 +4,7 @@ from pathlib import Path
 
 from core.enums import Alignment, FileExtension
 from fut_utils.fut_manager import FutManager
-from fut_utils.widgets.fut_data_widget import FutDataWidget
+from fut_utils.fut_widgets.fut_data_widget import FutDataWidget
 from fut_utils import DATA_DIR, PLOTS_DIR
 from widgets.generic_widget import GenericWidget
 from widgets.image_label import ImageLabel

@@ -28,7 +28,7 @@ PLOTS_DIR: Path = Path(__file__).parent.joinpath('plots')
 
 class FutManager:
     def __init__(self, data_path: Optional[Path] = DEFAULT_DATA_FILE, use_last_data: bool = True):
-        self._handle_default_data_file()
+        self._handle_downloaded_data_file()
         self.use_last_data: bool = use_last_data
         self.data_path: Path or None = data_path
 
@@ -57,10 +57,18 @@ class FutManager:
     def data(self) -> DataFrame:
         return pd.read_csv(self.data_path.as_posix())
 
-    @staticmethod
-    def _handle_default_data_file():
+    def _handle_downloaded_data_file(self):
         if DOWNLOADED_DATA_FILE.exists() and not DEFAULT_DATA_FILE.exists():
-            shutil.move(DOWNLOADED_DATA_FILE, DEFAULT_DATA_FILE)
+            result = self._validate_data_file(DOWNLOADED_DATA_FILE)
+            if result:
+                shutil.move(DOWNLOADED_DATA_FILE, DEFAULT_DATA_FILE)
+            else:
+                logging.error('Downloaded data file invalid.')
+
+    @staticmethod
+    def _validate_data_file(csv_path: Path):
+        data: DataFrame = pd.read_csv(csv_path.as_posix())
+        return len(data.index) > 1
 
     def _rename_default_data_file(self, data_path: Path):
         """
@@ -141,6 +149,14 @@ class FutManager:
 
     def find_max(self, attribute: FutAttr, value: int, input_data: Optional[DataFrame] = None,
                  format_data: bool = False) -> DataFrame:
+        """
+        Find the row with the highest value of a given attribute
+        :param attribute:
+        :param value:
+        :param input_data:
+        :param format_data:
+        :return:
+        """
         data = input_data if input_data else self.data
         result = data.loc[self.data[attribute.value] <= value]
 
@@ -150,11 +166,23 @@ class FutManager:
 
     @staticmethod
     def format_data(data: DataFrame):
+        """
+        Log the passed rows of data
+        :param data:
+        """
         for idx, row in data.iterrows():
             print(f'Index: {idx}\n{row}\n\n')
 
     def find_value(self, attribute: FutAttr, value: Union[str, int], input_data: Optional[DataFrame] = None,
                    format_data: bool = False) -> DataFrame:
+        """
+        Find rows with a specific value of a given attribute
+        :param attribute:
+        :param value:
+        :param input_data:
+        :param format_data:
+        :return:
+        """
         data = input_data if input_data else self.data
         result = data.loc[data[attribute.value] == value]
 
@@ -164,6 +192,12 @@ class FutManager:
         return result
 
     def find(self, key_value_pairs: list, first_only: bool = False) -> DataFrame:
+        """
+        Find items that match key-value pairs
+        :param key_value_pairs:
+        :param first_only:
+        :return:
+        """
         player_list = self.data
 
         for pair in key_value_pairs:
@@ -260,6 +294,7 @@ class FutManager:
 if __name__ == '__main__':
     fm = FutManager()
     fm.generate_histogram()
+    # FutManager()._validate_data_file(DOWNLOADED_DATA_FILE)
     # print('\n'.join(fm.leagues))
     # fm.league_analyser(League.d1_arkema, format_data=True)
     # fm.league_analyser(League.wsl)
@@ -282,4 +317,3 @@ if __name__ == '__main__':
     # print(FutManager().find_value(FutAttr.surname, 'Kane')[FutAttr.position.value])  # ST 25
     # print(fm.find_value(FutAttr.surname, 'de Vrij')['Rarity'])
     # print('\n'.join(fm.value_list(FutAttr.rarity)))
-

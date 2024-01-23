@@ -4,8 +4,8 @@ from PySide6.QtCore import QSettings
 from typing import List
 from pathlib import Path
 
-from fut_utils.widgets.fut_summary_widget import FutSummaryWidget
-from fut_utils.widgets.fut_league_widget import FutLeagueWidget
+from fut_utils.fut_widgets.fut_summary_widget import FutSummaryWidget
+from fut_utils.fut_widgets.fut_league_widget import FutLeagueWidget
 from widgets.generic_widget import GenericWidget
 from core.enums import Alignment, FileExtension
 from fut_utils.fut_manager import FutManager
