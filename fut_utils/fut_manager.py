@@ -13,7 +13,7 @@ from typing import Tuple, Optional, Union, List
 from core.enums import FileExtension
 from core import PROJECT_ROOT
 from fut_utils import POSITION_DICT
-from fut_utils.fut_enums import FutAttr, League
+from fut_utils.fut_enums import FutAttr, League, Rarity
 
 logging.basicConfig()
 logging.getLogger().setLevel(logging.INFO)
@@ -292,8 +292,8 @@ class FutManager:
 
 
 if __name__ == '__main__':
-    fm = FutManager()
-    # fm.generate_histogram()
+    fm: FutManager = FutManager()
+    fm.generate_histogram()
     # print(fm.data.columns)
     # print(fm.value_list(FutAttr.loans))
     # FutManager()._validate_data_file(DOWNLOADED_DATA_FILE)
@@ -311,11 +311,4 @@ if __name__ == '__main__':
     # FutManager().find_max(FutAttribute.RATING, 70, format_data=True)
     # print(FutManager().find_value(FutAttribute.SURNAME, 'Messi')['Club'].to_string())
     # fm.list_clubs(input_data=fm.find_max(FutAttr.Rating, value=58), format_results=True)
-    # print(fm.data.iloc[0])
-    # FutManager().find_value(FutAttr.surname, 'Lavelle', format_data=True)
-    # FutManager().find_value(FutAttr.surname, 'Bennacer', format_data=True)
-    # FutManager().find_value(FutAttr.surname, 'Benzema', format_data=True)
-    # FutManager().find_value(FutAttr.surname, 'Saka', format_data=True)
-    # print(FutManager().find_value(FutAttr.surname, 'Kane')[FutAttr.position.value])  # ST 25
-    # print(fm.find_value(FutAttr.surname, 'de Vrij')['Rarity'])
-    # print('\n'.join(fm.value_list(FutAttr.rarity)))
+    # print(result)
