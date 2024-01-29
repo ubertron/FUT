@@ -19,7 +19,6 @@ class Rarity(Enum):
     totw: str = 'Team of the Week'
 
 
-
 class League(Enum):
     bundesliga = 'Bundesliga'
     bundesliga_2 = 'Bundesliga 2'
