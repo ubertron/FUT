@@ -1,6 +1,8 @@
 from typing import Union
 from pandas import DataFrame
 from pathlib import Path
+from collections import OrderedDict
+import pandas as pd
 
 from widgets.grid_widget import GridWidget
 from widgets.generic_widget import GenericWidget
@@ -50,7 +52,34 @@ class FutDataWidget(GridWidget):
         return self.layout().rowCount()
 
     def get_row_index(self, key: str):
-        return next(i for i in range(1, self.row_count) if self.layout().itemAtPosition(i, 0).widget().text() == key)
+        return next(i for i in range(1, self.row_count) if self.get_item(i, 0) == key)
 
     def set_value(self, key: str, value: Union[str, int]):
         self.layout().itemAtPosition(self.get_row_index(key), 1).widget().setText(str(value))
+
+    def get_item(self, row: int, column: int) -> str:
+        return self.layout().itemAtPosition(row, column).widget().text()
+
+    @property
+    def data_to_text(self) -> str:
+        data_dict = OrderedDict()
+
+        for i in range(self.row_count):
+            if self.layout().itemAtPosition(i, 1) is not None:
+                data_dict[self.get_item(i, 0)] = self.get_item(i, 1)
+
+        df = DataFrame(data_dict.items())
+        markdown = df.to_markdown(index=False, tablefmt='pipe', colalign=['center']*len(df.columns))
+
+        return '\n'.join(markdown.split('\n')[2:])
+
+    @property
+    def data_to_csv(self) -> str:
+        data_dict = OrderedDict()
+
+        for i in range(self.row_count):
+            if self.layout().itemAtPosition(i, 1) is not None:
+                data_dict[self.get_item(i, 0)] = self.get_item(i, 1)
+
+        df = DataFrame(data_dict.items())
+        return df.to_csv()

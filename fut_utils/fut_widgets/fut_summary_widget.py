@@ -1,6 +1,7 @@
 from PySide6.QtWidgets import QSizePolicy, QComboBox, QLabel
 from typing import List
 from pathlib import Path
+import pyperclip
 
 from core.enums import Alignment, FileExtension
 from fut_utils.fut_manager import FutManager
@@ -17,7 +18,10 @@ class FutSummaryWidget(GenericWidget):
         super(FutSummaryWidget, self).__init__()
         self.fut_manager_ui = fut_manager_ui
         button_bar: GenericWidget = self.add_widget(GenericWidget(alignment=Alignment.horizontal, spacing=2))
-        self.data_combo_box: QComboBox = button_bar.add_widget(QComboBox())
+        self.copy_button = button_bar.add_button('Copy Data As Text', event=self.copy_button_clicked)
+        self.csv_button = button_bar.add_button('Copy Data As CSV', event=self.csv_button_clicked)
+        button_bar.add_stretch()
+        self.data_combo_box: QComboBox = self.add_widget(QComboBox())
         button_bar.setSizePolicy(QSizePolicy.Preferred, QSizePolicy.Maximum)
         data_panel: GenericWidget = self.add_widget(GenericWidget(alignment=Alignment.horizontal))
         self.data_widget: FutDataWidget = data_panel.add_widget(FutDataWidget(fut_manager=self.fut_manager))
@@ -41,6 +45,12 @@ class FutSummaryWidget(GenericWidget):
     @property
     def current_histogram(self) -> Path:
         return PLOTS_DIR.joinpath(f'{self.data_combo_box.currentText()}{FileExtension.png.value}')
+
+    def copy_button_clicked(self):
+        pyperclip.copy(self.data_widget.data_to_text)
+
+    def csv_button_clicked(self):
+        pyperclip.copy(self.data_widget.data_to_csv)
 
     def data_combo_box_changed(self):
         """

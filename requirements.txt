@@ -1,5 +1,7 @@
 gitpython
 matplotlib
 pandas
+pyperclip
 PySide6
 pyqtdarktheme
+tabulate
