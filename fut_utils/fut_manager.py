@@ -117,6 +117,10 @@ class FutManager:
         return statistics.mode(self.player_ratings.tolist())
 
     @property
+    def num_totw(self) -> int:
+        return len(self.find_value(attribute=FutAttr.rarity, value=Rarity.totw.value))
+
+    @property
     def num_gold(self) -> int:
         return len(list(filter(lambda x: 75 <= x <= 100, self.player_ratings.to_list())))
 

@@ -15,6 +15,7 @@ class FutDataWidget(GridWidget):
     MEAN = 'Mean'
     MEDIAN = 'Median'
     MODE = 'Mode'
+    TOTW = 'Team Of The Week'
     GOLD = 'Gold'
     SILVER = 'Silver'
     BRONZE = 'Bronze'
@@ -27,22 +28,32 @@ class FutDataWidget(GridWidget):
         self.add_row(self.MEAN)
         self.add_row(self.MEDIAN)
         self.add_row(self.MODE)
+        self.add_row(self.TOTW)
         self.add_row(self.GOLD)
         self.add_row(self.SILVER)
         self.add_row(self.BRONZE)
 
     def add_row(self, label: str):
+        """
+        Create a row in the grid with a title
+        :param label:
+        """
         num_rows = self.layout().rowCount()
         self.addLabel(label, row=num_rows, col=0)
         self.addLabel('<value>', row=num_rows, col=1)
 
     def update_data(self, data_path: Path):
+        """
+        Set the values in the grid from the data
+        :param data_path:
+        """
         self.fut_manager.data_path = data_path
         self.set_value(self.PLAYER_COUNT, f'{self.fut_manager.player_count:,}')
         self.set_value(self.TOTAL_VALUE, f'{self.fut_manager.total_player_rating:,}')
         self.set_value(self.MEAN, f'{self.fut_manager.mean_player_rating:.1f}')
         self.set_value(self.MEDIAN, self.fut_manager.median_player_rating)
         self.set_value(self.MODE, self.fut_manager.mode_player_rating)
+        self.set_value(self.TOTW, self.fut_manager.num_totw)
         self.set_value(self.GOLD, self.fut_manager.num_gold)
         self.set_value(self.SILVER, self.fut_manager.num_silver)
         self.set_value(self.BRONZE, self.fut_manager.num_bronze)
@@ -52,9 +63,19 @@ class FutDataWidget(GridWidget):
         return self.layout().rowCount()
 
     def get_row_index(self, key: str):
+        """
+        Get the index of a row by the key
+        :param key:
+        :return:
+        """
         return next(i for i in range(1, self.row_count) if self.get_item(i, 0) == key)
 
     def set_value(self, key: str, value: Union[str, int]):
+        """
+        Set the value of a row by key
+        :param key:
+        :param value:
+        """
         self.layout().itemAtPosition(self.get_row_index(key), 1).widget().setText(str(value))
 
     def get_item(self, row: int, column: int) -> str:
