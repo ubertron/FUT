@@ -44,7 +44,9 @@ class FutManagerUI(GenericWidget):
 
     @property
     def data_files(self) -> List[Path]:
-        return [x.stem for x in DATA_DIR.glob('club-analyzer*')]
+        result = [x.stem for x in DATA_DIR.glob('club-analyzer*')]
+        result.sort()
+        return result
 
     def tab_widget_changed(self, arg):
         self.settings.setValue(self.TAB_INDEX, arg)
