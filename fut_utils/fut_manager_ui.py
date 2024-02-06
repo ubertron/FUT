@@ -60,5 +60,5 @@ if __name__ == '__main__':
     qdarktheme.setup_theme()
     fut_manager = FutManagerUI()
     fut_manager.show()
-    fut_manager.resize(512, 320)
+    fut_manager.resize(800, 560)
     app.exec()
