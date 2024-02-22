@@ -140,7 +140,7 @@ class FutManager:
     def histogram_path(self) -> Path:
         return PLOTS_DIR.joinpath(f'{self.data_path.stem}{FileExtension.png.value}')
 
-    def generate_histogram(self):
+    def generate_histogram(self, show: bool = False):
         """
         Create the histogram image
         """
@@ -149,7 +149,9 @@ class FutManager:
             result = pd.DataFrame({FutAttr.rating.value: self.data[FutAttr.rating.value]})
             result[FutAttr.rating.value].hist(bins=self.bins)
             plt.savefig(self.histogram_path)
-            plt.show()
+
+            if show:
+                plt.show()
 
     def find_max(self, attribute: FutAttr, value: int, input_data: Optional[DataFrame] = None,
                  format_data: bool = False) -> DataFrame:
@@ -297,7 +299,7 @@ class FutManager:
 
 if __name__ == '__main__':
     fm: FutManager = FutManager()
-    fm.generate_histogram()
+    fm.generate_histogram(show=True)
     # print(fm.data.columns)
     # print(fm.value_list(FutAttr.loans))
     # FutManager()._validate_data_file(DOWNLOADED_DATA_FILE)

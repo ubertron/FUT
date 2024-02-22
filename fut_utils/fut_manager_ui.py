@@ -26,7 +26,7 @@ class FutManagerUI(GenericWidget):
         super(FutManagerUI, self).__init__(title=self.TITLE, margin=4)
         self.settings: QSettings = QSettings(CREATOR, self.TITLE)
         logging.debug(self.settings.fileName())
-        self.fut_manager: FutManager = FutManager(data_path=None, use_last_data=False)
+        self.fut_manager: FutManager = FutManager()
         self.tab_widget: QTabWidget = self.add_widget(QTabWidget())
         self.tab_widget.addTab(FutSummaryWidget(fut_manager_ui=self), self.SUMMARY)
         self.tab_widget.addTab(FutLeagueWidget(fut_manager_ui=self), self.LEAGUES)
