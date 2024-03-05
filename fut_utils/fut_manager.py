@@ -14,6 +14,7 @@ from core.enums import FileExtension
 from core import PROJECT_ROOT
 from fut_utils import POSITION_DICT
 from fut_utils.fut_enums import FutAttr, League, Rarity
+from core import git_utils
 
 logging.basicConfig()
 logging.getLogger().setLevel(logging.INFO)
@@ -58,8 +59,12 @@ class FutManager:
         return pd.read_csv(self.data_path.as_posix())
 
     def _handle_downloaded_data_file(self):
+        """
+        If the club analyzer file is in the downloads directory, transfer it locally
+        """
         if DOWNLOADED_DATA_FILE.exists() and not DEFAULT_DATA_FILE.exists():
             result = self._validate_data_file(DOWNLOADED_DATA_FILE)
+
             if result:
                 shutil.move(DOWNLOADED_DATA_FILE, DEFAULT_DATA_FILE)
             else:
@@ -73,13 +78,15 @@ class FutManager:
     def _rename_default_data_file(self, data_path: Path):
         """
         Renames the data file by date
+        Adds to the changelist
         :param data_path:
         """
         if data_path.exists():
             creation_date = os.path.getmtime(data_path)
             nice_date = datetime.utcfromtimestamp(creation_date).strftime('%Y_%m_%d')
-            self.data_path = data_path.parent.joinpath(f'{data_path.stem}_{nice_date}{FileExtension.csv.value}')
+            self.data_path: Path = data_path.parent.joinpath(f'{data_path.stem}_{nice_date}{FileExtension.csv.value}')
             os.rename(data_path.as_posix(), self.data_path.as_posix())
+            git_utils.GitManager().add(self.data_path.relative_to(PROJECT_ROOT))
 
     @property
     def bins(self) -> list[int]:
@@ -143,12 +150,14 @@ class FutManager:
     def generate_histogram(self, show: bool = False):
         """
         Create the histogram image
+        Add to changelist
         """
         if self.data_path is not None:
             self.histogram_path.parent.mkdir(parents=True, exist_ok=True)
             result = pd.DataFrame({FutAttr.rating.value: self.data[FutAttr.rating.value]})
             result[FutAttr.rating.value].hist(bins=self.bins)
             plt.savefig(self.histogram_path)
+            git_utils.GitManager().add(self.histogram_path.relative_to(PROJECT_ROOT))
 
             if show:
                 plt.show()
@@ -299,7 +308,7 @@ class FutManager:
 
 if __name__ == '__main__':
     fm: FutManager = FutManager()
-    fm.generate_histogram(show=True)
+    # fm.generate_histogram(show=True)
     # print(fm.data.columns)
     # print(fm.value_list(FutAttr.loans))
     # FutManager()._validate_data_file(DOWNLOADED_DATA_FILE)
