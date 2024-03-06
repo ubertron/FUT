@@ -1,6 +1,7 @@
 import logging
 from PySide6.QtWidgets import QSizePolicy, QComboBox, QLabel, QTabWidget
 from PySide6.QtCore import QSettings
+from PySide6.QtGui import QPixmap
 from typing import List
 from pathlib import Path
 
@@ -10,6 +11,7 @@ from widgets.generic_widget import GenericWidget
 from core.enums import Alignment, FileExtension
 from fut_utils.fut_manager import FutManager
 from fut_utils import DATA_DIR, CREATOR
+from core import image_path
 
 
 logging.basicConfig()
@@ -58,6 +60,7 @@ if __name__ == '__main__':
 
     app = QApplication()
     qdarktheme.setup_theme()
+    app.setWindowIcon(QPixmap(image_path('fut_logo.png').as_posix()))
     fut_manager = FutManagerUI()
     fut_manager.show()
     fut_manager.resize(800, 560)
