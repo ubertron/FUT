@@ -10,9 +10,8 @@ from fut_utils.fut_widgets.fut_league_widget import FutLeagueWidget
 from widgets.generic_widget import GenericWidget
 from core.enums import Alignment, FileExtension
 from fut_utils.fut_manager import FutManager
-from fut_utils import DATA_DIR, CREATOR
-from core import image_path
-
+from fut_utils import DATA_DIR
+from core import image_path, CREATOR
 
 logging.basicConfig()
 logging.getLogger().setLevel(logging.INFO)

@@ -7,3 +7,6 @@ IMAGE_DIR: Path = PROJECT_ROOT.joinpath('images')
 
 def image_path(image_name: str) -> Path:
     return IMAGE_DIR.joinpath(image_name)
+
+
+CREATOR: str = 'Robosoft'
