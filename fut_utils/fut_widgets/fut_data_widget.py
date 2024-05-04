@@ -16,6 +16,8 @@ class FutDataWidget(GridWidget):
     MEDIAN = 'Median'
     MODE = 'Mode'
     TOTW = 'Team Of The Week'
+    TOTS = 'Team Of The Season'
+    TOTS_MOMENTS = 'Team Of The Season Moments'
     GOLD = 'Gold'
     SILVER = 'Silver'
     BRONZE = 'Bronze'
@@ -29,6 +31,8 @@ class FutDataWidget(GridWidget):
         self.add_row(self.MEDIAN)
         self.add_row(self.MODE)
         self.add_row(self.TOTW)
+        self.add_row(self.TOTS)
+        self.add_row(self.TOTS_MOMENTS)
         self.add_row(self.GOLD)
         self.add_row(self.SILVER)
         self.add_row(self.BRONZE)
@@ -54,6 +58,8 @@ class FutDataWidget(GridWidget):
         self.set_value(self.MEDIAN, self.fut_manager.median_player_rating)
         self.set_value(self.MODE, self.fut_manager.mode_player_rating)
         self.set_value(self.TOTW, self.fut_manager.num_totw)
+        self.set_value(self.TOTS, self.fut_manager.num_tots)
+        self.set_value(self.TOTS_MOMENTS, self.fut_manager.num_tots_moments)
         self.set_value(self.GOLD, self.fut_manager.num_gold)
         self.set_value(self.SILVER, self.fut_manager.num_silver)
         self.set_value(self.BRONZE, self.fut_manager.num_bronze)

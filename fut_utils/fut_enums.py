@@ -17,6 +17,8 @@ class Rarity(Enum):
     common: str = 'Common'
     rare: str = 'Rare'
     totw: str = 'Team of the Week'
+    tots: str = 'Team of the Season'
+    tots_moments: str = 'TEAM OF THE SEASON MOMENTS'
 
 
 class League(Enum):

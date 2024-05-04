@@ -128,6 +128,14 @@ class FutManager:
         return len(self.find_value(attribute=FutAttr.rarity, value=Rarity.totw.value))
 
     @property
+    def num_tots(self) -> int:
+        return len(self.find_value(attribute=FutAttr.rarity, value=Rarity.tots.value))
+
+    @property
+    def num_tots_moments(self) -> int:
+        return len(self.find_value(attribute=FutAttr.rarity, value=Rarity.tots_moments.value))
+
+    @property
     def num_gold(self) -> int:
         return len(list(filter(lambda x: 75 <= x <= 100, self.player_ratings.to_list())))
 
