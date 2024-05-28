@@ -10,3 +10,4 @@ def image_path(image_name: str) -> Path:
 
 
 CREATOR: str = 'Robosoft'
+Path.home().joinpath('Autodesk/Bifrost/Compounds').mkdir(parents=True, exist_ok=True)
