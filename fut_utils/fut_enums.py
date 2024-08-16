@@ -15,6 +15,10 @@ class FutAttr(Enum):
 
 class Rarity(Enum):
     common: str = 'Common'
+    futties: str = 'FUTTIES'
+    futties_hero: str = 'FUTTIES Hero'
+    futties_icon: str = 'FUTTIES Icon'
+    futties_premium: str = 'FUTTIES Premium'
     rare: str = 'Rare'
     totw: str = 'Team of the Week'
     tots: str = 'Team of the Season'

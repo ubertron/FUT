@@ -1,0 +1,1626 @@
+Id,Lastname,Name,Rating,Position,Rarity,Skill Moves,Weak Foot,Chemistry,Country,League,Club,Untradeable,Loans,Bought For,Price Range,Discard Value,Location
+20801,dos Santos Aveiro,C. Ronaldo,96,25,FUTTIES In Progress EVO,5,4,Basic,Portugal,ROSHN Saudi League,Al Nassr,true,0,0,3600-13000,0,CLUB
+23823,Johansson,Andreas,65,5,Common,2,3,Basic,Sweden,Allsvenskan,Halmstads BK,false,0,0,150-10000,98,CLUB
+138412,Milner,James,77,14,Common,3,4,Basic,England,Premier League,Brighton,true,0,0,350-10000,0,CLUB
+146562,Cazorla González,Santiago,77,14,Common,4,5,Basic,Spain,LALIGA HYPERMOTION,R. Oviedo,true,0,0,350-10000,0,CLUB
+146947,Vesga Arruti,Mikel,78,14,Common,3,3,Basic,Spain,LALIGA EA SPORTS,Athletic Club,true,0,0,350-10000,0,CLUB
+152908,Young,Ashley,76,7,Common,4,3,Basic,England,Premier League,Everton,true,0,0,350-10000,0,CLUB
+155355,Lee,Chung Yong,70,16,Rare,4,4,Basic,Korea Republic,K League 1,Ulsan Hyundai,true,0,0,250-10000,0,CLUB
+162220,Bolat,Sinan,72,0,Common,1,4,GK Basic,Türkiye,1A Pro League,KVC Westerlo,false,0,0,150-10000,108,CLUB
+163489,Consigli,Andrea,79,0,Common,1,3,GK Basic,Italy,Serie A TIM,Sassuolo,true,0,0,350-10000,0,CLUB
+163619,Hayes,Jonny,67,7,Common,3,4,Basic,Republic of Ireland,cinch Premiership,Aberdeen,false,0,0,150-10000,101,CLUB
+163705,Mandanda,Steve,79,0,Common,1,2,GK Basic,France,Ligue 1 Uber Eats,Stade Rennais FC,true,0,0,350-10000,0,CLUB
+170320,De Silvestri,Lorenzo,73,3,Rare,3,3,Basic,Italy,Serie A TIM,Bologna,true,0,0,300-10000,0,CLUB
+172203,Forster,Fraser,76,0,Common,1,5,GK Basic,England,Premier League,Spurs,true,0,0,350-10000,0,CLUB
+172522,Wass,Daniel,76,3,Common,3,3,Basic,Denmark,3F Superliga,Brøndby IF,true,0,0,350-10000,0,CLUB
+173030,Trejo,Óscar,78,18,Common,3,4,Basic,Argentina,LALIGA EA SPORTS,Rayo Vallecano,true,0,0,350-10000,0,CLUB
+173521,Marcano Sierra,Iván,77,5,Common,2,3,Basic,Spain,Liga Portugal,FC Porto,true,0,0,350-10000,0,CLUB
+177553,Vieira de Freitas,Adelino André,69,7,Rare,4,4,Basic,Portugal,Hellas Liga,PAOK FC,false,0,0,250-10000,242,CLUB
+183108,Amrabat,Nordin,76,12,Common,3,2,Basic,Morocco,Hellas Liga,AEK Athens,true,0,0,350-10000,0,CLUB
+184457,van Wolfswinkel,Ricky,72,25,Common,3,4,Basic,Netherlands,Eredivisie,FC Twente,true,0,0,150-10000,0,CLUB
+185195,Ighalo,Odion,77,25,Common,4,4,Basic,Nigeria,ROSHN Saudi League,Al Wehda,true,0,0,350-10000,0,CLUB
+186146,Welbeck,Danny,76,25,Common,3,3,Basic,England,Premier League,Brighton,true,0,0,350-10000,0,CLUB
+186200,Borini,Fabio,77,16,Common,3,3,Basic,Italy,Serie BKT,Sampdoria,true,0,0,350-10000,0,CLUB
+186537,Stuani,Cristhian,77,25,Common,4,3,Basic,Uruguay,LALIGA EA SPORTS,Girona FC,false,0,0,350-10000,273,CLUB
+187132,Zambrano,Carlos,74,5,CONMEBOL Libertadores,2,3,Basic,Peru,CONMEBOL Libertadores,Alianza Lima,false,0,0,300-10000,259,CLUB
+188062,Getinger,Krystian,67,8,Common,2,4,Basic,Poland,PKO Bank Polski Ekstraklasa,Stal Mielec,true,0,0,150-10000,0,CLUB
+188803,Barcellos Freda,Taison,75,18,Common,4,3,Basic,Brazil,Hellas Liga,PAOK FC,true,0,0,300-10000,0,CLUB
+189053,Caputo,Francesco,76,25,Common,3,4,Basic,Italy,Serie A TIM,Empoli,true,0,0,350-10000,0,CLUB
+189117,Bürki,Roman,76,0,Common,1,2,GK Basic,Switzerland,Major League Soccer,St. Louis CITY SC,true,0,0,350-10000,0,CLUB
+189171,Chicksen,Adam,62,8,Common,2,3,Basic,Zimbabwe,EFL League Two,Notts County,false,0,0,150-10000,19,CLUB
+189472,Hernández Umpiérrez,Aridane,76,5,Common,2,3,Basic,Spain,LALIGA EA SPORTS,Rayo Vallecano,true,0,0,350-10000,0,CLUB
+189558,Salamon,Bartosz,71,5,Common,2,3,Basic,Poland,PKO Bank Polski Ekstraklasa,Lech Poznań,true,0,0,150-10000,0,CLUB
+189615,Cresswell,Aaron,77,7,Common,3,3,Basic,England,Premier League,West Ham,true,0,0,350-10000,0,CLUB
+189682,Mee,Ben,79,5,Common,2,3,Basic,England,Premier League,Brentford,true,0,0,350-10000,0,CLUB
+189908,Skorupski,Łukasz,77,0,Common,1,2,GK Basic,Poland,Serie A TIM,Bologna,true,0,0,350-10000,0,CLUB
+190059,Zuber,Steven,76,25,Common,3,4,Basic,Switzerland,Hellas Liga,AEK Athens,true,0,0,350-10000,0,CLUB
+190243,Hitz,Marwin,76,0,Common,1,3,GK Basic,Switzerland,Credit Suisse Super League,FC Basel 1893,true,0,0,350-10000,0,CLUB
+190584,Illarramendi,Asier,77,14,Common,3,3,Basic,Spain,Major League Soccer,FC Dallas,true,0,0,350-10000,0,CLUB
+190717,Antonio,Michail,78,25,Common,4,3,Basic,Jamaica,Premier League,West Ham,true,0,0,350-10000,0,CLUB
+190813,El Shaarawy,Stephan,78,16,Common,4,3,Basic,Italy,Serie A TIM,Roma FC,true,0,0,350-10000,0,CLUB
+190815,Blind,Daley,77,5,Common,3,3,Basic,Netherlands,LALIGA EA SPORTS,Girona FC,true,0,0,350-10000,0,CLUB
+191740,Herrera Agüera,Ander,79,14,Common,3,4,Basic,Spain,LALIGA EA SPORTS,Athletic Club,false,0,0,350-10000,280,CLUB
+192318,Götze,Mario,82,18,Rare,4,4,Basic,Germany,Bundesliga,Frankfurt,false,0,0,700-10000,582,CLUB
+192663,Klos,Fabian,68,25,Common,2,4,Basic,Germany,3. Liga,Arminia Bielefeld,true,0,0,150-10000,0,CLUB
+192715,Ramírez López,Juan Pedro,71,5,Common,2,3,Basic,Spain,LALIGA EA SPORTS,Girona FC,false,0,0,150-10000,107,CLUB
+192970,Mayor,Danny,67,16,Common,4,3,Basic,England,EFL League One,Fleetwood Town,true,0,0,150-10000,0,CLUB
+193011,Cook,Steve,72,5,Rare,2,3,Basic,England,EFL Championship,QPR,false,0,0,300-10000,252,CLUB
+193105,Areola,Alphonse,78,0,Common,1,3,GK Basic,France,Premier League,West Ham,true,0,0,350-10000,0,CLUB
+193198,Gudelj,Nemanja,80,5,Common,3,2,Basic,Serbia,LALIGA EA SPORTS,Sevilla FC,false,0,0,350-10000,284,CLUB
+193254,Trimmel,Christopher,77,2,Common,3,3,Basic,Austria,Bundesliga,Union Berlin,true,0,0,350-10000,0,CLUB
+193314,Fernández,Aitor,78,0,Common,1,2,GK Basic,Spain,LALIGA EA SPORTS,CA Osasuna,true,0,0,350-10000,0,CLUB
+193474,Gueye,Idrissa,77,10,Common,3,3,Basic,Senegal,Premier League,Everton,true,0,0,350-10000,0,CLUB
+193601,Pezzella,Germán,76,5,Common,2,3,Basic,Argentina,LALIGA EA SPORTS,Real Betis,true,0,0,350-10000,0,CLUB
+193683,Chavalerin,Xavier,72,14,Common,3,3,Basic,France,Ligue 2 BKT,ESTAC Troyes,false,0,0,150-10000,108,CLUB
+194404,Murara Neto,Norberto,78,0,Common,1,2,GK Basic,Brazil,Premier League,AFC Bournemouth,true,0,0,350-10000,0,CLUB
+195038,Kainz,Florian,78,18,Common,4,5,Basic,Austria,Bundesliga,1. FC Köln,true,0,0,350-10000,0,CLUB
+195086,Lovren,Dejan,78,5,Common,2,4,Basic,Croatia,Ligue 1 Uber Eats,OL,true,0,0,350-10000,0,CLUB
+195093,da Silva,Willian José,76,25,Common,4,4,Basic,Brazil,LALIGA EA SPORTS,Real Betis,true,0,0,350-10000,0,CLUB
+195859,Ings,Danny,77,25,Common,3,3,Basic,England,Premier League,West Ham,true,0,0,350-10000,0,CLUB
+196885,Lampe,Carlos,74,0,CONMEBOL Libertadores,1,3,GK Basic,Bolivia,CONMEBOL Libertadores,Bolívar,false,0,0,300-10000,259,CLUB
+197031,Ducksch,Marvin,77,25,Common,3,3,Basic,Germany,Bundesliga,SV Werder Bremen,true,0,0,350-10000,0,CLUB
+197445,Alaba,David,93,5,Winter Wildcards Evo,3,4,Basic,Austria,LALIGA EA SPORTS,Real Madrid,true,0,0,2100-10000,0,CLUB
+197813,Martin,Jonas,72,10,Rare,3,4,Basic,France,Ligue 1 Uber Eats,Stade Brestois 29,false,0,0,300-10000,252,CLUB
+197837,Boyata,Dedryck,71,5,Common,2,3,Basic,Belgium,1A Pro League,Club Brugge,false,0,0,150-10000,107,CLUB
+197948,Lejeune,Florian,77,5,Common,2,3,Basic,France,LALIGA EA SPORTS,Rayo Vallecano,true,0,0,350-10000,0,CLUB
+197975,Morsy,Sam,71,10,Common,2,3,Basic,Egypt,EFL Championship,Ipswich,false,0,0,150-10000,107,CLUB
+198009,Perin,Mattia,79,0,Common,1,3,GK Basic,Italy,Serie A TIM,Juventus,true,0,0,350-10000,0,CLUB
+198451,Rodríguez Vázquez,Daniel,78,12,Common,3,3,Basic,Spain,LALIGA EA SPORTS,RCD Mallorca,true,0,0,350-10000,0,CLUB
+198719,Redmond,Nathan,77,12,Common,4,3,Basic,England,Premier League,Burnley,true,0,0,350-10000,0,CLUB
+198861,Mendy,Nampalys,74,10,Rare,3,3,Basic,Senegal,Ligue 1 Uber Eats,RC Lens,true,0,0,300-10000,0,CLUB
+198946,D'Ambrosio,Danilo,77,5,Common,3,3,Basic,Italy,Serie A TIM,Monza,true,0,0,350-10000,0,CLUB
+198950,Sarabia García,Pablo,78,12,Common,4,4,Basic,Spain,Premier League,Wolves,false,0,0,350-10000,277,CLUB
+199069,Aboubakar,Vincent,79,25,Common,4,4,Basic,Cameroon,Trendyol Süper Lig,Beşiktaş,true,0,0,350-10000,0,CLUB
+199247,Fernández Iglesias,Alejandro,75,18,Common,3,4,Basic,Spain,LALIGA EA SPORTS,Cádiz CF,true,0,0,300-10000,0,CLUB
+199288,Losilla,Anthony,75,10,Common,3,3,Basic,France,Bundesliga,VfL Bochum,false,0,0,300-10000,266,CLUB
+199339,Riemann,Manuel,77,0,Common,1,5,GK Basic,Germany,Bundesliga,VfL Bochum,true,0,0,350-10000,0,CLUB
+199434,Tadić,Dušan,82,27,Common,4,3,Basic,Serbia,Trendyol Süper Lig,Fenerbahçe,true,0,0,350-10000,0,CLUB
+199439,Gregoritsch,Michael,79,25,Common,3,3,Basic,Austria,Bundesliga,SC Freiburg,true,0,0,350-10000,0,CLUB
+199602,Guidetti,John,68,25,Common,4,3,Basic,Sweden,Allsvenskan,AIK,true,0,0,150-10000,0,CLUB
+199897,Höfler,Nicolas,76,10,Common,2,3,Basic,Germany,Bundesliga,SC Freiburg,true,0,0,350-10000,0,CLUB
+200094,Ozdoev,Magomed,76,14,Common,3,4,Basic,Russia,Hellas Liga,PAOK FC,true,0,0,350-10000,0,CLUB
+200110,Bizot,Marco,76,0,Common,1,2,GK Basic,Netherlands,Ligue 1 Uber Eats,Stade Brestois 29,true,0,0,350-10000,0,CLUB
+200458,Digne,Lucas,79,7,Common,3,2,Basic,France,Premier League,Aston Villa,true,0,0,350-10000,0,CLUB
+200610,Volland,Kevin,79,25,Common,3,4,Basic,Germany,Bundesliga,Union Berlin,true,0,0,350-10000,0,CLUB
+200752,Nunes Jesus,Juan Guilherme,75,5,Common,2,3,Basic,Brazil,Serie A TIM,Napoli FC,true,0,0,300-10000,0,CLUB
+200930,Tremolada,Luca,71,18,Rare,3,3,Basic,Italy,Serie BKT,Modena,true,0,0,250-10000,0,CLUB
+201143,Mandi,Aïssa,76,5,Common,2,3,Basic,Algeria,LALIGA EA SPORTS,Villarreal CF,true,0,0,350-10000,0,CLUB
+201438,Van Der Bruggen,Hannes,68,14,Common,3,4,Basic,Belgium,1A Pro League,Cercle Brugge,false,0,0,150-10000,102,CLUB
+202048,Coady,Conor,76,5,Common,2,3,Basic,England,EFL Championship,Leicester City,true,0,0,350-10000,0,CLUB
+202562,Roussillon,Jérôme,76,8,Common,3,2,Basic,France,Bundesliga,Union Berlin,true,0,0,350-10000,0,CLUB
+202750,Boly,Willy,76,5,Common,2,4,Basic,Ivory Coast,Premier League,Nott'm Forest,true,0,0,350-10000,0,CLUB
+202848,Caprari,Gianluca,77,21,Common,3,4,Basic,Italy,Serie A TIM,Monza,true,0,0,350-10000,0,CLUB
+202986,Shin,Jin Ho,71,14,Common,3,4,Basic,Korea Republic,K League 1,Incheon United,false,0,0,150-10000,107,CLUB
+203067,Chará,Diego,74,10,Rare,3,4,Basic,Colombia,Major League Soccer,Portland Timbers,false,0,0,300-10000,259,CLUB
+203535,Vilhena,Tonny,75,14,Common,3,4,Basic,Netherlands,Hellas Liga,Panathinaikos,false,0,0,300-10000,266,CLUB
+203581,Balliu,Iván,77,3,Common,3,3,Basic,Albania,LALIGA EA SPORTS,Rayo Vallecano,true,0,0,350-10000,0,CLUB
+203747,Bellerín Moruno,Héctor,78,3,Common,3,2,Basic,Spain,LALIGA EA SPORTS,Real Betis,true,0,0,350-10000,0,CLUB
+204024,Kramer,Christoph,77,10,Common,3,3,Basic,Germany,Bundesliga,M'gladbach,true,0,0,350-10000,0,CLUB
+204152,Jønsson,Jens,74,10,Rare,2,3,Basic,Denmark,Hellas Liga,AEK Athens,false,0,0,300-10000,259,CLUB
+204242,Barreto,Michaël,68,16,Common,3,4,Basic,France,Ligue 2 BKT,AC Ajaccio,true,0,0,150-10000,0,CLUB
+204699,Melgarejo,Lorenzo,74,25,CONMEBOL Libertadores,4,3,Basic,Paraguay,CONMEBOL Libertadores,Libertad,false,0,0,300-10000,259,CLUB
+204825,Wilson,Ben,69,0,Common,1,3,GK Basic,England,EFL Championship,Coventry City,true,0,0,150-10000,0,CLUB
+204838,Jiménez,Raúl,76,25,Common,3,4,Basic,Mexico,Premier League,Fulham,true,0,0,350-10000,0,CLUB
+204936,Egan,John,74,5,Rare,2,3,Basic,Republic of Ireland,Premier League,Sheffield Utd,false,0,0,300-10000,259,CLUB
+205044,Maier,Sebastian,63,18,Common,3,4,Basic,Germany,3. Liga,Unterhaching,true,0,0,150-10000,0,CLUB
+205069,Bernat Velasco,Juan,77,7,Common,4,3,Basic,Spain,Ligue 1 Uber Eats,Paris SG,false,0,0,350-10000,273,CLUB
+205157,Ruiz de Galarreta,Iñigo,76,14,Common,3,3,Basic,Spain,LALIGA EA SPORTS,Athletic Club,true,0,0,350-10000,0,CLUB
+205288,Martínez Rubio,Fernando,78,0,Common,1,2,GK Basic,Spain,LALIGA EA SPORTS,UD Almería,true,0,0,350-10000,0,CLUB
+205365,Kopic,Jan,74,12,Rare,3,3,Basic,Czech Republic,Česká Liga,Viktoria Plzeň,true,0,0,300-10000,0,CLUB
+205569,Ward-Prowse,James,78,14,Common,3,3,Basic,England,Premier League,West Ham,true,0,0,350-10000,0,CLUB
+205600,Umtiti,Samuel,79,5,Common,2,3,Basic,France,Ligue 1 Uber Eats,LOSC Lille,true,0,0,350-10000,0,CLUB
+205855,Livaja,Marko,77,21,Common,4,5,Basic,Croatia,Liga Hrvatska,Hajduk Split,true,0,0,350-10000,0,CLUB
+205953,Mior,João Paulo,76,14,Common,3,3,Basic,Brazil,Major League Soccer,Sounders FC,true,0,0,350-10000,0,CLUB
+205965,Ristovski,Stefan,74,3,Rare,3,3,Basic,FYR Macedonia,Liga Hrvatska,Dinamo Zagreb,false,0,0,300-10000,259,CLUB
+205970,Wallace,Jed,75,12,Common,4,4,Basic,England,EFL Championship,West Brom,true,0,0,300-10000,0,CLUB
+205976,Carrilho Baptistão,Leonardo,75,12,Common,4,2,Basic,Brazil,LALIGA EA SPORTS,UD Almería,true,0,0,300-10000,0,CLUB
+205990,Reed,Harrison,76,10,Common,3,3,Basic,England,Premier League,Fulham,true,0,0,350-10000,0,CLUB
+206003,Mvogo,Yvon,78,0,Common,1,3,GK Basic,Switzerland,Ligue 1 Uber Eats,FC Lorient,true,0,0,350-10000,0,CLUB
+206058,De Sciglio,Mattia,76,3,Common,3,4,Basic,Italy,Serie A TIM,Juventus,true,0,0,350-10000,0,CLUB
+206075,Johnstone,Sam,76,0,Common,1,3,GK Basic,England,Premier League,Crystal Palace,false,0,0,350-10000,270,CLUB
+206085,Murphy,Jacob,76,23,Common,3,4,Basic,England,Premier League,Newcastle Utd,false,0,0,350-10000,270,CLUB
+206098,Gabarrón Gil,Patricio,76,5,Common,2,3,Basic,Spain,Serie A TIM,Latium,true,0,0,350-10000,0,CLUB
+206113,Gnabry,Serge,94,12,UEFA EURO Festival of Football Academy,4,4,Basic,Germany,Bundesliga,FC Bayern München,true,0,0,1100-10000,0,CLUB
+206254,Stevanović,Miroslav,76,12,Common,3,4,Basic,Bosnia Herzegovina,Credit Suisse Super League,Servette FC,true,0,0,350-10000,0,CLUB
+206306,Ferri,Jordan,77,10,Common,3,2,Basic,France,Ligue 1 Uber Eats,Montpellier,true,0,0,350-10000,0,CLUB
+206413,Stepanenko,Taras,78,10,Common,3,3,Basic,Ukraine,Ukrayina Liha,Shakhtar Donetsk,true,0,0,350-10000,0,CLUB
+206467,Plea,Alassane,77,18,Common,4,3,Basic,France,Bundesliga,M'gladbach,true,0,0,350-10000,0,CLUB
+206517,Grealish,Jack,93,27,Team of the Season Plus,4,3,Basic,England,Premier League,Manchester City,true,0,0,2100-10000,0,CLUB
+206545,Trigueros Muñoz,Manuel,77,14,Common,4,4,Basic,Spain,LALIGA EA SPORTS,Villarreal CF,true,0,0,350-10000,0,CLUB
+206654,Marí Villar,Pablo,76,5,Common,2,3,Basic,Spain,Serie A TIM,Monza,true,0,0,350-10000,0,CLUB
+207410,Kovačić,Mateo,82,14,Rare,4,4,Basic,Croatia,Premier League,Manchester City,false,0,0,700-10000,582,CLUB
+207439,Paredes,Leandro,77,14,Common,4,4,Basic,Argentina,Serie A TIM,Roma FC,true,0,0,350-10000,0,CLUB
+207471,Vázquez,Franco,76,18,Common,4,3,Basic,Argentina,Serie BKT,Cremonese,true,0,0,350-10000,0,CLUB
+207599,Keane,Michael,77,5,Common,2,3,Basic,England,Premier League,Everton,false,0,0,350-10000,273,CLUB
+207791,Poulsen,Yussuf,76,25,Common,3,3,Basic,Denmark,Bundesliga,RB Leipzig,true,0,0,350-10000,0,CLUB
+207804,Bell,Amari'i,71,8,Common,3,3,Basic,Jamaica,Premier League,Luton Town,false,0,0,150-10000,107,CLUB
+207862,Ginter,Matthias,84,5,Rare,2,3,Basic,Germany,Bundesliga,SC Freiburg,true,0,0,1100-10000,0,CLUB
+207884,Souza Arão da Silva,Willian,76,10,Common,3,3,Basic,Brazil,Hellas Liga,Panathinaikos,true,0,0,350-10000,0,CLUB
+208004,Veltman,Joël,78,3,Common,2,4,Basic,Netherlands,Premier League,Brighton,true,0,0,350-10000,0,CLUB
+208024,Wallace,Murray,71,5,Common,2,2,Basic,Scotland,EFL Championship,Millwall,false,0,0,150-10000,107,CLUB
+208128,Çalhanoğlu,Hakan,85,14,Rare,4,4,Basic,Türkiye,Serie A TIM,Inter,true,0,0,2100-10000,0,CLUB
+208135,Doucouré,Abdoulaye,77,14,Common,3,3,Basic,Mali,Premier League,Everton,true,0,0,350-10000,0,CLUB
+208137,Torró Marset,Lucas,77,10,Common,2,3,Basic,Spain,LALIGA EA SPORTS,CA Osasuna,true,0,0,350-10000,0,CLUB
+208165,Djimsiti,Berat,77,5,Common,2,3,Basic,Albania,Serie A TIM,Bergamo Calcio,true,0,0,350-10000,0,CLUB
+208224,Mantalos,Petros,76,18,Common,3,4,Basic,Greece,Hellas Liga,AEK Athens,true,0,0,350-10000,0,CLUB
+208268,Cristante,Bryan,81,10,Common,3,4,Basic,Italy,Serie A TIM,Roma FC,false,0,0,350-10000,288,CLUB
+208330,Januzaj,Adnan,77,23,Common,4,4,Basic,Belgium,LALIGA EA SPORTS,Sevilla FC,true,0,0,350-10000,0,CLUB
+208335,Kübler,Lukas,75,3,Common,2,2,Basic,Germany,Bundesliga,SC Freiburg,false,0,0,300-10000,266,CLUB
+208450,Hoelgebaum Pereira,Andreas Hugo,77,18,Common,4,4,Basic,Brazil,Premier League,Fulham,true,0,0,350-10000,0,CLUB
+208509,Foket,Thomas,74,3,Rare,3,3,Basic,Belgium,Ligue 1 Uber Eats,Stade de Reims,true,0,0,300-10000,0,CLUB
+208787,Thomasson,Adrien,78,27,Common,4,4,Basic,France,Ligue 1 Uber Eats,RC Lens,true,0,0,350-10000,0,CLUB
+208861,Gastien,Johan,76,10,Common,2,3,Basic,France,Ligue 1 Uber Eats,Clermont Foot 63,true,0,0,350-10000,0,CLUB
+208892,Byram,Sam,71,7,Common,3,3,Basic,England,EFL Championship,Leeds United,false,0,0,150-10000,107,CLUB
+209232,Šatka,Ľubomír,69,5,Common,2,3,Basic,Slovakia,Trendyol Süper Lig,Samsunspor,false,0,0,150-10000,104,CLUB
+209331,Salah,Mohamed,89,23,Rare,4,3,Basic,Egypt,Premier League,Liverpool,true,0,0,9100-27500,0,CLUB
+209523,González,Derlis,75,25,CONMEBOL Libertadores,4,3,Basic,Paraguay,CONMEBOL Libertadores,Olimpia,true,0,0,600-10000,0,CLUB
+209542,Barbosa de Souza,Vinicius Goes,75,18,Common,3,4,Basic,Brazil,ROSHN Saudi League,Al Hazem,false,0,0,300-10000,266,CLUB
+209698,Touré,Birama,73,10,Rare,2,3,Basic,Mali,ROSHN Saudi League,Al Riyadh,false,0,0,300-10000,256,CLUB
+209744,Mena,Eugenio,74,7,CONMEBOL Sudamericana,3,3,Basic,Chile,CONMEBOL Sudamericana,Uni. Católica,false,0,0,150-10000,111,CLUB
+209782,Larsson,Sam,75,16,Common,4,2,Basic,Sweden,Trendyol Süper Lig,Antalyaspor,true,0,0,300-10000,0,CLUB
+210136,Kędziora,Tomasz,73,3,Rare,2,3,Basic,Poland,Hellas Liga,PAOK FC,false,0,0,300-10000,256,CLUB
+210206,Majrashi,Abdulaziz,61,7,Common,2,3,Basic,Saudi Arabia,ROSHN Saudi League,Al Tai,false,0,0,150-10000,18,CLUB
+210243,Barbosa Pereira,Ricardo,79,3,Common,3,4,Basic,Portugal,EFL Championship,Leicester City,true,0,0,350-10000,0,CLUB
+210315,De Tomás Gómez,Raúl,79,25,Common,4,4,Basic,Spain,LALIGA EA SPORTS,Rayo Vallecano,true,0,0,350-10000,0,CLUB
+210521,Çikalleshi,Sokol,67,25,Common,2,4,Basic,Albania,Trendyol Süper Lig,Konyaspor,false,0,0,150-10000,101,CLUB
+210679,Rodrigues Oliveira,Paulo André,75,5,Common,2,2,Basic,Portugal,Liga Portugal,SC Braga,true,0,0,300-10000,0,CLUB
+210697,Nørgaard,Christian,77,10,Common,3,3,Basic,Denmark,Premier League,Brentford,true,0,0,350-10000,0,CLUB
+210736,Palmieri dos Santos,Emerson,77,7,Common,3,2,Basic,Italy,Premier League,West Ham,true,0,0,350-10000,0,CLUB
+210864,Hysaj,Elseid,76,7,Common,3,3,Basic,Albania,Serie A TIM,Latium,true,0,0,350-10000,0,CLUB
+210896,Sanson,Morgan,76,14,Common,4,4,Basic,France,Ligue 1 Uber Eats,OGC Nice,true,0,0,350-10000,0,CLUB
+210924,Al Barakah,Abdulrahman,60,10,Common,2,3,Basic,Saudi Arabia,ROSHN Saudi League,Abha Club,true,0,0,150-10000,0,CLUB
+210930,Gil Pareja,Carles,79,18,Common,4,4,Basic,Spain,Major League Soccer,New England,true,0,0,350-10000,0,CLUB
+210941,Lee,Chang Geun,72,0,Rare,1,3,GK Basic,Korea Republic,K League 1,Daejeon Citizen,true,0,0,300-10000,0,CLUB
+210970,Adjei-Boateng,Bismark,71,10,Rare,2,3,Basic,Ghana,K League 1,Jeonbuk Hyundai,false,0,0,250-10000,249,CLUB
+211061,Maxim,Alexandru,76,18,Common,5,4,Basic,Romania,Trendyol Süper Lig,Gaziantep,true,0,0,350-10000,0,CLUB
+211147,Lazaro,Valentino,72,2,Rare,4,3,Basic,Austria,Serie A TIM,Torino,false,0,0,300-10000,252,CLUB
+211361,Cataldi,Danilo,77,10,Common,3,4,Basic,Italy,Serie A TIM,Latium,true,0,0,350-10000,0,CLUB
+211368,Tué Na Bangna,Armindo,77,16,Rare,4,3,Basic,Portugal,Liga Portugal,SC Braga,true,0,0,650-10000,0,CLUB
+211999,Khedira,Rani,76,10,Common,2,3,Basic,Germany,Bundesliga,Union Berlin,true,0,0,350-10000,0,CLUB
+212138,Frankowski,Przemysław,79,2,Rare,3,3,Basic,Poland,Ligue 1 Uber Eats,RC Lens,false,0,0,650-10000,561,CLUB
+212187,Max,Philipp,78,8,Common,3,3,Basic,Germany,Bundesliga,Frankfurt,true,0,0,350-10000,0,CLUB
+212219,Djiku,Alexander,76,5,Common,2,3,Basic,Ghana,Trendyol Süper Lig,Fenerbahçe,true,0,0,350-10000,0,CLUB
+212261,Thomas Llamas,Brandon,71,25,Rare,4,3,Basic,Spain,Hellas Liga,PAOK FC,false,0,0,250-10000,249,CLUB
+212419,Mings,Tyrone,79,5,Common,3,2,Basic,England,Premier League,Aston Villa,true,0,0,350-10000,0,CLUB
+212491,Masuaku,Arthur,76,7,Common,4,2,Basic,DR Congo,Trendyol Süper Lig,Beşiktaş,false,0,0,350-10000,270,CLUB
+212546,Abena,Myenty,68,5,Rare,2,2,Basic,Suriname,Magyar Liga,Ferencvárosi TC,false,0,0,250-10000,238,CLUB
+212591,Zimmerman,Walker,76,5,Common,2,3,Basic,United States,Major League Soccer,Nashville SC,true,0,0,350-10000,0,CLUB
+212683,Matt,Jamille,62,25,Common,2,3,Basic,Jamaica,EFL League Two,Walsall,false,0,0,150-10000,19,CLUB
+212729,Pinheiro Carvalho,António José,74,14,Rare,4,3,Basic,Portugal,ROSHN Saudi League,Al Hazem,true,0,0,300-10000,0,CLUB
+212772,Duarte,Óscar,74,5,Rare,2,3,Basic,Costa Rica,ROSHN Saudi League,Al Wehda,false,0,0,300-10000,259,CLUB
+212811,Lemina,Mario,78,10,Common,3,4,Basic,Gabon,Premier League,Wolves,true,0,0,350-10000,0,CLUB
+212938,Moe,Brede Mathias,71,5,Common,2,3,Basic,Norway,Eliteserien,FK Bodø/Glimt,false,0,0,150-10000,107,CLUB
+213017,Davies,Ben,73,5,Rare,2,3,Basic,England,cinch Premiership,Rangers,false,0,0,300-10000,256,CLUB
+213367,Abergel,Laurent,76,10,Common,3,3,Basic,France,Ligue 1 Uber Eats,FC Lorient,true,0,0,350-10000,0,CLUB
+213374,de Jesus Santos,Aderllan,73,5,Rare,2,2,Basic,Brazil,Liga Portugal,Rio Ave FC,true,0,0,300-10000,0,CLUB
+213418,Akpom,Chuba,76,25,Common,3,3,Basic,England,Eredivisie,Ajax,true,0,0,350-10000,0,CLUB
+213917,Rodrigues Cardoso,Fábio Rafael,77,5,Common,2,2,Basic,Portugal,Liga Portugal,FC Porto,true,0,0,350-10000,0,CLUB
+213991,Lerma,Jefferson,77,10,Common,3,4,Basic,Colombia,Premier League,Crystal Palace,true,0,0,350-10000,0,CLUB
+214092,Miranchuk,Alexey,77,21,Common,3,2,Basic,Russia,Serie A TIM,Bergamo Calcio,true,0,0,300-10000,0,CLUB
+214414,Ureña,Rodrigo,70,10,CONMEBOL Sudamericana,2,3,Basic,Chile,CONMEBOL Sudamericana,Universitario,false,0,0,150-10000,105,CLUB
+214769,Rasmussen,Federico,73,5,Rare,2,2,Basic,Argentina,Liga Profesional de Fútbol,Godoy Cruz,true,0,0,300-10000,0,CLUB
+214874,Bolados,Marcos,71,23,CONMEBOL Libertadores,4,3,Basic,Chile,CONMEBOL Libertadores,Colo-Colo,false,0,0,250-10000,249,CLUB
+215277,Ashcroft,Lee,63,5,Common,2,3,Basic,Scotland,cinch Premiership,Dundee FC,true,0,0,150-10000,0,CLUB
+215363,Montipò,Lorenzo,77,0,Common,1,3,GK Basic,Italy,Serie A TIM,Hellas Verona,true,0,0,350-10000,0,CLUB
+215410,Chardonnet,Brendan,73,5,Rare,2,3,Basic,France,Ligue 1 Uber Eats,Stade Brestois 29,false,0,0,300-10000,256,CLUB
+215419,Kerr,Cammy,62,3,Common,2,3,Basic,Scotland,cinch Premiership,Dundee FC,false,0,0,150-10000,19,CLUB
+215531,Türüç,Deniz,73,12,Rare,3,3,Basic,Türkiye,Trendyol Süper Lig,Başakşehir,false,0,0,300-10000,256,CLUB
+215615,Mesa Piñero,Maikel,69,14,Common,3,3,Basic,Spain,LALIGA HYPERMOTION,Real Zaragoza,true,0,0,150-10000,0,CLUB
+215616,Remeseiro Salgueiro,David Jason,72,12,Rare,3,4,Basic,Spain,Liga Portugal,Arouca,false,0,0,300-10000,252,CLUB
+215689,Petagna,Andrea,77,25,Common,3,3,Basic,Italy,Serie A TIM,Monza,true,0,0,350-10000,0,CLUB
+215699,Sabaly,Youssouf,77,3,Common,3,3,Basic,Senegal,LALIGA EA SPORTS,Real Betis,true,0,0,350-10000,0,CLUB
+215998,Fernández,Ignacio,79,18,CONMEBOL Libertadores,4,2,Basic,Argentina,CONMEBOL Libertadores,River Plate,true,0,0,650-10000,0,CLUB
+216020,Gil,Leonardo,74,14,CONMEBOL Libertadores,3,2,Basic,Argentina,CONMEBOL Libertadores,Colo-Colo,true,0,0,300-10000,0,CLUB
+216065,Sportiello,Marco,77,0,Common,1,2,GK Basic,Italy,Serie A TIM,Milan,true,0,0,350-10000,0,CLUB
+216150,Zappacosta,Davide,79,8,Common,3,3,Basic,Italy,Serie A TIM,Bergamo Calcio,true,0,0,350-10000,0,CLUB
+216158,Widmer,Silvan,76,2,Common,3,3,Basic,Switzerland,Bundesliga,1. FSV Mainz 05,true,0,0,350-10000,0,CLUB
+216268,Watmore,Duncan,68,25,Common,3,3,Basic,England,EFL Championship,Millwall,false,0,0,150-10000,102,CLUB
+216447,García Rivera,Álvaro,79,16,Common,3,3,Basic,Spain,LALIGA EA SPORTS,Rayo Vallecano,false,0,0,350-10000,280,CLUB
+216466,Nascimento Borges,Wendell,76,7,Common,4,2,Basic,Brazil,Liga Portugal,FC Porto,true,0,0,350-10000,0,CLUB
+216482,Pelé,Bryan,67,12,Common,3,3,Basic,France,Ligue 2 BKT,US Concarneau,false,0,0,150-5000,101,CLUB
+216816,Simeone,Giovanni,78,25,Common,3,4,Basic,Argentina,Serie A TIM,Napoli FC,true,0,0,350-10000,0,CLUB
+216860,Černý,Václav,76,23,Common,3,3,Basic,Czech Republic,Bundesliga,VfL Wolfsburg,true,0,0,350-10000,0,CLUB
+216939,Blake,Andre,78,0,Common,1,2,GK Basic,Jamaica,Major League Soccer,Philadelphia,true,0,0,350-10000,0,CLUB
+217546,Jerónimo Sequeira,Nuno Miguel,77,7,Common,3,3,Basic,Portugal,Trendyol Süper Lig,Pendikspor,true,0,0,350-10000,0,CLUB
+217714,Arriola,Paul,72,12,Rare,3,3,Basic,United States,Major League Soccer,FC Dallas,false,0,0,300-10000,252,CLUB
+217940,Djené,Dakonam,77,5,Common,2,4,Basic,Togo,LALIGA EA SPORTS,Getafe CF,true,0,0,350-10000,0,CLUB
+217998,Arango,Cristian,76,25,Common,3,3,Basic,Colombia,Major League Soccer,Real Salt Lake,false,0,0,350-10000,270,CLUB
+218339,Dahoud,Mahmoud,78,14,Common,4,4,Basic,Germany,Premier League,Brighton,true,0,0,350-10000,0,CLUB
+218659,Targett,Matt,76,7,Common,3,2,Basic,England,Premier League,Newcastle Utd,true,0,0,350-10000,0,CLUB
+218873,Paterok,Tim,62,0,Common,1,2,GK Basic,Germany,3. Liga,Saarbrücken,true,0,0,150-10000,0,CLUB
+219145,Maripán,Guillermo,77,5,Common,2,2,Basic,Chile,Ligue 1 Uber Eats,AS Monaco,true,0,0,350-10000,0,CLUB
+219391,Escalante,Gonzalo,77,14,Common,3,3,Basic,Argentina,LALIGA EA SPORTS,Cádiz CF,true,0,0,350-10000,0,CLUB
+219466,Meling,Birger,76,7,Common,3,3,Basic,Norway,3F Superliga,F.C. København,false,0,0,350-10000,270,CLUB
+219581,Gigot,Samuel,78,5,Common,2,3,Basic,France,Ligue 1 Uber Eats,OM,true,0,0,300-10000,0,CLUB
+219585,Valjent,Martin,77,5,Common,2,2,Basic,Slovakia,LALIGA EA SPORTS,RCD Mallorca,true,0,0,350-10000,0,CLUB
+219681,Amavi,Jordan,72,7,Common,3,5,Basic,France,Ligue 1 Uber Eats,OM,false,0,0,150-10000,108,CLUB
+219686,Carvalho Silva Jr.,Carlos Alberto,76,23,Common,3,3,Basic,Brazil,ROSHN Saudi League,Al Shabab,true,0,0,350-10000,0,CLUB
+219792,Santamaria,Baptiste,77,10,Common,3,2,Basic,France,Ligue 1 Uber Eats,Stade Rennais FC,true,0,0,350-10000,0,CLUB
+219953,Embarba Blázquez,Adrián,76,16,Common,4,4,Basic,Spain,LALIGA EA SPORTS,UD Almería,true,0,0,350-10000,0,CLUB
+219985,Vecino,Matías,77,14,Common,3,3,Basic,Uruguay,Serie A TIM,Latium,true,0,0,350-10000,0,CLUB
+220018,Rebić,Ante,77,25,Common,3,4,Basic,Croatia,Trendyol Süper Lig,Beşiktaş,true,0,0,350-10000,0,CLUB
+220093,Hateboer,Hans,78,2,Common,3,3,Basic,Netherlands,Serie A TIM,Bergamo Calcio,true,0,0,350-10000,0,CLUB
+220182,Denayer,Jason,75,5,Common,2,3,Basic,Belgium,ROSHN Saudi League,Al Fateh,true,0,0,300-10000,0,CLUB
+220407,Dúbravka,Martin,78,0,Common,1,2,GK Basic,Slovakia,Premier League,Newcastle Utd,true,0,0,350-10000,0,CLUB
+220440,Lenglet,Clément,77,5,Common,2,4,Basic,France,LALIGA EA SPORTS,FC Barcelona,true,0,0,350-10000,0,CLUB
+220746,Živković,Andrija,76,23,Common,4,3,Basic,Serbia,Hellas Liga,PAOK FC,true,0,0,350-10000,0,CLUB
+220814,Hernández,Lucas,91,5,TOTS In-Progress EVO,2,2,Basic,France,Ligue 1 Uber Eats,Paris SG,true,0,0,1100-10000,0,CLUB
+220837,Machado,Deiver,76,8,Common,2,3,Basic,Colombia,Ligue 1 Uber Eats,RC Lens,true,0,0,350-10000,0,CLUB
+220876,Honorat,Franck,76,12,Common,4,3,Basic,France,Bundesliga,M'gladbach,true,0,0,350-10000,0,CLUB
+220969,Eliasson,Niclas,73,12,Rare,4,4,Basic,Sweden,Hellas Liga,AEK Athens,true,0,0,300-10000,0,CLUB
+220971,Keïta,Naby,78,14,Common,4,4,Basic,Guinea,Bundesliga,SV Werder Bremen,true,0,0,350-10000,0,CLUB
+221125,Driussi,Sebastián,78,18,Common,3,2,Basic,Argentina,Major League Soccer,Austin FC,true,0,0,350-10000,0,CLUB
+221281,Hyam,Dominic,72,5,Common,2,3,Basic,Scotland,EFL Championship,Blackburn Rovers,false,0,0,150-10000,108,CLUB
+221284,Gradit,Jonathan,78,5,Common,2,2,Basic,France,Ligue 1 Uber Eats,RC Lens,true,0,0,350-10000,0,CLUB
+221479,Calvert-Lewin,Dominic,77,25,Common,3,3,Basic,England,Premier League,Everton,true,0,0,350-10000,0,CLUB
+221491,Elvedi,Nico,77,5,Common,2,3,Basic,Switzerland,Bundesliga,M'gladbach,true,0,0,350-10000,0,CLUB
+221556,Mfulu,Omenuke,72,10,Rare,2,3,Basic,DR Congo,LALIGA EA SPORTS,UD Las Palmas,true,0,0,300-10000,0,CLUB
+221610,Dibusz,Dénes,76,0,Common,1,3,GK Basic,Hungary,Magyar Liga,Ferencvárosi TC,true,0,0,350-10000,0,CLUB
+221660,Lindelöf,Victor,80,5,Common,3,4,Basic,Sweden,Premier League,Man Utd,false,0,0,350-10000,284,CLUB
+221671,Lee,Jae Sung,78,18,Common,3,3,Basic,Korea Republic,Bundesliga,1. FSV Mainz 05,true,0,0,350-10000,0,CLUB
+221982,Roberts,Patrick,71,12,Rare,4,2,Basic,England,EFL Championship,Sunderland,false,0,0,250-10000,249,CLUB
+222190,Lü,Peng,62,10,Rare,2,4,Basic,China PR,Chinese Football Association Super League,Dalian Pro,false,0,0,150-10000,47,CLUB
+222357,Embolo,Breel,78,25,Common,3,4,Basic,Switzerland,Ligue 1 Uber Eats,AS Monaco,true,0,0,350-10000,0,CLUB
+222390,López Cabrera,Unai,74,10,Rare,3,3,Basic,Spain,LALIGA EA SPORTS,Rayo Vallecano,true,0,0,300-10000,0,CLUB
+222477,Reed,Louis,64,10,Rare,3,3,Basic,England,EFL League Two,Mansfield Town,true,0,0,150-10000,0,CLUB
+222492,Sané,Leroy,84,12,Rare,4,2,Basic,Germany,Bundesliga,FC Bayern München,true,0,0,1100-10000,0,CLUB
+222501,Castagne,Timothy,77,3,Common,3,3,Basic,Belgium,Premier League,Fulham,true,0,0,350-10000,0,CLUB
+223061,Cervi,Franco,77,16,Common,4,3,Basic,Argentina,LALIGA EA SPORTS,RC Celta,false,0,0,350-10000,273,CLUB
+223608,Eraso Goñi,Javier,70,14,Common,3,3,Basic,Spain,LALIGA HYPERMOTION,SD Amorebieta,true,0,0,150-10000,0,CLUB
+223654,San Emeterio Díaz,Federico,72,14,Rare,2,3,Basic,Spain,LALIGA EA SPORTS,Cádiz CF,true,0,0,300-10000,0,CLUB
+223670,Egho,Marvin,67,25,Common,2,2,Basic,Austria,3F Superliga,Randers FC,false,0,0,150-10000,101,CLUB
+223671,Posch,Stefan,77,3,Common,2,3,Basic,Austria,Serie A TIM,Bologna,true,0,0,350-10000,0,CLUB
+223885,Nübel,Alexander,76,0,Common,1,5,GK Basic,Germany,Bundesliga,VfB Stuttgart,true,0,0,350-10000,0,CLUB
+223922,Bouchalakis,Andreas,74,14,Rare,3,3,Basic,Greece,Bundesliga 2,Hertha BSC,false,0,0,300-10000,259,CLUB
+224030,Lopez,Maxime,78,14,Common,4,3,Basic,France,Serie A TIM,Sassuolo,false,0,0,350-10000,277,CLUB
+224081,Phillips,Kalvin,79,10,Common,3,3,Basic,England,Premier League,Manchester City,true,0,0,350-10000,0,CLUB
+224221,Andersen,Joachim,78,5,Common,2,3,Basic,Denmark,Premier League,Crystal Palace,true,0,0,350-10000,0,CLUB
+224251,Zentner,Robin,76,0,Common,1,3,GK Basic,Germany,Bundesliga,1. FSV Mainz 05,true,0,0,350-10000,0,CLUB
+224348,Hoyos,Lucas,72,0,CONMEBOL Sudamericana,1,3,GK Basic,Argentina,CONMEBOL Sudamericana,Newell's,false,0,0,150-10000,108,CLUB
+224394,Santos Martins,Fábio,76,16,Common,4,3,Basic,Portugal,ROSHN Saudi League,Al Khaleej,false,0,0,350-10000,270,CLUB
+224574,Pineda,Orbelín,77,18,Rare,4,4,Basic,Mexico,Hellas Liga,AEK Athens,true,0,0,650-10000,0,CLUB
+224811,Ordets,Ivan,74,5,Rare,2,3,Basic,Ukraine,Bundesliga,VfL Bochum,true,0,0,300-10000,0,CLUB
+224982,Palumbo,Antonio,72,14,Common,3,3,Basic,Italy,Serie BKT,Modena,false,0,0,150-10000,108,CLUB
+225174,Louiserre,Dylan,68,10,Common,3,3,Basic,France,Ligue 2 BKT,En Avant Guingamp,false,0,0,150-10000,102,CLUB
+225193,Merino Zazón,Mikel,84,14,Rare,3,3,Basic,Spain,LALIGA EA SPORTS,Real Sociedad,true,0,0,1100-10000,0,CLUB
+225293,Diallo,Habib,78,25,Common,3,3,Basic,Senegal,ROSHN Saudi League,Al Shabab,true,0,0,350-10000,0,CLUB
+225403,Kahveci,İrfan Can,75,23,Common,3,3,Basic,Türkiye,Trendyol Süper Lig,Fenerbahçe,true,0,0,300-10000,0,CLUB
+225439,Mandragora,Rolando,76,14,Common,3,3,Basic,Italy,Serie A TIM,Fiorentina,true,0,0,350-10000,0,CLUB
+225475,Azevedo Júnior,Hernani,72,14,Rare,3,4,Basic,Brazil,Serie BKT,Parma,false,0,0,300-10000,252,CLUB
+225653,Kerk,Gyrano,73,12,Rare,3,2,Basic,Netherlands,1A Pro League,Royal Antwerp FC,true,0,0,300-10000,0,CLUB
+225783,Mavididi,Stephy,76,27,Common,3,3,Basic,England,EFL Championship,Leicester City,true,0,0,350-10000,0,CLUB
+225863,Boscagli,Olivier,76,5,Common,3,4,Basic,France,Eredivisie,PSV,true,0,0,350-10000,0,CLUB
+225926,Milla Peña,Pere,77,25,Common,3,2,Basic,Spain,LALIGA HYPERMOTION,RCD Espanyol,false,0,0,350-10000,273,CLUB
+226295,Boutobba,Bilal,71,12,Rare,4,4,Basic,France,Ligue 1 Uber Eats,Clermont Foot 63,false,0,0,250-10000,249,CLUB
+226300,Çakır,Uğurcan,78,0,Common,1,3,GK Basic,Türkiye,Trendyol Süper Lig,Trabzonspor,true,0,0,350-10000,0,CLUB
+226350,Stengel,Katie,77,25,Common,3,3,Basic,United States,National Women's Soccer League,NJ/NY Gotham,true,0,0,350-10000,0,CLUB
+226370,Luz Horta,André Filipe,77,14,Common,3,3,Basic,Portugal,Liga Portugal,SC Braga,false,0,0,350-10000,273,CLUB
+226380,Hwang,Hee Chan,76,16,Common,4,4,Basic,Korea Republic,Premier League,Wolves,true,0,0,350-10000,0,CLUB
+226515,Girotto,Andrei,75,5,Common,2,3,Basic,Brazil,ROSHN Saudi League,Al Taawoun,false,0,0,300-10000,266,CLUB
+226517,Hajradinović,Haris,73,14,Rare,3,3,Basic,Bosnia Herzegovina,Trendyol Süper Lig,Kasımpaşa,false,0,0,300-10000,256,CLUB
+226518,Milić,Antonio,71,5,Common,2,3,Basic,Croatia,PKO Bank Polski Ekstraklasa,Lech Poznań,false,0,0,150-10000,107,CLUB
+226537,Janssen,Vincent,77,25,Common,3,4,Basic,Netherlands,1A Pro League,Royal Antwerp FC,true,0,0,350-10000,0,CLUB
+226710,Scamacca,Gianluca,78,25,Common,4,3,Basic,Italy,Serie A TIM,Bergamo Calcio,true,0,0,350-10000,0,CLUB
+226789,Fulgini,Angelo,76,27,Common,4,4,Basic,France,Ligue 1 Uber Eats,RC Lens,true,0,0,350-10000,0,CLUB
+227003,Hurtig,Lina,79,27,Common,4,4,Basic,Sweden,Barclays Women’s Super League,Arsenal,true,0,0,350-10000,0,CLUB
+227109,Kennedy,Alanna,77,5,Common,2,4,Basic,Australia,Barclays Women’s Super League,Manchester City,true,0,0,350-10000,0,CLUB
+227191,Torrejón Moya,Marta,84,3,Rare,2,3,Basic,Spain,Liga F,FC Barcelona,true,0,0,1100-10000,0,CLUB
+227201,Losada Gómez,María Victoria,77,14,Common,3,3,Basic,Spain,Barclays Women’s Super League,Brighton,true,0,0,350-10000,0,CLUB
+227222,Guilbert,Frédéric,76,2,Common,3,3,Basic,France,Ligue 1 Uber Eats,Strasbourg,true,0,0,350-10000,0,CLUB
+227232,Sotoca,Florian,77,25,Common,3,3,Basic,France,Ligue 1 Uber Eats,RC Lens,true,0,0,350-10000,0,CLUB
+227234,Tousart,Lucas,77,10,Common,2,3,Basic,France,Bundesliga,Union Berlin,true,0,0,350-10000,0,CLUB
+227274,Barbona,David,73,18,CONMEBOL Sudamericana,4,4,Basic,Argentina,CONMEBOL Sudamericana,Defensa,false,0,0,150-10000,110,CLUB
+227562,Haraslín,Lukáš,76,27,Common,4,4,Basic,Slovakia,Česká Liga,Sparta Praha,true,0,0,350-10000,0,CLUB
+227772,Giménez,Gastón,72,10,Rare,3,3,Basic,Paraguay,Major League Soccer,Chicago Fire FC,false,0,0,300-10000,252,CLUB
+227796,Pulisic,Christian,79,27,Common,4,4,Basic,United States,Serie A TIM,Milan,true,0,0,350-10000,0,CLUB
+227928,Cabral Semedo,Nélson,78,3,Common,4,3,Basic,Portugal,Premier League,Wolves,true,0,0,350-10000,0,CLUB
+228290,Laporte,Julien,76,5,Common,2,3,Basic,France,Ligue 1 Uber Eats,FC Lorient,true,0,0,350-10000,0,CLUB
+228292,Harkin,Ciaron,59,10,Common,2,3,Basic,Northern Ireland,SSE Airtricity Men's Premier Division,Derry City,false,0,0,150-10000,18,CLUB
+228326,Oliván Herrero,Brian,77,7,Common,2,3,Basic,Spain,LALIGA HYPERMOTION,RCD Espanyol,true,0,0,350-10000,0,CLUB
+228336,Grillitsch,Florian,76,10,Common,3,3,Basic,Austria,Bundesliga,TSG Hoffenheim,true,0,0,350-10000,0,CLUB
+228368,Sterry,Jamie,62,3,Common,2,3,Basic,England,EFL League Two,Doncaster,true,0,0,150-10000,0,CLUB
+228579,Henrichs,Benjamin,78,3,Common,3,4,Basic,Germany,Bundesliga,RB Leipzig,true,0,0,350-10000,0,CLUB
+228595,Prömel,Grischa,76,14,Common,3,4,Basic,Germany,Bundesliga,TSG Hoffenheim,true,0,0,350-10000,0,CLUB
+228645,Görtler,Lukas,74,14,Rare,3,3,Basic,Germany,Credit Suisse Super League,FC St. Gallen,false,0,0,300-10000,259,CLUB
+228716,Vázquez Comesaña,Kevin,75,3,Common,3,3,Basic,Spain,LALIGA EA SPORTS,RC Celta,true,0,0,300-10000,0,CLUB
+228751,Listkowski,Marcin,66,21,Rare,3,3,Basic,Poland,Serie A TIM,Lecce,false,0,0,250-10000,231,CLUB
+228779,Barclay,Ben,60,5,Common,2,2,Basic,England,EFL League One,Carlisle United,false,0,0,150-10000,18,CLUB
+228800,Alvarado,Emily,79,0,Common,1,2,GK Basic,Mexico,National Women's Soccer League,Houston Dash,true,0,0,350-10000,0,CLUB
+228946,Svanberg,Mattias,76,14,Common,3,3,Basic,Sweden,Bundesliga,VfL Wolfsburg,true,0,0,350-10000,0,CLUB
+229071,Onisiwo,Karim,76,25,Common,3,3,Basic,Austria,Bundesliga,1. FSV Mainz 05,true,0,0,350-10000,0,CLUB
+229083,Jakobsen,Christian,60,25,Common,3,3,Basic,Denmark,3F Superliga,Hvidovre IF,false,0,0,150-10000,18,CLUB
+229158,van den Boomen,Branco,78,14,Common,3,4,Basic,Netherlands,Eredivisie,Ajax,true,0,0,350-10000,0,CLUB
+229236,Udol,Matthieu,73,7,Rare,2,3,Basic,France,Ligue 1 Uber Eats,FC Metz,true,0,0,300-10000,0,CLUB
+229375,Adebayo,Elijah,72,25,Common,3,3,Basic,England,Premier League,Luton Town,false,0,0,150-10000,108,CLUB
+229649,Suazo,Gabriel,72,7,Common,3,2,Basic,Chile,Ligue 1 Uber Eats,Toulouse FC,false,0,0,150-10000,108,CLUB
+229659,Heynen,Bryan,77,10,Common,3,4,Basic,Belgium,1A Pro League,KRC Genk,true,0,0,350-10000,0,CLUB
+229723,Jensen,Mathias,76,14,Common,3,4,Basic,Denmark,Premier League,Brentford,true,0,0,350-10000,0,CLUB
+229743,Deiola,Alessandro,69,14,Common,2,3,Basic,Italy,Serie A TIM,Cagliari,true,0,0,150-10000,0,CLUB
+229879,Romney,Dave,68,5,Common,2,3,Basic,United States,Major League Soccer,New England,true,0,0,150-10000,0,CLUB
+229891,Ryerson,Julian,77,7,Common,2,4,Basic,Norway,Bundesliga,Borussia Dortmund,true,0,0,350-10000,0,CLUB
+229905,Bardakçı,Abdülkerim,77,5,Common,2,2,Basic,Türkiye,Trendyol Süper Lig,Galatasaray,false,0,0,350-10000,273,CLUB
+230065,Serdar,Suat,76,14,Common,4,3,Basic,Germany,Serie A TIM,Hellas Verona,true,0,0,350-10000,0,CLUB
+230084,Nmecha,Lukas,77,25,Common,3,4,Basic,Germany,Bundesliga,VfL Wolfsburg,true,0,0,350-10000,0,CLUB
+230564,Gaćinović,Mijat,76,16,Common,4,3,Basic,Serbia,Hellas Liga,AEK Athens,false,0,0,350-10000,270,CLUB
+230601,Queiroz Barcelos,Cryzan,73,25,Rare,3,4,Basic,Brazil,Chinese Football Association Super League,Shandong Taishan,false,0,0,300-10000,256,CLUB
+230786,García Vayá,Jose Luís,78,10,Common,3,3,Basic,Spain,LALIGA EA SPORTS,Valencia CF,true,0,0,350-10000,0,CLUB
+230918,Chalobah,Trevoh,77,5,Common,3,3,Basic,England,Premier League,Chelsea,false,0,0,350-10000,273,CLUB
+230978,Awoniyi,Taiwo,77,25,Common,3,2,Basic,Nigeria,Premier League,Nott'm Forest,true,0,0,350-10000,0,CLUB
+231073,Radunović,Boris,71,0,Rare,1,2,GK Basic,Serbia,Serie A TIM,Cagliari,false,0,0,250-10000,249,CLUB
+231102,Blas,Ludovic,78,18,Common,4,2,Basic,France,Ligue 1 Uber Eats,Stade Rennais FC,true,0,0,350-10000,0,CLUB
+231227,Dorsch,Niklas,76,10,Common,3,3,Basic,Germany,Bundesliga,FC Augsburg,false,0,0,350-10000,270,CLUB
+231416,Lukébakio,Dodi,78,12,Common,4,3,Basic,Belgium,LALIGA EA SPORTS,Sevilla FC,true,0,0,350-10000,0,CLUB
+231428,Bandinelli,Filippo,73,14,Rare,3,3,Basic,Italy,Serie BKT,Spezia,false,0,0,300-10000,256,CLUB
+231443,Dembélé,Ousmane,93,23,TOTS In-Progress EVO,5,5,Basic,France,Ligue 1 Uber Eats,Paris SG,true,0,8200,3600-10000,0,CLUB
+231554,Justin,James,76,7,Common,3,4,Basic,England,EFL Championship,Leicester City,true,0,0,350-10000,0,CLUB
+231624,Schleusener,Fabian,71,25,Common,3,4,Basic,Germany,Bundesliga 2,Karlsruher SC,false,0,0,150-10000,107,CLUB
+231627,Sadiq,Umar,77,25,Common,3,3,Basic,Nigeria,LALIGA EA SPORTS,Real Sociedad,true,0,0,350-10000,0,CLUB
+231633,Diop,Issa,78,5,Common,2,3,Basic,France,Premier League,Fulham,false,0,0,350-10000,277,CLUB
+231747,Mbappé,Kylian,91,25,Rare,5,4,Marksman,France,Ligue 1 Uber Eats,Paris SG,false,0,1676000,17000-320000,646,CLUB
+231836,Karlsson,Jesper,77,27,Common,5,3,Basic,Sweden,Serie A TIM,Bologna,true,0,0,350-10000,0,CLUB
+231969,Malinovskyi,Ruslan,78,21,Common,4,4,Basic,Ukraine,Serie A TIM,Genoa,true,0,0,350-10000,0,CLUB
+232080,Harrison,Jack,76,16,Common,4,3,Basic,England,Premier League,Everton,true,0,0,350-10000,0,CLUB
+232099,Grujić,Marko,77,14,Common,3,3,Basic,Serbia,Liga Portugal,FC Porto,true,0,0,350-10000,0,CLUB
+232229,Bijlow,Justin,78,0,Common,1,2,GK Basic,Netherlands,Eredivisie,Feyenoord,true,0,0,350-10000,0,CLUB
+232363,Škriniar,Milan,84,5,Rare,2,3,Basic,Slovakia,Ligue 1 Uber Eats,Paris SG,true,0,0,1100-10000,0,CLUB
+232440,Oliveira Silva,Caio Henrique,78,7,Common,3,2,Basic,Brazil,Ligue 1 Uber Eats,AS Monaco,true,0,0,350-10000,0,CLUB
+232446,Kairinen,Kaan,74,14,Rare,2,3,Basic,Finland,Česká Liga,Sparta Praha,false,0,0,300-10000,259,CLUB
+232477,Al Ghannam,Sultan,70,3,Common,3,4,Basic,Saudi Arabia,ROSHN Saudi League,Al Nassr,false,0,0,150-10000,105,CLUB
+232562,Nakamura,Kosuke,76,0,Common,1,3,GK Basic,Japan,Liga Portugal,Portimonense SC,true,0,0,350-10000,0,CLUB
+232639,Doan,Ritsu,78,12,Common,4,3,Basic,Japan,Bundesliga,SC Freiburg,true,0,0,350-10000,0,CLUB
+232658,Doekhi,Danilho,78,5,Common,2,3,Basic,Netherlands,Bundesliga,Union Berlin,true,0,0,350-10000,0,CLUB
+232670,Zampedri,Fernando,76,25,CONMEBOL Sudamericana,3,3,Basic,Argentina,CONMEBOL Sudamericana,Uni. Católica,true,0,0,350-10000,0,CLUB
+232805,Fernandes,Bernardo,71,5,Common,3,3,Basic,Brazil,Bundesliga,VfL Bochum,false,0,0,150-10000,107,CLUB
+232843,Prokop,Dominik,65,18,Rare,4,3,Basic,Austria,Österreichische Fußball-Bundesliga,TSV Hartberg,true,0,0,250-10000,0,CLUB
+232938,Tomiyasu,Takehiro,78,3,Common,2,5,Basic,Japan,Premier League,Arsenal,true,0,0,350-10000,0,CLUB
+232999,Adams,Tyler,78,10,Rare,3,3,Basic,United States,Premier League,AFC Bournemouth,true,0,0,650-10000,0,CLUB
+233092,Pereyra,Joaquín,74,14,Rare,3,3,Basic,Argentina,Liga Profesional de Fútbol,Atlético Tucumán,true,0,0,300-10000,0,CLUB
+233201,Mepham,Chris,71,5,Common,2,3,Basic,Wales,Premier League,AFC Bournemouth,false,0,0,150-10000,107,CLUB
+233259,Pineda,Diego,61,25,Common,2,3,Basic,Mexico,cinch Premiership,Dundee FC,true,0,0,150-10000,0,CLUB
+233267,Turner,Matt,77,0,Common,1,2,GK Basic,United States,Premier League,Nott'm Forest,true,0,0,350-10000,0,CLUB
+233322,Hansen,Synne Skinnes,72,3,Rare,3,3,Basic,Norway,Google Pixel Frauen-Bundesliga,Leverkusen,false,0,0,300-10000,252,CLUB
+233400,Glesnes,Jakob,73,5,Rare,2,3,Basic,Norway,Major League Soccer,Philadelphia,false,0,0,300-10000,256,CLUB
+233556,Orsolini,Riccardo,78,12,Common,4,4,Basic,Italy,Serie A TIM,Bologna,true,0,0,350-10000,0,CLUB
+233576,Pérez González,María José,76,27,Common,4,4,Basic,Spain,Liga F,CA Tenerife,true,0,0,350-10000,0,CLUB
+233748,Martens,Lieke,84,27,Rare,5,4,Basic,Netherlands,D1 Arkema,Paris SG,true,0,0,1100-10000,0,CLUB
+233800,Bjørkan,Fredrik Andre,72,7,Common,3,2,Basic,Norway,Eliteserien,FK Bodø/Glimt,false,0,0,150-10000,108,CLUB
+233968,Sernicola,Leonardo,72,12,Rare,2,3,Basic,Italy,Serie BKT,Cremonese,false,0,0,300-10000,252,CLUB
+234060,Herrera,Yangel,76,14,Common,3,3,Basic,Venezuela,LALIGA EA SPORTS,Girona FC,true,0,0,350-10000,0,CLUB
+234171,Sallai,Roland,76,12,Common,4,4,Basic,Hungary,Bundesliga,SC Freiburg,true,0,0,350-10000,0,CLUB
+234426,Nascimento Teixeira,Marcos,78,5,Common,2,3,Basic,Brazil,LALIGA EA SPORTS,Sevilla FC,true,0,0,350-10000,0,CLUB
+234575,Pinto Leite,Diogo Filipe,76,5,Common,2,3,Basic,Portugal,Bundesliga,Union Berlin,true,0,0,350-10000,0,CLUB
+234612,Ikoné,Jonathan,77,23,Common,4,3,Basic,France,Serie A TIM,Fiorentina,true,0,0,350-10000,0,CLUB
+234678,Mæhle,Joakim,77,8,Common,3,3,Basic,Denmark,Bundesliga,VfL Wolfsburg,true,0,0,350-10000,0,CLUB
+234711,Brekalo,Josip,76,21,Common,4,4,Basic,Croatia,Serie A TIM,Fiorentina,false,0,0,350-10000,270,CLUB
+234731,Amador Silos,Jair,73,5,Rare,2,2,Basic,Portugal,LALIGA HYPERMOTION,Real Zaragoza,false,0,0,300-10000,256,CLUB
+234760,Reca,Arkadiusz,72,16,Rare,3,3,Basic,Poland,Serie BKT,Spezia,false,0,0,300-10000,252,CLUB
+234791,Peres Petroni,Luan,76,5,Common,2,2,Basic,Brazil,Trendyol Süper Lig,Fenerbahçe,false,0,0,350-10000,270,CLUB
+234824,Wissa,Yoane,77,27,Common,3,3,Basic,DR Congo,Premier League,Brentford,true,0,0,350-10000,0,CLUB
+234826,Martínez López,Antonio,76,25,Common,3,3,Basic,Spain,Liga Portugal,FC Porto,true,0,0,350-10000,0,CLUB
+234835,Menezes Duarte,Domingos Sousa,77,5,Common,2,3,Basic,Portugal,LALIGA EA SPORTS,Getafe CF,true,0,0,350-10000,0,CLUB
+234913,Fassnacht,Christian,76,12,Common,3,3,Basic,Switzerland,EFL Championship,Norwich,true,0,0,350-10000,0,CLUB
+234943,Neuhaus,Florian,79,14,Common,3,4,Basic,Germany,Bundesliga,M'gladbach,true,0,0,350-10000,0,CLUB
+234948,Amani,Lazare,72,14,Rare,3,4,Basic,Ivory Coast,1A Pro League,R. Union St.-G.,false,0,0,300-10000,252,CLUB
+235036,Faes,Wout,76,5,Common,2,3,Basic,Belgium,EFL Championship,Leicester City,true,0,0,350-10000,0,CLUB
+235167,Janelt,Vitaly,76,10,Common,3,3,Basic,Germany,Premier League,Brentford,true,0,0,350-10000,0,CLUB
+235194,Vrioni,Giacomo,70,25,Common,4,4,Basic,Albania,Major League Soccer,New England,true,0,0,150-10000,0,CLUB
+235244,Nicolaisen,Rasmus,76,5,Common,2,3,Basic,Denmark,Ligue 1 Uber Eats,Toulouse FC,true,0,0,350-10000,0,CLUB
+235360,Ache,Ragnar,70,25,Rare,2,3,Basic,Germany,Bundesliga 2,Kaiserslautern,false,0,0,250-10000,245,CLUB
+235432,Munetsi,Marshall,77,10,Common,3,3,Basic,Zimbabwe,Ligue 1 Uber Eats,Stade de Reims,true,0,0,350-10000,0,CLUB
+235633,Diouf,Yehvann,77,0,Common,1,3,GK Basic,France,Ligue 1 Uber Eats,Stade de Reims,true,0,0,350-10000,0,CLUB
+235634,Konan,Ghislain,77,7,Common,3,3,Basic,Ivory Coast,ROSHN Saudi League,Al Nassr,true,0,0,350-10000,0,CLUB
+235657,Daly,Rachel,85,25,Rare,3,3,Basic,England,Barclays Women’s Super League,Aston Villa,true,0,0,2100-10000,0,CLUB
+235781,Comesaña Veiga,Santiago,78,10,Common,3,4,Basic,Spain,LALIGA EA SPORTS,Villarreal CF,true,0,0,350-10000,0,CLUB
+235866,Kouamé,Christian,77,25,Common,3,4,Basic,Ivory Coast,Serie A TIM,Fiorentina,true,0,0,350-10000,0,CLUB
+235889,Ünder,Cengiz,78,12,Common,4,4,Basic,Türkiye,Trendyol Süper Lig,Fenerbahçe,true,0,0,350-10000,0,CLUB
+235973,Szymański,Sebastian,77,18,Common,3,3,Basic,Poland,Trendyol Süper Lig,Fenerbahçe,true,0,0,350-10000,0,CLUB
+235983,Pozo Pozo,Alejandro,72,3,Rare,3,3,Basic,Spain,LALIGA EA SPORTS,UD Almería,false,0,0,300-10000,252,CLUB
+236015,Gibbs-White,Morgan,77,18,Common,4,2,Basic,England,Premier League,Nott'm Forest,true,0,0,350-10000,0,CLUB
+236033,Cárdenas Líndez,Daniel,74,0,Rare,1,3,GK Basic,Spain,LALIGA EA SPORTS,Rayo Vallecano,false,0,0,300-10000,259,CLUB
+236281,Negri,Franco,72,7,Common,2,3,Basic,Argentina,Major League Soccer,Inter Miami CF,false,0,0,150-10000,108,CLUB
+236337,Turner,Jake,60,0,Common,1,3,GK Basic,England,EFL League Two,Gillingham,false,0,0,150-10000,18,CLUB
+236461,Mateta,Jean-Philippe,75,25,Common,3,4,Basic,France,Premier League,Crystal Palace,true,0,0,300-10000,0,CLUB
+236466,Michelin,Clément,69,3,Common,3,3,Basic,France,Ligue 2 BKT,Bordeaux,false,0,0,150-10000,104,CLUB
+236506,Senesi,Marcos,76,5,Common,3,4,Basic,Argentina,Premier League,AFC Bournemouth,true,0,0,350-10000,0,CLUB
+236532,Koch,Robin,76,5,Common,2,4,Basic,Germany,Bundesliga,Frankfurt,true,0,0,350-10000,0,CLUB
+236551,Darling,Harry,70,5,Common,2,4,Basic,England,EFL Championship,Swansea City,false,0,0,150-10000,105,CLUB
+236572,Wijndal,Owen,76,7,Common,3,2,Basic,Netherlands,Eredivisie,Ajax,true,0,0,350-10000,0,CLUB
+236593,Stengs,Calvin,73,18,Rare,4,3,Basic,Netherlands,Eredivisie,Feyenoord,false,0,0,300-10000,256,CLUB
+236636,Caci,Anthony,76,8,Common,3,5,Basic,France,Bundesliga,1. FSV Mainz 05,true,0,0,350-10000,0,CLUB
+236679,Melendo Jiménez,Óscar,77,14,Common,4,2,Basic,Spain,LALIGA EA SPORTS,Granada CF,true,0,0,350-10000,0,CLUB
+236699,Lukić,Saša,77,14,Common,3,3,Basic,Serbia,Premier League,Fulham,true,0,0,350-10000,0,CLUB
+236898,Aebischer,Michel,74,14,Rare,3,4,Basic,Switzerland,Serie A TIM,Bologna,true,0,0,300-10000,0,CLUB
+237640,Bajrami,Nedim,74,18,Rare,3,4,Basic,Albania,Serie A TIM,Sassuolo,true,0,0,300-10000,0,CLUB
+237692,Foden,Phil,85,27,Rare,4,3,Basic,England,Premier League,Manchester City,true,0,0,2100-10000,0,CLUB
+237916,Smallbone,Will,68,14,Common,3,4,Basic,Republic of Ireland,EFL Championship,Southampton,true,0,0,150-10000,0,CLUB
+238008,Elliott,Jack,73,5,Rare,2,3,Basic,England,Major League Soccer,Philadelphia,false,0,0,300-10000,256,CLUB
+238096,Rose,Deanne,78,25,Common,4,3,Basic,Canada,Barclays Women’s Super League,Leicester City,true,0,0,350-10000,0,CLUB
+238160,Demiral,Merih,77,5,Common,2,2,Basic,Türkiye,ROSHN Saudi League,Al Ahli,true,0,0,350-10000,0,CLUB
+238216,Gallagher,Conor,78,14,Common,3,2,Basic,England,Premier League,Chelsea,true,0,0,350-10000,0,CLUB
+238235,Vetlesen,Hugo,72,18,Rare,3,4,Basic,Norway,1A Pro League,Club Brugge,true,0,0,300-10000,0,CLUB
+238277,Gazdag,Dániel,76,18,Common,3,2,Basic,Hungary,Major League Soccer,Philadelphia,true,0,0,350-10000,0,CLUB
+238305,Vidal Miralles,Ignacio,76,3,Common,3,3,Basic,Spain,LALIGA EA SPORTS,CA Osasuna,true,0,0,350-10000,0,CLUB
+238332,Copetti,Enzo,73,25,Rare,3,4,Basic,Argentina,Major League Soccer,Charlotte FC,false,0,0,300-10000,256,CLUB
+238391,Kalulu,Gédéon,73,3,Rare,2,3,Basic,DR Congo,Ligue 1 Uber Eats,FC Lorient,false,0,0,300-10000,256,CLUB
+238616,Lomba Neto,Pedro,77,16,Common,4,4,Basic,Portugal,Premier League,Wolves,false,0,0,350-10000,273,CLUB
+238621,Nascimento França,Rodrigo,77,5,Common,2,2,Basic,Brazil,Trendyol Süper Lig,Fenerbahçe,true,0,0,350-10000,0,CLUB
+238744,McKennie,Weston,76,14,Common,3,3,Basic,United States,Serie A TIM,Juventus,true,0,0,350-10000,0,CLUB
+239301,Martínez,Lisandro,84,5,Rare,3,3,Basic,Argentina,Premier League,Man Utd,true,0,0,1100-10000,0,CLUB
+239464,Galdames,Thomas,68,7,Common,2,3,Basic,Chile,Liga Profesional de Fútbol,Godoy Cruz,true,0,0,150-10000,0,CLUB
+239704,Wagner,Kai,76,7,Common,3,3,Basic,Germany,Major League Soccer,Philadelphia,true,0,0,350-10000,0,CLUB
+239712,Okugawa,Masaya,74,16,Rare,4,4,Basic,Japan,Bundesliga,FC Augsburg,true,0,0,300-10000,0,CLUB
+239901,Kalajdžić,Saša,77,25,Common,3,3,Basic,Austria,Premier League,Wolves,true,0,0,350-10000,0,CLUB
+240017,Skov Olsen,Andreas,77,12,Common,4,4,Basic,Denmark,1A Pro League,Club Brugge,true,0,0,350-10000,0,CLUB
+240243,Carneiro Da Cunha,Matheus Santos,78,25,Common,4,4,Basic,Brazil,Premier League,Wolves,true,0,0,350-10000,0,CLUB
+240273,Smith Rowe,Emile,78,27,Common,4,4,Basic,England,Premier League,Arsenal,true,0,0,350-10000,0,CLUB
+240359,Alderete,Omar,76,5,Common,2,3,Basic,Paraguay,LALIGA EA SPORTS,Getafe CF,true,0,0,350-10000,0,CLUB
+240500,Woolfenden,Luke,69,5,Common,2,3,Basic,England,EFL Championship,Ipswich,false,0,0,150-10000,104,CLUB
+240507,Gomes,Angel,76,18,Common,4,4,Basic,England,Ligue 1 Uber Eats,LOSC Lille,true,0,0,350-10000,0,CLUB
+240535,Chapman,Ellis,59,14,Common,3,4,Basic,England,EFL League One,Cheltenham Town,false,0,0,150-10000,18,CLUB
+240640,Morales,Leonardo,74,5,CONMEBOL Sudamericana,2,3,Basic,Argentina,CONMEBOL Sudamericana,Gimnasia,true,0,0,150-10000,0,CLUB
+240654,Pérez Sayol,Carles,76,12,Common,4,2,Basic,Spain,LALIGA EA SPORTS,RC Celta,true,0,0,350-10000,0,CLUB
+240702,Yaremchuk,Roman,72,25,Common,2,3,Basic,Ukraine,1A Pro League,Club Brugge,false,0,0,150-10000,108,CLUB
+240710,Cléùr,Gabriel,63,3,Common,2,2,Basic,Australia,Isuzu UTE A League,WS Wanderers,true,0,0,150-10000,0,CLUB
+240716,Olivera,Mathías,78,7,Common,3,3,Basic,Uruguay,Serie A TIM,Napoli FC,true,0,0,350-10000,0,CLUB
+240734,O'Riley,Matt,75,14,Common,4,3,Basic,Denmark,cinch Premiership,Celtic,true,0,0,300-10000,0,CLUB
+240744,Ojeda,Martín,76,12,Common,3,4,Basic,Argentina,Major League Soccer,Orlando City,true,0,0,350-10000,0,CLUB
+240777,Ranieri,Luca,72,5,Rare,2,3,Basic,Italy,Serie A TIM,Fiorentina,true,0,0,300-10000,0,CLUB
+240900,Núñez Gestoso,Unai,77,5,Common,2,2,Basic,Spain,LALIGA EA SPORTS,RC Celta,true,0,0,350-10000,0,CLUB
+240916,Ljubičić,Dejan,76,12,Common,3,3,Basic,Austria,Bundesliga,1. FC Köln,true,0,0,350-10000,0,CLUB
+240938,Messias,Junior,78,23,Common,3,3,Basic,Brazil,Serie A TIM,Genoa,true,0,0,350-10000,0,CLUB
+240947,Mitchell,Tyrick,76,7,Common,2,3,Basic,England,Premier League,Crystal Palace,true,0,0,350-10000,0,CLUB
+240987,Cooper,Michael,71,0,Common,1,3,GK Basic,England,EFL Championship,Plymouth Argyle,false,0,0,150-10000,107,CLUB
+241042,Skipp,Oliver,77,10,Common,2,3,Basic,England,Premier League,Spurs,true,0,0,350-10000,0,CLUB
+241095,Vlašić,Nikola,78,21,Common,3,5,Basic,Croatia,Serie A TIM,Torino,true,0,0,350-10000,0,CLUB
+241202,Daka,Patson,75,25,Common,3,3,Basic,Zambia,EFL Championship,Leicester City,true,0,0,300-10000,0,CLUB
+241409,Coleman,Ethan,60,10,Common,2,3,Basic,England,EFL League Two,Gillingham,true,0,0,150-10000,0,CLUB
+241487,Ferreira,Jesus,76,25,Common,2,4,Basic,United States,Major League Soccer,FC Dallas,true,0,0,350-10000,0,CLUB
+241508,Damsgaard,Mikkel,76,18,Common,4,3,Basic,Denmark,Premier League,Brentford,true,0,0,350-10000,0,CLUB
+241509,J. Ferreira Santos,Mauro Jaqueson,75,3,Common,4,3,Basic,Brazil,Eredivisie,PSV,true,0,0,300-10000,0,CLUB
+241522,Wind,Jonas,76,25,Common,3,3,Basic,Denmark,Bundesliga,VfL Wolfsburg,true,0,0,350-10000,0,CLUB
+241585,dos Santos de Paulo,Igor Julio,76,5,Common,2,2,Basic,Brazil,Premier League,Brighton,true,0,0,350-10000,0,CLUB
+241646,Butterworth,Daniel,61,18,Common,3,3,Basic,England,EFL League One,Carlisle United,true,0,0,150-10000,0,CLUB
+241727,Rajković,Predrag,78,0,Common,1,2,GK Basic,Serbia,LALIGA EA SPORTS,RCD Mallorca,true,0,0,350-10000,0,CLUB
+241850,Retegui,Mateo,77,25,Common,3,3,Basic,Italy,Serie A TIM,Genoa,true,0,0,350-10000,0,CLUB
+241867,Ruibal García,Aitor,76,3,Common,3,3,Basic,Spain,LALIGA EA SPORTS,Real Betis,true,0,0,350-10000,0,CLUB
+241907,Rossi,Diego,76,16,Common,3,3,Basic,Uruguay,Major League Soccer,Columbus Crew,true,0,0,350-10000,0,CLUB
+241933,Rodríguez Jiménez,Ramón,74,14,Rare,3,3,Basic,Spain,LALIGA HYPERMOTION,R. Valladolid CF,false,0,0,300-10000,259,CLUB
+241953,Slater,Regan,70,14,Common,2,3,Basic,England,EFL Championship,Hull City,false,0,0,150-10000,105,CLUB
+242087,Morita,Hidemasa,78,14,Common,3,2,Basic,Japan,Liga Portugal,Sporting CP,true,0,0,350-10000,0,CLUB
+242214,Sands,James,70,5,Common,2,3,Basic,United States,Major League Soccer,New York City FC,false,0,0,150-10000,105,CLUB
+242380,Antunes Eustáquio,Stephen,77,10,Common,2,3,Basic,Canada,Liga Portugal,FC Porto,false,0,0,350-10000,273,CLUB
+242434,Jones,Curtis,77,14,Common,4,4,Basic,England,Premier League,Liverpool,true,0,0,350-10000,0,CLUB
+242534,Cásseres Jr,Cristian,72,10,Rare,3,4,Basic,Venezuela,Ligue 1 Uber Eats,Toulouse FC,false,0,0,300-10000,252,CLUB
+242578,Badiashile,Benoît,78,5,Common,2,3,Basic,France,Premier League,Chelsea,true,0,0,350-10000,0,CLUB
+242619,Doucouré,Cheick,78,10,Common,3,3,Basic,Mali,Premier League,Crystal Palace,true,0,0,350-10000,0,CLUB
+242663,Bornauw,Sebastiaan,76,5,Common,2,3,Basic,Belgium,Bundesliga,VfL Wolfsburg,true,0,0,350-10000,0,CLUB
+242664,Saelemaekers,Alexis,78,23,Common,4,4,Basic,Belgium,Serie A TIM,Milan,true,0,0,350-10000,0,CLUB
+242797,Gálvez Luna,Rocío,77,5,Common,2,3,Basic,Spain,Liga F,Real Madrid CF,true,0,0,350-10000,0,CLUB
+242800,Tanner,George,67,3,Common,2,2,Basic,England,EFL Championship,Bristol City,true,0,0,150-10000,0,CLUB
+242835,Balerdi,Leonardo,76,5,Common,2,3,Basic,Argentina,Ligue 1 Uber Eats,OM,true,0,0,350-10000,0,CLUB
+242972,Ibacache,Alex,67,7,Common,2,1,Basic,Chile,Liga Profesional de Fútbol,Belgrano,true,0,0,150-10000,0,CLUB
+243201,Domínguez Romero,Álex,71,0,Common,1,2,GK Basic,Spain,Ligue 1 Uber Eats,Toulouse FC,false,0,0,150-10000,107,CLUB
+243262,McCutcheon,Haley,76,3,Common,3,3,Basic,United States,National Women's Soccer League,Orlando Pride,true,0,0,350-10000,0,CLUB
+243282,McNeil,Dwight,76,16,Common,3,2,Basic,England,Premier League,Everton,true,0,0,350-10000,0,CLUB
+243407,Cameron,Tiffany,68,25,Common,3,4,Basic,Jamaica,Liga F,Real Betis,false,0,0,150-10000,102,CLUB
+243558,Martín Luengo,Óscar Valentín,76,10,Common,2,3,Basic,Spain,LALIGA EA SPORTS,Rayo Vallecano,true,0,0,350-10000,0,CLUB
+243559,de Frutos Sebastián,Jorge,77,12,Common,4,4,Basic,Spain,LALIGA EA SPORTS,Rayo Vallecano,true,0,0,350-10000,0,CLUB
+243657,Garner,James,72,10,Common,3,3,Basic,England,Premier League,Everton,true,0,0,150-10000,0,CLUB
+243664,Rieder,Florian,67,16,Common,3,4,Basic,Austria,Österreichische Fußball-Bundesliga,Wolfsberger AC,false,0,0,150-10000,101,CLUB
+243952,Lunin,Andriy,74,0,Rare,1,3,GK Basic,Ukraine,LALIGA EA SPORTS,Real Madrid,false,0,0,300-10000,259,CLUB
+243970,Kwarteng,Moritz-Broni,69,12,Common,4,3,Basic,Germany,Bundesliga,VfL Bochum,false,0,0,150-10000,104,CLUB
+244000,Fleckstein,Tobias,63,5,Common,2,2,Basic,Germany,3. Liga,MSV Duisburg,false,0,0,150-10000,19,CLUB
+244059,Snoeijs,Katja,79,25,Common,3,3,Basic,Netherlands,Barclays Women’s Super League,Everton,true,0,0,350-10000,0,CLUB
+244064,Pelova,Victoria,76,18,Common,4,4,Basic,Netherlands,Barclays Women’s Super League,Arsenal,true,0,0,350-10000,0,CLUB
+244112,Kyereh,Daniel-Kofi,75,18,Common,5,3,Basic,Ghana,Bundesliga,SC Freiburg,true,0,0,300-10000,0,CLUB
+244206,Pérez,Nehuén,76,5,Common,2,3,Basic,Argentina,Serie A TIM,Udinese,true,0,0,350-10000,0,CLUB
+244270,Moro,Nikola,74,10,Rare,3,5,Basic,Croatia,Serie A TIM,Bologna,false,0,0,300-10000,259,CLUB
+244301,Schmitz,Lisa,78,0,Common,1,3,GK Basic,Germany,Google Pixel Frauen-Bundesliga,VfL Wolfsburg,true,0,0,350-10000,0,CLUB
+244316,Arantes Maximiano,Luís Manuel,77,0,Common,1,2,GK Basic,Portugal,LALIGA EA SPORTS,UD Almería,true,0,0,350-10000,0,CLUB
+244373,Buyalskyi,Vitaliy,76,14,Common,3,4,Basic,Ukraine,Ukrayina Liha,Dynamo Kyiv,true,0,0,350-10000,0,CLUB
+244374,Shaparenko,Mykola,77,14,Common,3,3,Basic,Ukraine,Ukrayina Liha,Dynamo Kyiv,true,0,0,350-10000,0,CLUB
+244472,Cajuste,Jens-Lys,73,10,Common,3,4,Basic,Sweden,Serie A TIM,Napoli FC,true,0,0,150-10000,0,CLUB
+244480,Magnetti,Hugo,73,10,Common,3,3,Basic,France,Ligue 1 Uber Eats,Stade Brestois 29,true,0,0,150-10000,0,CLUB
+244605,Albanis,Christos,71,16,Common,3,3,Basic,Greece,LALIGA HYPERMOTION,FC Andorra,true,0,0,150-10000,0,CLUB
+244669,Hjulmand,Morten,77,10,Common,3,3,Basic,Denmark,Liga Portugal,Sporting CP,true,0,0,350-10000,0,CLUB
+244749,Aguerd,Nayef,79,5,Common,2,3,Basic,Morocco,Premier League,West Ham,true,0,0,350-10000,0,CLUB
+244778,Mota Castro Trincão,Francisco,77,23,Common,4,2,Basic,Portugal,Liga Portugal,Sporting CP,false,0,0,350-10000,273,CLUB
+244915,Salisu,Mohammed,76,5,Common,2,3,Basic,Ghana,Ligue 1 Uber Eats,AS Monaco,true,0,0,350-10000,0,CLUB
+244970,Magnin,Yohann,73,10,Common,3,3,Basic,France,Ligue 1 Uber Eats,Clermont Foot 63,false,0,0,150-10000,110,CLUB
+245037,García Martret,Eric,75,5,Common,2,3,Basic,Spain,LALIGA EA SPORTS,FC Barcelona,true,0,0,300-10000,0,CLUB
+245042,Xu,Haoyang,61,16,Common,3,2,Basic,China PR,Chinese Football Association Super League,Shanghai Shenhua,true,0,0,150-10000,0,CLUB
+245152,Giménez,Santiago,78,25,Common,3,3,Basic,Mexico,Eredivisie,Feyenoord,true,0,0,350-10000,0,CLUB
+245158,Suárez,Luis Javier,75,25,Common,3,4,Basic,Colombia,LALIGA EA SPORTS,UD Almería,true,0,0,300-10000,0,CLUB
+245211,Teze,Jordan,76,3,Common,2,3,Basic,Netherlands,Eredivisie,PSV,true,0,0,350-10000,0,CLUB
+245279,Reguilón Rodríguez,Sergio,78,7,Common,3,3,Basic,Spain,Premier League,Spurs,true,0,0,350-10000,0,CLUB
+245443,Galli,Aurora,77,14,Common,3,3,Basic,Italy,Barclays Women’s Super League,Everton,true,0,0,350-10000,0,CLUB
+245491,Beruatto,Pietro,74,7,Rare,2,3,Basic,Italy,Serie BKT,Pisa,true,0,0,300-10000,0,CLUB
+245541,Reyna,Giovanni,78,12,Common,4,2,Basic,United States,Bundesliga,Borussia Dortmund,true,0,0,350-10000,0,CLUB
+245598,Baba,Iddrisu,76,14,Common,2,4,Basic,Ghana,LALIGA EA SPORTS,UD Almería,true,0,0,350-10000,0,CLUB
+245741,Lindstrøm,Jesper,77,18,Common,4,3,Basic,Denmark,Serie A TIM,Napoli FC,true,0,0,350-10000,0,CLUB
+245871,Gibson,Lee,78,0,Common,1,2,GK Basic,Scotland,Scottish Women's League,Glasgow City FC,false,0,0,350-10000,277,CLUB
+245889,Smith,Kirsty,75,7,Common,3,3,Basic,Scotland,Barclays Women’s Super League,West Ham,true,0,0,300-10000,0,CLUB
+246029,Lee,Geum Min,78,25,Common,3,3,Basic,Korea Republic,Barclays Women’s Super League,Brighton,true,0,0,350-10000,0,CLUB
+246174,Elliott,Harvey,77,18,Common,4,4,Basic,England,Premier League,Liverpool,true,0,0,350-10000,0,CLUB
+246258,Beltrán,Lucas,76,25,Common,3,3,Basic,Argentina,Serie A TIM,Fiorentina,false,0,0,350-10000,270,CLUB
+246286,García Pérez,Nahikari,78,25,Common,4,3,Basic,Spain,Liga F,Athletic Club,true,0,0,350-10000,0,CLUB
+246359,Bonsegundo,Florencia,79,18,Common,4,3,Basic,Argentina,Liga F,Madrid CFF,true,0,0,350-10000,0,CLUB
+246419,Verschaeren,Yari,73,18,Rare,4,3,Basic,Belgium,1A Pro League,RSC Anderlecht,false,0,0,300-10000,256,CLUB
+246431,Sottil,Riccardo,76,27,Common,4,3,Basic,Italy,Serie A TIM,Fiorentina,true,0,0,350-10000,0,CLUB
+246561,Popescu,Mihai,67,5,Common,2,3,Basic,Romania,SUPERLIGA,Farul Constanța,false,0,0,150-10000,101,CLUB
+246568,Meffometou,Falone,76,3,Common,3,4,Basic,Cameroon,D1 Arkema,FC Fleury 91,true,0,0,350-10000,0,CLUB
+246618,Hložek,Adam,77,25,Common,3,4,Basic,Czech Republic,Bundesliga,Leverkusen,true,0,0,350-10000,0,CLUB
+246657,Valles Rosa,Álvaro,76,0,Common,1,2,GK Basic,Spain,LALIGA EA SPORTS,UD Las Palmas,true,0,0,350-10000,0,CLUB
+246698,Zennaro,Mattia,66,14,Rare,3,4,Basic,Italy,Serie BKT,Feralpisalò,false,0,0,250-10000,231,CLUB
+246785,Gil Salvatierra,Bryan,77,27,Common,3,3,Basic,Spain,Premier League,Spurs,true,0,0,350-10000,0,CLUB
+246791,Solomon,Manor,77,27,Common,4,4,Basic,Israel,Premier League,Spurs,true,0,0,350-10000,0,CLUB
+246836,Pieper,Amos,74,5,Rare,2,3,Basic,Germany,Bundesliga,SV Werder Bremen,true,0,0,300-10000,0,CLUB
+247007,Fei,Yu,58,14,Common,2,2,Basic,China PR,Chinese Football Association Super League,Dalian Pro,true,0,0,150-10000,0,CLUB
+247028,Král,Alex,76,10,Common,3,3,Basic,Czech Republic,Bundesliga,Union Berlin,true,0,0,350-10000,0,CLUB
+247072,Eissa,Khalid,69,0,Common,1,3,GK Basic,United Arab Emirates,United Emirates League,Al Ain FC,true,0,0,150-10000,0,CLUB
+247138,Navarro Aliaga,Francisco José,78,25,Common,3,3,Basic,Spain,Liga Portugal,FC Porto,true,0,0,350-10000,0,CLUB
+247182,Silva Melo,Lucas,76,5,Common,2,2,Basic,Brazil,Bundesliga,Frankfurt,true,0,0,350-10000,0,CLUB
+247204,Leite De Souza,Emerson,78,3,Common,3,3,Basic,Brazil,Premier League,Spurs,true,0,0,350-10000,0,CLUB
+247264,Seko,Ayumu,67,5,Common,2,2,Basic,Japan,Credit Suisse Super League,GC Zürich,true,0,0,150-10000,0,CLUB
+247288,Camará,Ibrahima,69,10,Common,2,2,Basic,Guinea,Liga Portugal,Boavista FC,false,0,0,150-10000,104,CLUB
+247495,Moncayola Tollar,Jon,78,14,Common,3,4,Basic,Spain,LALIGA EA SPORTS,CA Osasuna,true,0,0,350-10000,0,CLUB
+247513,Gilles,Vanessa,83,5,Rare,2,3,Basic,Canada,D1 Arkema,OL,false,0,0,850-10000,589,CLUB
+247729,Ribeiro Almeida,Domingos André,78,14,Common,3,3,Basic,Portugal,LALIGA EA SPORTS,Valencia CF,true,0,0,350-10000,0,CLUB
+247802,González,Giovanni,71,2,Common,3,3,Basic,Uruguay,LALIGA EA SPORTS,RCD Mallorca,true,0,0,150-10000,0,CLUB
+248043,Vașvari,Gabriel,64,10,Rare,2,2,Basic,Romania,SUPERLIGA,Politehnica Iași,false,0,0,150-10000,48,CLUB
+248166,Johnsen,Lasse Berg,71,10,Common,2,3,Basic,Norway,Allsvenskan,Malmö FF,false,0,0,150-10000,107,CLUB
+248339,Al Shahrani,Abdulaziz,60,21,Common,3,3,Basic,Saudi Arabia,ROSHN Saudi League,Damac FC,false,0,0,150-10000,18,CLUB
+248484,Collins,Nathan,76,5,Common,2,3,Basic,Republic of Ireland,Premier League,Brentford,true,0,0,350-10000,0,CLUB
+248710,de la Fuente Gómez,Paulino,71,12,Common,3,3,Basic,Spain,LALIGA HYPERMOTION,R. Oviedo,true,0,0,150-10000,0,CLUB
+248728,Ueki,Riko,77,25,Common,4,3,Basic,Japan,Barclays Women’s Super League,West Ham,true,0,0,350-10000,0,CLUB
+248799,Fowler,Mary,76,18,Common,3,5,Basic,Australia,Barclays Women’s Super League,Manchester City,false,0,0,350-10000,270,CLUB
+248808,Hickey,Aaron,76,3,Common,2,5,Basic,Scotland,Premier League,Brentford,true,0,0,350-10000,0,CLUB
+248827,Johnson,Estelle,77,5,Common,2,3,Basic,Cameroon,National Women's Soccer League,NC Courage,false,0,0,350-10000,273,CLUB
+250723,Koné,Kouadio Manu,77,14,Common,4,3,Basic,France,Bundesliga,M'gladbach,false,0,0,350-10000,273,CLUB
+250858,Ciss,Pathé,74,10,Rare,2,3,Basic,Senegal,LALIGA EA SPORTS,Rayo Vallecano,true,0,0,300-10000,0,CLUB
+251052,Neguț,Cristian,67,12,Common,3,4,Basic,Romania,SUPERLIGA,FC Hermannstadt,false,0,0,150-10000,101,CLUB
+251116,Holeš,Tomáš,77,5,Common,2,4,Basic,Czech Republic,Česká Liga,Slavia Praha,true,0,0,350-10000,0,CLUB
+251224,Besong,Paul-Philipp,63,25,Common,3,3,Basic,Germany,3. Liga,B. Dortmund II,false,0,0,150-10000,19,CLUB
+251337,Suárez Suárez,José Alejandro,71,3,Common,2,3,Basic,Spain,LALIGA EA SPORTS,UD Las Palmas,true,0,0,150-10000,0,CLUB
+251392,Krauß,Tom,74,10,Rare,2,3,Basic,Germany,Bundesliga,1. FSV Mainz 05,false,0,0,300-10000,259,CLUB
+251438,Valente Santos,Nuno Miguel,72,14,Rare,3,3,Basic,Portugal,Liga Portugal,Vitória SC,false,0,0,300-10000,252,CLUB
+251445,Dias Lino,Samuel,77,16,Common,3,3,Basic,Brazil,LALIGA EA SPORTS,Atlético de Madrid,true,0,0,350-10000,0,CLUB
+251519,Hugonet,Jean,68,5,Common,2,3,Basic,France,Bundesliga 2,1. FC Magdeburg,true,0,0,150-10000,0,CLUB
+251613,Cáceres,Juan José,73,3,Common,2,3,Basic,Paraguay,Liga Profesional de Fútbol,Lanús,true,0,0,150-10000,0,CLUB
+251616,Teixeira Carmo,David Mota,76,5,Common,2,2,Basic,Portugal,Liga Portugal,FC Porto,true,0,0,350-10000,0,CLUB
+251633,Skóraś,Michał,71,12,Rare,3,3,Basic,Poland,1A Pro League,Club Brugge,false,0,0,250-10000,249,CLUB
+251752,Chevalier,Lucas,78,0,Common,1,3,GK Basic,France,Ligue 1 Uber Eats,LOSC Lille,true,0,0,350-10000,0,CLUB
+251804,Dest,Sergiño,76,3,Common,4,4,Basic,United States,Eredivisie,PSV,true,0,0,350-10000,0,CLUB
+251810,Brobbey,Brian,76,25,Common,3,4,Basic,Netherlands,Eredivisie,Ajax,true,0,0,350-10000,0,CLUB
+252059,Abdul Samed,Salis,78,10,Common,2,2,Basic,Ghana,Ligue 1 Uber Eats,RC Lens,false,0,0,350-10000,277,CLUB
+252084,de Sousa Mendonça,Marcos André,71,25,Common,3,4,Basic,Brazil,LALIGA HYPERMOTION,R. Valladolid CF,true,0,0,150-10000,0,CLUB
+252208,Yılmaz,Rıdvan,74,7,Rare,2,2,Basic,Türkiye,cinch Premiership,Rangers,false,0,0,300-10000,259,CLUB
+252261,Akujobi,Hamdi,64,3,Rare,2,3,Basic,Nigeria,Eredivisie,Almere City FC,true,0,0,150-10000,0,CLUB
+252802,Singo,Wilfried,76,2,Common,2,2,Basic,Ivory Coast,Ligue 1 Uber Eats,AS Monaco,true,0,0,350-10000,0,CLUB
+252909,Sánchez Navarro,Antonio,72,12,Rare,3,3,Basic,Spain,LALIGA EA SPORTS,RCD Mallorca,true,0,0,300-10000,0,CLUB
+252931,Ivanušec,Luka,76,18,Common,4,3,Basic,Croatia,Eredivisie,Feyenoord,true,0,0,350-10000,0,CLUB
+252936,Flips,Alexis,75,16,Common,3,3,Basic,France,1A Pro League,RSC Anderlecht,true,0,0,300-10000,0,CLUB
+252961,Nianzou,Tanguy,73,5,Common,2,3,Basic,France,LALIGA EA SPORTS,Sevilla FC,false,0,0,150-10000,110,CLUB
+252990,Hernández,Junior,73,7,CONMEBOL Sudamericana,3,3,Basic,Colombia,CONMEBOL Sudamericana,Deportes Tolima,false,0,0,150-10000,110,CLUB
+253089,Bejger,Łukasz,65,5,Rare,2,3,Basic,Poland,PKO Bank Polski Ekstraklasa,Śląsk Wrocław,false,0,0,250-10000,228,CLUB
+253109,Veerman,Joey,78,14,Common,3,4,Basic,Netherlands,Eredivisie,PSV,true,0,0,350-10000,0,CLUB
+253157,Boudaoui,Hicham,76,14,Common,3,3,Basic,Algeria,Ligue 1 Uber Eats,OGC Nice,true,0,0,350-10000,0,CLUB
+253170,Szalai,Attila,76,5,Common,2,3,Basic,Hungary,Bundesliga,TSG Hoffenheim,true,0,0,350-10000,0,CLUB
+253181,Tosin,Aiyegun,73,25,Rare,3,4,Basic,Benin,Ligue 1 Uber Eats,FC Lorient,false,0,0,300-10000,256,CLUB
+253444,Kalimuendo,Arnaud,76,25,Common,3,3,Basic,France,Ligue 1 Uber Eats,Stade Rennais FC,true,0,0,350-10000,0,CLUB
+253473,Ricci,Samuele,76,10,Common,3,3,Basic,Italy,Serie A TIM,Torino,true,0,0,350-10000,0,CLUB
+254083,Winther,Casper,63,14,Common,2,3,Basic,Denmark,3F Superliga,Lyngby BK,true,0,0,150-10000,0,CLUB
+254148,Wålemark,Patrik,72,23,Common,4,2,Basic,Sweden,Eredivisie,Feyenoord,false,0,0,150-10000,108,CLUB
+254206,Alvarado,Alexander,76,16,CONMEBOL Sudamericana,4,3,Basic,Ecuador,CONMEBOL Sudamericana,LDU Quito,true,0,0,350-10000,0,CLUB
+254496,Grant,Conor,61,27,Common,3,3,Basic,Republic of Ireland,EFL League Two,MK Dons,false,0,0,150-10000,18,CLUB
+254514,Höög Jansson,Kevin,60,14,Common,2,3,Basic,Sweden,Allsvenskan,IFK Norrköping,true,0,0,150-10000,0,CLUB
+254579,Da Cunha,Lucas,71,18,Common,3,3,Basic,France,Serie BKT,Como,false,0,0,150-10000,107,CLUB
+254796,Madueke,Noni,77,23,Common,4,4,Basic,England,Premier League,Chelsea,true,0,0,350-10000,0,CLUB
+254840,Pavlović,Strahinja,75,5,Common,2,3,Basic,Serbia,Österreichische Fußball-Bundesliga,RB Salzburg,false,0,0,300-10000,266,CLUB
+254894,Lopes de Souza,Leonardo,73,25,Rare,3,3,Basic,Brazil,Chinese Football Association Super League,Zhejiang Pro,false,0,0,300-10000,256,CLUB
+254909,Dorley,Oscar,76,14,Common,4,3,Basic,Liberia,Česká Liga,Slavia Praha,true,0,0,350-10000,0,CLUB
+255000,Moffi,Terem,77,25,Common,2,3,Basic,Nigeria,Ligue 1 Uber Eats,OGC Nice,true,0,0,350-10000,0,CLUB
+255001,Rovella,Nicolò,77,14,Common,3,4,Basic,Italy,Serie A TIM,Latium,true,0,0,350-10000,0,CLUB
+255009,Taylor,Kenneth,75,14,Common,3,5,Basic,Netherlands,Eredivisie,Ajax,true,0,0,300-10000,0,CLUB
+255043,Dike,Daryl,71,25,Common,2,4,Basic,United States,EFL Championship,West Brom,true,0,0,150-10000,0,CLUB
+255069,González Iglesias,Nicolás,76,10,Common,3,3,Basic,Spain,Liga Portugal,FC Porto,true,0,0,350-10000,0,CLUB
+255074,Bondarenko,Artem,75,18,Common,3,2,Basic,Ukraine,Ukrayina Liha,Shakhtar Donetsk,true,0,0,300-10000,0,CLUB
+255106,Badé,Loïc,77,5,Common,2,3,Basic,France,LALIGA EA SPORTS,Sevilla FC,true,0,0,350-10000,0,CLUB
+255125,Ounahi,Azzedine,76,14,Common,3,3,Basic,Morocco,Ligue 1 Uber Eats,OM,true,0,0,350-10000,0,CLUB
+255536,Geyrhofer,Niklas,64,5,Rare,2,3,Basic,Austria,Österreichische Fußball-Bundesliga,SK Sturm Graz,false,0,0,150-10000,48,CLUB
+255654,Kalulu,Pierre,78,5,Rare,2,3,Basic,France,Serie A TIM,Milan,true,0,0,650-10000,0,CLUB
+255860,Martínez Cortés,Julio,64,25,Rare,3,4,Basic,Spain,LALIGA EA SPORTS,Granada CF,true,0,0,150-10000,0,CLUB
+256008,Rodrigues da Silva,Felipe,75,5,Common,2,2,Basic,Brazil,Liga Portugal,SL Benfica,false,0,0,300-10000,266,CLUB
+256281,Fischer,Kilian,71,3,Common,2,4,Basic,Germany,Bundesliga,VfL Wolfsburg,true,0,0,150-10000,0,CLUB
+256489,England,Bethany,82,25,Common,3,4,Basic,England,Barclays Women’s Super League,Spurs,false,0,0,350-10000,291,CLUB
+256612,de Lima Barbosa,F. Evanilson,78,25,Common,3,4,Basic,Brazil,Liga Portugal,FC Porto,false,0,0,350-10000,277,CLUB
+256675,Marmoush,Omar,75,25,Common,4,3,Basic,Egypt,Bundesliga,Frankfurt,true,0,0,300-10000,0,CLUB
+256769,Truffert,Adrien,76,7,Common,2,3,Basic,France,Ligue 1 Uber Eats,Stade Rennais FC,true,0,0,350-10000,0,CLUB
+256854,Omari,Warmed,76,5,Common,2,3,Basic,France,Ligue 1 Uber Eats,Stade Rennais FC,true,0,0,350-10000,0,CLUB
+256900,Mahmoud,Abdallahi,62,14,Common,2,3,Basic,Mauritania,LALIGA EA SPORTS,D. Alavés,false,0,0,150-10000,19,CLUB
+256958,Ferreira Vieira,Fábio Daniel,77,18,Common,3,3,Basic,Portugal,Premier League,Arsenal,true,0,0,350-10000,0,CLUB
+257278,Theate,Arthur,77,5,Common,2,3,Basic,Belgium,Ligue 1 Uber Eats,Stade Rennais FC,true,0,0,350-10000,0,CLUB
+257279,Baena Rodríguez,Alejandro,76,14,Common,3,4,Basic,Spain,LALIGA EA SPORTS,Villarreal CF,true,0,0,350-10000,0,CLUB
+257290,Neto Lopes,João Mário,77,3,Common,3,4,Basic,Portugal,Liga Portugal,FC Porto,true,0,0,350-10000,0,CLUB
+257291,Ibsen Rossi,Zeno,62,5,Common,2,4,Basic,England,EFL League One,Cambridge Utd,true,0,0,150-10000,0,CLUB
+257771,Juranović,Josip,77,2,Common,2,4,Basic,Croatia,Bundesliga,Union Berlin,true,0,0,350-10000,0,CLUB
+257876,Seiwald,Nicolas,76,14,Common,2,3,Basic,Austria,Bundesliga,RB Leipzig,false,0,0,350-10000,270,CLUB
+258214,Cornelius,Dean,62,14,Common,2,3,Basic,Scotland,EFL League Two,Harrogate Town,true,0,0,150-10000,0,CLUB
+258396,Özkacar,Cenk,72,5,Common,2,3,Basic,Türkiye,LALIGA EA SPORTS,Valencia CF,true,0,0,150-10000,0,CLUB
+258444,Guessand,Evann,70,25,Common,3,3,Basic,France,Ligue 1 Uber Eats,OGC Nice,false,0,0,150-10000,105,CLUB
+258576,Abelleira Dueñas,Teresa José,78,14,Common,4,4,Basic,Spain,Liga F,Real Madrid CF,true,0,0,350-10000,0,CLUB
+258580,Aktürkoğlu,Kerem,77,16,Common,4,3,Basic,Türkiye,Trendyol Süper Lig,Galatasaray,true,0,0,350-10000,0,CLUB
+258586,Blackmore,Will,54,0,Common,1,2,GK Basic,England,EFL League One,Peterborough,false,0,0,150-10000,16,CLUB
+258683,Ilić,Ivan,76,14,Common,3,3,Basic,Serbia,Serie A TIM,Torino,true,0,0,350-10000,0,CLUB
+258704,Thibaud,Julie,77,5,Common,2,2,Basic,France,Barclays Women’s Super League,Leicester City,true,0,0,350-10000,0,CLUB
+258781,Zabarnyi,Illia,73,5,Rare,2,2,Basic,Ukraine,Premier League,AFC Bournemouth,false,0,0,300-10000,256,CLUB
+258788,Caso,Giuseppe,71,27,Common,3,4,Basic,Italy,Serie A TIM,Frosinone,true,0,0,150-10000,0,CLUB
+258826,Rensch,Devyne,75,3,Common,3,5,Basic,Netherlands,Eredivisie,Ajax,true,0,0,300-10000,0,CLUB
+258946,Lovato,Matteo,71,5,Common,2,3,Basic,Italy,Serie A TIM,Salernitana,false,0,0,150-10000,107,CLUB
+258976,Parisi,Fabiano,77,7,Common,2,3,Basic,Italy,Serie A TIM,Fiorentina,true,0,0,350-10000,0,CLUB
+259173,Chust García,Víctor,75,5,Common,2,5,Basic,Spain,LALIGA EA SPORTS,Cádiz CF,true,0,0,300-10000,0,CLUB
+259233,Moriba,Ilaix,72,14,Rare,4,4,Basic,Guinea,Bundesliga,RB Leipzig,false,0,0,300-10000,252,CLUB
+259307,Gusto,Malo,76,3,Common,3,3,Basic,France,Premier League,Chelsea,true,0,0,350-10000,0,CLUB
+259399,Højlund,Rasmus,76,25,Common,3,3,Basic,Denmark,Premier League,Man Utd,false,0,0,350-10000,270,CLUB
+259476,Ruhs,Michael,59,25,Common,2,3,Basic,Australia,Isuzu UTE A League,Western United,false,0,0,150-10000,18,CLUB
+259521,Terrats Espacio,Ramón,73,14,Rare,2,3,Basic,Spain,LALIGA EA SPORTS,Villarreal CF,false,0,0,300-10000,256,CLUB
+259612,Castillo,Jesús,70,10,Common,3,3,Basic,Peru,Liga Portugal,Gil Vicente,false,0,0,150-10000,105,CLUB
+259629,Wood,Patrick,60,25,Common,2,3,Basic,Australia,Isuzu UTE A League,Sydney FC,true,0,0,150-10000,0,CLUB
+259681,Sánchez Rodríguez,Rodrigo,77,16,Common,3,4,Basic,Spain,LALIGA EA SPORTS,Real Betis,false,0,0,350-10000,273,CLUB
+259748,Vitík,Martin,73,5,Rare,2,3,Basic,Czech Republic,Česká Liga,Sparta Praha,false,0,0,300-10000,256,CLUB
+259868,Sarr,Pape Matar,72,14,Common,2,3,Basic,Senegal,Premier League,Spurs,false,0,0,150-10000,108,CLUB
+259913,Sudakov,Heorhii,75,18,Common,3,5,Basic,Ukraine,Ukrayina Liha,Shakhtar Donetsk,true,0,0,300-10000,0,CLUB
+260599,Varela,Alan,76,10,Common,3,3,Basic,Argentina,Liga Portugal,FC Porto,true,0,0,350-10000,0,CLUB
+260601,Zeballos,Exequiel,73,12,CONMEBOL Libertadores,4,3,Basic,Argentina,CONMEBOL Libertadores,Boca Juniors,false,0,0,300-10000,256,CLUB
+260658,Wooh,Christopher,72,5,Common,2,3,Basic,Cameroon,Ligue 1 Uber Eats,Stade Rennais FC,true,0,0,150-10000,0,CLUB
+260908,Kerkez,Milos,75,7,Common,3,3,Basic,Hungary,Premier League,AFC Bournemouth,true,0,0,300-10000,0,CLUB
+261204,Uzuni,Myrto,78,25,Common,4,3,Basic,Albania,LALIGA EA SPORTS,Granada CF,true,0,0,350-10000,0,CLUB
+261621,Mbete,Luke,62,5,Common,2,3,Basic,England,Premier League,Manchester City,true,0,0,150-10000,0,CLUB
+261675,Traoré,Brahim,62,5,Common,2,4,Basic,France,Ligue 2 BKT,SM Caen,false,0,0,150-10000,19,CLUB
+261786,Vanhaevermaet,Justine,76,14,Common,3,4,Basic,Belgium,Barclays Women’s Super League,Everton,false,0,0,350-10000,270,CLUB
+261829,da Silva Costa,Carole,77,5,Common,2,3,Basic,Portugal,Liga Portugal Feminino,SL Benfica,true,0,0,350-10000,0,CLUB
+261838,Norton,Andreia,75,14,Common,4,3,Basic,Portugal,Liga Portugal Feminino,SL Benfica,true,0,0,300-10000,0,CLUB
+261843,de Jesus Jacinto,Andreia,77,14,Common,3,3,Basic,Portugal,Liga F,Real Sociedad,false,0,0,350-10000,273,CLUB
+261889,Ruan,Qilong,50,5,Common,2,3,Basic,China PR,Chinese Football Association Super League,Beijing FC,true,0,0,150-10000,0,CLUB
+262061,Fernandes Melo,Kaiky,70,5,Rare,2,2,Basic,Brazil,LALIGA EA SPORTS,UD Almería,true,0,0,250-10000,0,CLUB
+262113,Zalewski,Nicola,76,12,Common,3,4,Basic,Poland,Serie A TIM,Roma FC,true,0,0,350-10000,0,CLUB
+262411,Crespo da Silva,Miguel,75,14,Common,3,3,Basic,Portugal,Trendyol Süper Lig,Fenerbahçe,false,0,0,300-10000,266,CLUB
+262459,Torrodà Ricart,Anna,76,10,Common,3,3,Basic,Spain,Liga F,Levante UD,true,0,0,350-10000,0,CLUB
+262744,Bouldini,Mohamed,73,25,Common,3,4,Basic,Morocco,LALIGA HYPERMOTION,Levante UD,false,0,0,150-10000,110,CLUB
+262925,Zorgane,Adem,75,14,Common,3,5,Basic,Algeria,1A Pro League,Sp. Charleroi,true,0,0,300-10000,0,CLUB
+263009,Hampton,Hannah,77,0,Common,1,3,GK Basic,England,Barclays Women’s Super League,Chelsea,true,0,0,350-10000,0,CLUB
+263012,Turner,Millie,78,5,Common,2,4,Basic,England,Barclays Women’s Super League,Manchester Utd,false,0,0,350-10000,277,CLUB
+263396,Arias Copete,José Manuel,75,5,Common,2,2,Basic,Spain,LALIGA EA SPORTS,RCD Mallorca,true,0,0,300-10000,0,CLUB
+263653,Ferreira Magalhães,Miguel Ângelo,73,2,Common,3,3,Basic,Portugal,Liga Portugal,Vitória SC,true,0,0,150-10000,0,CLUB
+263678,Gardner-Hickman,Taylor,68,14,Common,2,3,Basic,England,EFL Championship,Bristol City,false,0,0,150-10000,102,CLUB
+263781,de Oliveira Campos,Vanderson,77,3,Common,3,3,Basic,Brazil,Ligue 1 Uber Eats,AS Monaco,true,0,0,350-10000,0,CLUB
+263882,Fadera,Alieu,68,16,Common,3,4,Basic,Gambia,1A Pro League,KRC Genk,true,0,0,150-10000,0,CLUB
+263955,Knight,Ben,60,23,Common,3,3,Basic,England,Premier League,Manchester City,false,0,0,150-10000,18,CLUB
+264065,Lopane,Alessandro,57,14,Common,2,2,Basic,Australia,Isuzu UTE A League,Melbourne City,true,0,0,150-10000,0,CLUB
+264240,Páez Gavira,Pablo Martín,83,14,Rare,3,3,Basic,Spain,LALIGA EA SPORTS,FC Barcelona,false,0,0,850-10000,589,CLUB
+264309,Güler,Arda,77,18,Common,4,3,Basic,Türkiye,LALIGA EA SPORTS,Real Madrid,true,0,0,350-10000,0,CLUB
+264330,Zafeiris,Christos,73,14,Rare,4,4,Basic,Norway,Česká Liga,Slavia Praha,false,0,0,300-10000,256,CLUB
+264388,Moleiro González,Alberto,75,16,Common,3,3,Basic,Spain,LALIGA EA SPORTS,UD Las Palmas,true,0,0,300-10000,0,CLUB
+264490,López de la Fuente,Noel,94,25,FUTTIES EVO Complete,4,4,Basic,Spain,LALIGA EA SPORTS,Real Madrid,true,0,0,150-10000,0,CLUB
+264728,Kaplan,Ahmetcan,67,5,Common,2,2,Basic,Türkiye,Eredivisie,Ajax,false,0,0,150-10000,101,CLUB
+264865,Chavas,Mylène,79,0,Common,1,2,GK Basic,France,Liga F,Real Madrid CF,true,0,0,350-10000,0,CLUB
+264875,Casparij,Kerstin,76,3,Common,3,4,Basic,Netherlands,Barclays Women’s Super League,Manchester City,true,0,0,350-10000,0,CLUB
+264884,Dudek,Paulina,84,5,Rare,2,2,Basic,Poland,D1 Arkema,Paris SG,true,0,0,1100-10000,0,CLUB
+264890,Damnjanović,Jovana,79,25,Common,3,3,Basic,Serbia,Google Pixel Frauen-Bundesliga,FC Bayern München,false,0,0,350-10000,280,CLUB
+264896,Bizet,Celin,76,12,Common,4,3,Basic,Norway,Barclays Women’s Super League,Spurs,true,0,0,350-10000,0,CLUB
+264900,Fazer,Laurina,78,14,Common,3,3,Basic,France,D1 Arkema,Paris SG,true,0,0,350-10000,0,CLUB
+264904,Khelifi,Léa,76,18,Common,4,2,Basic,France,D1 Arkema,Montpellier,true,0,0,350-10000,0,CLUB
+264905,Le Guilly,Jade,75,3,Common,2,3,Basic,France,D1 Arkema,Paris SG,true,0,0,300-10000,0,CLUB
+264914,Zeller,Dóra,72,16,Common,3,3,Basic,Hungary,Google Pixel Frauen-Bundesliga,1. FC Köln,false,0,0,150-10000,108,CLUB
+264921,Wirtz,Juliane,76,14,Common,3,3,Basic,Germany,Google Pixel Frauen-Bundesliga,SV Werder Bremen,true,0,0,350-10000,0,CLUB
+264924,Turanyi,Lilla,77,5,Common,2,3,Basic,Hungary,Google Pixel Frauen-Bundesliga,Leverkusen,true,0,0,350-10000,0,CLUB
+264946,Bruun,Signe,78,25,Common,3,3,Basic,Denmark,Liga F,Real Madrid CF,true,0,0,350-10000,0,CLUB
+264962,Laplacette,Tess,76,3,Common,2,3,Basic,France,D1 Arkema,LOSC Lille,true,0,0,350-10000,0,CLUB
+264967,Kiedrzynek,Katarzyna,78,0,Common,1,3,GK Basic,Poland,D1 Arkema,Paris SG,true,0,0,350-10000,0,CLUB
+264985,Degen,Celina,76,5,Common,2,2,Basic,Austria,Google Pixel Frauen-Bundesliga,1. FC Köln,false,0,0,350-10000,270,CLUB
+264988,Harsch,Franziska,76,14,Common,3,2,Basic,Germany,Google Pixel Frauen-Bundesliga,TSG Hoffenheim,true,0,0,350-10000,0,CLUB
+264989,Corley,Gia,77,14,Common,3,2,Basic,United States,Google Pixel Frauen-Bundesliga,TSG Hoffenheim,true,0,0,350-10000,0,CLUB
+264994,Naschenweng,Katharina,83,7,Rare,3,3,Basic,Austria,Google Pixel Frauen-Bundesliga,FC Bayern München,true,0,0,850-10000,0,CLUB
+264999,Tufeković,Martina,78,0,Common,1,2,GK Basic,Germany,Google Pixel Frauen-Bundesliga,TSG Hoffenheim,true,0,0,350-10000,0,CLUB
+265004,Linder,Sarai,78,3,Common,2,2,Basic,Germany,Google Pixel Frauen-Bundesliga,TSG Hoffenheim,true,0,0,350-10000,0,CLUB
+265016,Graf,Luca,74,14,Rare,3,2,Basic,Germany,Google Pixel Frauen-Bundesliga,RB Leipzig,false,0,0,300-10000,259,CLUB
+265019,Höbinger,Marie,71,14,Common,3,4,Basic,Austria,Barclays Women’s Super League,Liverpool,false,0,0,150-10000,107,CLUB
+265039,Meißner,Jacqueline,76,5,Common,2,2,Basic,Germany,Google Pixel Frauen-Bundesliga,SGS Essen,true,0,0,350-10000,0,CLUB
+265047,Ostermeier,Lena,76,5,Common,2,2,Basic,Germany,Google Pixel Frauen-Bundesliga,SGS Essen,true,0,0,350-10000,0,CLUB
+265052,Ostermeier,Selina,76,5,Common,2,3,Basic,Germany,Google Pixel Frauen-Bundesliga,Leverkusen,true,0,0,350-10000,0,CLUB
+265078,Xhemaili,Riola,78,18,Common,3,3,Basic,Switzerland,Google Pixel Frauen-Bundesliga,VfL Wolfsburg,true,0,0,350-10000,0,CLUB
+265082,Achcińska,Adriana,72,14,Common,3,3,Basic,Poland,Google Pixel Frauen-Bundesliga,1. FC Köln,true,0,0,150-10000,0,CLUB
+265085,Pfluger,Anja,76,14,Common,3,2,Basic,Germany,Google Pixel Frauen-Bundesliga,SGS Essen,true,0,0,350-10000,0,CLUB
+265118,Voll,Charlotte,78,0,Common,1,2,GK Basic,Germany,Google Pixel Frauen-Bundesliga,Leverkusen,true,0,0,350-10000,0,CLUB
+265166,Brandenburg,Michaela,74,5,Rare,2,2,Basic,Germany,Google Pixel Frauen-Bundesliga,SV Werder Bremen,true,0,0,300-10000,0,CLUB
+265188,Scalvini,Giorgio,75,5,Common,2,3,Basic,Italy,Serie A TIM,Bergamo Calcio,true,0,0,300-10000,0,CLUB
+265234,O'Brien,Shannon,73,25,Rare,3,3,Basic,England,Barclays Women’s Super League,Leicester City,false,0,0,300-10000,256,CLUB
+265242,Zinsberger,Manuela,85,0,Rare,1,4,GK Basic,Austria,Barclays Women’s Super League,Arsenal,true,0,0,2100-10000,0,CLUB
+265254,Spencer,Becky,76,0,Common,1,2,GK Basic,Jamaica,Barclays Women’s Super League,Spurs,true,0,0,350-10000,0,CLUB
+265258,Naz,Jessica,76,25,Common,3,4,Basic,England,Barclays Women’s Super League,Spurs,true,0,0,350-10000,0,CLUB
+265264,Percival,Ria,76,14,Common,4,3,Basic,New Zealand,Barclays Women’s Super League,Spurs,true,0,0,350-10000,0,CLUB
+265294,Connolly,Megan,77,10,Common,2,3,Basic,Republic of Ireland,Barclays Women’s Super League,Bristol City,true,0,0,350-10000,0,CLUB
+265301,Fisk,Grace,76,5,Common,2,3,Basic,England,Barclays Women’s Super League,Liverpool,true,0,0,350-10000,0,CLUB
+265326,Mayling,Sarah,79,3,Common,3,3,Basic,England,Barclays Women’s Super League,Aston Villa,true,0,0,350-10000,0,CLUB
+265332,Turner,Danielle,76,5,Common,2,3,Basic,England,Barclays Women’s Super League,Aston Villa,true,0,0,350-10000,0,CLUB
+265347,Harries,Emma,72,25,Common,3,3,Basic,England,Barclays Women’s Super League,West Ham,false,0,0,150-10000,108,CLUB
+265350,Evans,Gemma,76,5,Common,2,3,Basic,Wales,Barclays Women’s Super League,Manchester Utd,true,0,0,350-10000,0,CLUB
+265381,Brecht,Barbara,71,16,Common,3,3,Basic,Germany,Google Pixel Frauen-Bundesliga,RB Leipzig,false,0,0,150-10000,107,CLUB
+265450,Bakayoko,Johan,75,23,Common,3,3,Basic,Belgium,Eredivisie,PSV,true,0,0,300-10000,0,CLUB
+265545,Mouazan,Baptiste,59,10,Common,2,3,Basic,France,Ligue 2 BKT,US Concarneau,true,0,0,150-10000,0,CLUB
+265571,Lacasse,Cloé,76,27,Common,3,5,Basic,Canada,Barclays Women’s Super League,Arsenal,true,0,0,350-10000,0,CLUB
+265667,Alman,Jostin,67,25,CONMEBOL Sudamericana,3,3,Basic,Ecuador,CONMEBOL Sudamericana,Delfín SC,false,0,0,150-10000,101,CLUB
+265727,Martínez,Franco,60,3,Common,2,3,Basic,Argentina,Liga Profesional de Fútbol,Arsenal,true,0,0,150-10000,0,CLUB
+265845,Belloumou,Inès,77,7,Common,3,2,Basic,France,Google Pixel Frauen-Bundesliga,FC Bayern München,true,0,0,350-10000,0,CLUB
+265850,Mpome,Maelys,76,5,Common,2,3,Basic,France,D1 Arkema,Montpellier,true,0,0,350-10000,0,CLUB
+265854,Puntigam,Sarah,78,5,Common,3,3,Basic,Austria,National Women's Soccer League,Houston Dash,false,0,0,350-10000,277,CLUB
+265937,Fleury,Louise,79,16,Common,3,3,Basic,France,D1 Arkema,Paris FC,true,0,0,350-10000,0,CLUB
+265947,Louis,Batcheba,77,23,Common,3,3,Basic,Haiti,D1 Arkema,FC Fleury 91,false,0,0,350-10000,273,CLUB
+265952,Rabanne,Julie,76,12,Common,3,4,Basic,France,D1 Arkema,LOSC Lille,true,0,0,350-10000,0,CLUB
+265985,El Chad,Nesryne,73,5,Rare,2,2,Basic,Morocco,D1 Arkema,LOSC Lille,false,0,0,300-10000,256,CLUB
+266153,Essiam,Emmanuel,58,14,Common,2,2,Basic,Ghana,Credit Suisse Super League,FC Basel 1893,false,0,0,150-10000,17,CLUB
+266254,Terland,Elisabeth,73,25,Rare,3,4,Basic,Norway,Barclays Women’s Super League,Brighton,false,0,0,300-10000,256,CLUB
+266400,Hume,Trai,68,3,Common,2,2,Basic,Northern Ireland,EFL Championship,Sunderland,true,0,0,150-10000,0,CLUB
+266866,dos Santos,Éderson José,77,14,Common,3,3,Basic,Brazil,Serie A TIM,Bergamo Calcio,true,0,0,350-10000,0,CLUB
+266872,Gatti,Federico,76,5,Common,2,3,Basic,Italy,Serie A TIM,Juventus,true,0,0,350-10000,0,CLUB
+266895,Tresoldi,Nicolò,62,25,Common,3,3,Basic,Germany,Bundesliga 2,Hannover 96,false,0,0,150-10000,19,CLUB
+266920,Furness,Rachel,72,14,Rare,4,3,Basic,Northern Ireland,Barclays Women’s Super League,Bristol City,true,0,0,300-10000,0,CLUB
+266949,Codina Panedas,Laia,73,5,Rare,2,2,Basic,Spain,Barclays Women’s Super League,Arsenal,true,0,0,300-10000,0,CLUB
+266962,Thomas,Lindsey,77,25,Common,3,3,Basic,France,Calcio A Femminile,Juventus,true,0,0,350-10000,0,CLUB
+267204,Ivory,Laurel,72,0,Rare,1,1,GK Basic,United States,National Women's Soccer League,Seattle Reign,true,0,0,300-10000,0,CLUB
+267211,Stanton,Nikki,74,10,Rare,2,3,Basic,United States,National Women's Soccer League,Seattle Reign,true,0,0,300-10000,0,CLUB
+267235,Kurtz,Kaleigh,75,5,Common,2,3,Basic,United States,National Women's Soccer League,NC Courage,true,0,0,300-10000,0,CLUB
+267282,Alozie,Michelle,72,23,Common,3,3,Basic,Nigeria,National Women's Soccer League,Houston Dash,false,0,0,150-10000,108,CLUB
+267289,Lind,Katie,82,5,Common,2,2,Basic,United States,National Women's Soccer League,Houston Dash,false,0,0,350-10000,291,CLUB
+267329,Ball,Elizabeth,79,5,Common,2,3,Basic,United States,National Women's Soccer League,KC Current,true,0,0,350-10000,0,CLUB
+267345,Weber,Mallory,73,7,Rare,2,3,Basic,United States,National Women's Soccer League,KC Current,false,0,0,300-10000,256,CLUB
+267353,Freeman,Mandy,74,5,Rare,2,2,Basic,United States,National Women's Soccer League,NJ/NY Gotham,false,0,0,300-10000,259,CLUB
+267369,Lussi,Tyler,75,12,Common,3,3,Basic,United States,National Women's Soccer League,NC Courage,true,0,0,300-10000,0,CLUB
+267372,Roccaro,Cari,77,10,Common,3,3,Basic,United States,National Women's Soccer League,Chicago Red Stars,true,0,0,350-10000,0,CLUB
+267378,Ali,Amirah,73,12,Common,3,3,Basic,United States,National Women's Soccer League,San Diego Wave,false,0,0,150-10000,110,CLUB
+267652,Mansuy,Héloïse,74,5,Rare,2,3,Basic,France,D1 Arkema,Havre AC,false,0,0,300-10000,259,CLUB
+267673,Ferreira Gomes,Mélissa,75,25,Common,3,4,Basic,Portugal,D1 Arkema,Stade de Reims,true,0,0,300-10000,0,CLUB
+267702,Doumbia,Kamory,72,18,Common,3,3,Basic,Mali,Ligue 1 Uber Eats,Stade de Reims,false,0,0,150-10000,108,CLUB
+267743,Näsström,Hampus,61,10,Rare,2,2,Basic,Sweden,Allsvenskan,IFK Värnamo,true,0,0,150-10000,0,CLUB
+268131,Egan-Riley,CJ,67,3,Common,2,3,Basic,England,Premier League,Burnley,true,0,0,150-10000,0,CLUB
+268470,Sousa Alves,Lúcia Catarina,72,7,Common,2,3,Basic,Portugal,Liga Portugal Feminino,SL Benfica,false,0,0,150-10000,108,CLUB
+268672,Cagnano,Andrea,63,7,Common,2,3,Basic,Italy,Serie BKT,Südtirol,false,0,0,150-10000,19,CLUB
+268754,Zaro,Giovanni,72,5,Rare,2,2,Basic,Italy,Serie BKT,Modena,false,0,0,300-10000,252,CLUB
+268868,Antunes Gouveia,Tiago Maria,74,12,Rare,3,3,Basic,Portugal,Liga Portugal,SL Benfica,false,0,0,300-10000,259,CLUB
+268941,Fernández Velasco,Jana,73,5,Rare,2,3,Basic,Spain,Liga F,FC Barcelona,true,0,0,300-10000,0,CLUB
+268942,Coll Lluch,Catalina Tomas,78,0,Common,1,3,GK Basic,Spain,Liga F,FC Barcelona,true,0,0,350-10000,0,CLUB
+268989,Heil,Manon,78,0,Common,1,2,GK Basic,France,D1 Arkema,FC Fleury 91,true,0,0,350-10000,0,CLUB
+268992,Møller,Caroline,77,27,Common,3,4,Basic,Denmark,Liga F,Real Madrid CF,true,0,0,350-10000,0,CLUB
+268995,Florentino Vivó,Claudia,70,5,Common,2,3,Basic,Spain,Liga F,Valencia CF,false,0,0,150-10000,105,CLUB
+269176,Veliz,Alejo,75,25,Common,3,3,Basic,Argentina,Premier League,Spurs,true,0,0,300-10000,0,CLUB
+269247,James,Dean,62,7,Common,3,3,Basic,Netherlands,Eredivisie,Go Ahead Eagles,false,0,0,150-10000,19,CLUB
+269432,Al Majhad,Hassan,58,14,Common,2,3,Basic,Saudi Arabia,ROSHN Saudi League,Al Khaleej,true,0,0,150-10000,0,CLUB
+270007,Bolyki,Andor,63,25,Rare,3,4,Basic,Germany,3. Liga,Hallescher FC,true,0,0,150-10000,0,CLUB
+270468,Ziu,Jessica,69,23,Common,3,3,Basic,Republic of Ireland,Barclays Women’s Super League,West Ham,false,0,0,150-10000,104,CLUB
+270510,Bowden,Ryan,51,5,Common,2,2,Basic,Republic of Ireland,SSE Airtricity Men's Premier Division,UCD AFC,true,0,0,150-10000,0,CLUB
+270525,Kett,Franziska,75,16,Common,3,4,Basic,Germany,Google Pixel Frauen-Bundesliga,FC Bayern München,false,0,0,300-10000,266,CLUB
+270573,Cuero,Josué,64,3,CONMEBOL Sudamericana,2,3,Basic,Ecuador,CONMEBOL Sudamericana,Delfín SC,false,0,0,150-10000,19,CLUB
+270715,Lewicki,Jakub,58,16,Common,2,3,Basic,Poland,PKO Bank Polski Ekstraklasa,Jagiellonia,true,0,0,150-10000,0,CLUB
+270919,Zeneli,Besfort,55,27,Common,3,3,Basic,Sweden,Allsvenskan,IF Elfsborg,false,0,0,150-10000,17,CLUB
+271196,González Cañellas,Joan,70,14,Common,3,3,Basic,Spain,Serie A TIM,Lecce,false,0,0,150-10000,105,CLUB
+271400,Barbosa da Paixão,Igor Guilherme,77,27,Common,4,4,Basic,Brazil,Eredivisie,Feyenoord,true,0,0,350-10000,0,CLUB
+271452,Bouchouari,Benjamin,67,14,Common,3,3,Basic,Morocco,Ligue 2 BKT,AS Saint-Étienne,true,0,0,150-10000,0,CLUB
+271490,Garrido López,Javier,59,0,Common,1,3,GK Basic,Spain,LALIGA HYPERMOTION,CD Leganés,true,0,0,150-10000,0,CLUB
+271554,Leitis,Toms,51,0,Common,1,3,GK Basic,Latvia,SSE Airtricity Men's Premier Division,Shamrock Rovers,false,0,0,150-5100,15,CLUB
+271560,Cleary,Reyes,62,25,Common,2,3,Basic,England,EFL Championship,West Brom,true,0,0,150-10000,0,CLUB
+271728,Stenevik,Elise Isolde,69,7,Common,2,4,Basic,Norway,Barclays Women’s Super League,Everton,false,0,0,150-10000,104,CLUB
+271741,Mercado,Patrik,65,18,CONMEBOL Libertadores,3,3,Basic,Ecuador,CONMEBOL Libertadores,IDV,false,0,0,250-10000,228,CLUB
+271841,Pal,Jasmina,73,0,Rare,1,2,GK Basic,Austria,Google Pixel Frauen-Bundesliga,1. FC Köln,false,0,0,300-10000,256,CLUB
+271866,Hess,Alexandria Loy,76,18,Common,3,3,Basic,United States,Google Pixel Frauen-Bundesliga,MSV Duisburg,true,0,0,350-10000,0,CLUB
+271943,Salón Marcuello,Enith,77,0,Common,1,2,GK Basic,Spain,Liga F,Valencia CF,true,0,0,350-10000,0,CLUB
+271945,Hernández Zurbano,Oihane,78,3,Common,3,4,Basic,Spain,Liga F,Real Madrid CF,true,0,0,350-10000,0,CLUB
+271960,Soldevila,Paola,73,10,Common,3,3,Basic,Spain,Liga F,Villarreal CF,false,0,0,150-10000,110,CLUB
+272014,De Alharilla Casado,María,79,3,Common,3,3,Basic,Spain,Liga F,Levante UD,true,0,0,350-10000,0,CLUB
+272020,Tarazona Brisa,Andrea,76,0,Common,1,2,GK Basic,Spain,Liga F,Levante UD,true,0,0,350-10000,0,CLUB
+272061,Ulloa Jiménez,Paola,78,0,Common,1,2,GK Basic,Spain,Liga F,Madrid CFF,true,0,0,350-10000,0,CLUB
+272067,Domínguez Rojo,Laura,79,8,Common,3,3,Basic,Spain,Liga F,Madrid CFF,true,0,0,350-10000,0,CLUB
+272084,Eduarda Leal Costa,Lauren,79,5,Common,2,2,Basic,Brazil,National Women's Soccer League,KC Current,true,0,0,350-10000,0,CLUB
+272086,Beltrán Sanz,Beatriz,74,7,Rare,3,3,Basic,Spain,Liga F,CA Tenerife,false,0,0,300-10000,259,CLUB
+272098,Martínez Salinas,Asun,78,23,Common,4,3,Basic,Spain,Liga F,Valencia CF,true,0,0,350-10000,0,CLUB
+272123,Nevado Gómez,Nerea,77,7,Common,3,2,Basic,Spain,Liga F,Athletic Club,true,0,0,350-10000,0,CLUB
+272135,Pinedo Castresana,Clara,76,18,Common,3,3,Basic,Spain,Liga F,Athletic Club,true,0,0,350-10000,0,CLUB
+272150,Pérez Machado,Nerea,76,3,Common,4,3,Basic,Spain,Liga F,Villarreal CF,true,0,0,350-10000,0,CLUB
+272163,Julve Pérez,Elena,77,23,Common,4,4,Basic,Spain,Liga F,Levante LP,true,0,0,350-10000,0,CLUB
+272228,Peña Rodríguez,Raquel,76,7,Common,3,3,Basic,Spain,Liga F,CA Tenerife,true,0,0,350-10000,0,CLUB
+272247,Hagman,Sofia,70,25,Common,3,3,Basic,Sweden,Liga F,Sporting Huelva,false,0,0,150-10000,105,CLUB
+272250,Romero Chaparro,Paula,72,3,Rare,3,3,Basic,Spain,Liga F,Sporting Huelva,false,0,0,300-10000,252,CLUB
+272253,Dias De Almeida,Ana Carolina,70,5,Common,2,2,Basic,Brazil,Liga F,Sporting Huelva,false,0,0,150-10000,105,CLUB
+272276,Bathmann,Kara,72,3,Rare,2,2,Basic,Germany,Google Pixel Frauen-Bundesliga,MSV Duisburg,false,0,0,300-10000,252,CLUB
+272337,Hickelsberger,Julia,76,23,Common,3,3,Basic,Austria,Google Pixel Frauen-Bundesliga,TSG Hoffenheim,true,0,0,350-10000,0,CLUB
+272449,Barrios Rivas,Pablo,73,14,Rare,3,3,Basic,Spain,LALIGA EA SPORTS,Atlético de Madrid,false,0,0,300-10000,256,CLUB
+272834,Gonçalves Neves,João Pedro,71,14,Common,3,3,Basic,Portugal,Liga Portugal,SL Benfica,true,0,0,150-10000,0,CLUB
+273106,Santos de Oliveira,Danilo,76,10,Common,2,3,Basic,Brazil,Premier League,Nott'm Forest,true,0,0,350-10000,0,CLUB
+273153,Caicedo,Linda,76,27,Common,4,4,Basic,Colombia,Liga F,Real Madrid CF,true,0,0,350-10000,0,CLUB
+273177,Holdt,Olivia,77,25,Common,3,2,Basic,Denmark,Sverige Liga,FC Rosengård,true,0,0,350-10000,0,CLUB
+273410,Humm,Fabienne,76,25,Common,3,3,Basic,Switzerland,Schweizer Damen Liga,FC Zürich,true,0,0,350-10000,0,CLUB
+273463,Gomes da Silva,João Victor,76,10,Common,3,3,Basic,Brazil,Premier League,Wolves,true,0,0,350-10000,0,CLUB
+273470,Reyes,Reyna,69,7,Common,2,3,Basic,Mexico,National Women's Soccer League,Portland Thorns,false,0,0,150-10000,104,CLUB
+273850,Boselli,Sebastián,68,5,CONMEBOL Libertadores,2,3,Basic,Uruguay,CONMEBOL Libertadores,River Plate,true,0,0,250-10000,0,CLUB
+274562,Büyüksayar,Mehmet Ali,61,27,Common,3,3,Basic,Türkiye,Trendyol Süper Lig,Konyaspor,true,0,0,150-10000,0,CLUB
+274644,Hunt,Clare,77,5,Common,2,3,Basic,Australia,D1 Arkema,Paris SG,true,0,0,350-10000,0,CLUB
+274744,Saravia,Facundo,64,16,CONMEBOL Sudamericana,3,2,Basic,Uruguay,CONMEBOL Sudamericana,Danubio,false,0,0,150-10000,19,CLUB
+274811,Lovera,Brenna,70,25,Common,2,3,Basic,United States,Scottish Women's League,Glasgow City FC,true,0,0,150-10000,0,CLUB
+275395,Boucly,Maïté,73,16,Rare,3,2,Basic,France,D1 Arkema,LOSC Lille,true,0,0,300-10000,0,CLUB
+275808,Szewieczková,Tereza,77,14,Common,3,3,Basic,Czech Republic,Ceska Liga Žen,Slavia Praha,true,0,0,350-10000,0,CLUB
+275815,Khýrová,Michaela,76,7,Common,3,3,Basic,Czech Republic,Ceska Liga Žen,Slavia Praha,true,0,0,350-10000,0,CLUB
+275845,Dubs,Kim,72,12,Common,3,3,Basic,Switzerland,Schweizer Damen Liga,FC Zürich,false,0,0,150-10000,108,CLUB
+275917,Larsson,Emilia,75,16,Common,3,3,Basic,Sweden,Sverige Liga,FC Rosengård,true,0,0,300-10000,0,CLUB
+275927,Silva Sobrinho,Nycole Raysla,76,25,Common,3,2,Basic,Brazil,Liga Portugal Feminino,SL Benfica,false,0,0,350-10000,270,CLUB
+275932,Domínguez Encinas,Paula,76,10,Common,3,3,Basic,Spain,Liga Portugal Feminino,SL Benfica,true,0,0,350-10000,0,CLUB
+275948,de Sanders,Kay-Lee,76,5,Common,2,2,Basic,Netherlands,Nederland Vrouwen Liga,Ajax,true,0,0,350-10000,0,CLUB
+275967,Hoekstra,Isabelle,70,21,Common,2,3,Basic,Netherlands,Nederland Vrouwen Liga,Ajax,true,0,0,150-10000,0,CLUB
+275969,Noordam,Nadine,76,14,Common,3,3,Basic,Netherlands,Nederland Vrouwen Liga,Ajax,true,0,0,350-10000,0,CLUB
+275971,Hoekstra,Tiny,77,25,Common,3,3,Basic,Netherlands,Nederland Vrouwen Liga,Ajax,true,0,0,350-10000,0,CLUB
+276584,Richardson,Joe-Joe,61,18,Common,2,4,Basic,United States,3. Liga,SV Sandhausen,true,0,0,150-10000,0,CLUB
+277170,Swierot,Julie,57,14,Common,3,3,Basic,France,D1 Arkema,OL,true,0,0,150-10000,0,CLUB
+277175,Joseph,Liana,59,25,Common,3,3,Basic,France,D1 Arkema,OL,false,0,0,150-10000,18,CLUB
+277326,Castro Boilesen,Marjorie,70,18,Common,3,3,Basic,Brazil,D1 Arkema,LOSC Lille,true,0,0,150-10000,0,CLUB
+277966,Ahtinen,Olga,72,14,Common,3,3,Basic,Finland,Barclays Women’s Super League,Spurs,false,0,0,150-10000,108,CLUB
+50332762,Baggio,Roberto,97,27,FUTTIES Icon,5,5,Basic,Italy,Icons,ICON,true,0,0,-,0,CLUB
+50332764,Desailly,Marcel,92,5,GOLAZO ICON,3,4,Basic,France,Icons,ICON,true,0,0,11250-30000,0,CLUB
+50332831,Cannavaro,Fabio,95,5,Greats of the Game Icon,3,4,Basic,Italy,Icons,ICON,true,0,0,11750-60000,0,CLUB
+50335879,Borba Ferreira,Rivaldo Vítor,91,27,Ultimate Dynasties ICON,4,4,Basic,Brazil,Icons,ICON,true,0,0,11250-40000,0,CLUB
+50337127,Casillas Fernández,Iker,92,0,Thunderstruck ICON,1,3,GK Basic,Spain,Icons,ICON,true,0,0,11250-30000,0,CLUB
+50337309,Morientes Sánchez,Fernando,90,25,Triple Threat Heroes,4,4,Basic,Spain,LALIGA EA SPORTS,HERO,true,0,0,11000-30000,0,CLUB
+50338623,Ljungberg,Freddie,96,16,FUTTIES Hero,5,4,Basic,Sweden,Premier League,HERO,true,0,0,11500-290000,0,CLUB
+50341912,van Nistelrooy,Ruud,91,0,Winter Wildcards ICON,3,3,Basic,Netherlands,Icons,ICON,true,0,0,11250-30000,0,CLUB
+50348267,Córdoba,Iván,93,5,GOLAZO Hero,3,4,Basic,Colombia,Serie A TIM,HERO,true,0,0,11500-30000,0,CLUB
+50357572,Capdevila Méndez,Joan,97,7,Greats of the Game Hero,4,4,Basic,Spain,LALIGA EA SPORTS,HERO,true,0,0,-,0,CLUB
+50377309,González Blanco,Raúl,92,25,Winter Wildcards ICON,4,5,Basic,Spain,Icons,ICON,true,0,0,11250-30000,0,CLUB
+50453587,Lahm,Philipp,92,3,TOTY ICON,4,4,Basic,Germany,Icons,ICON,true,0,0,11250-30000,0,CLUB
+50474402,Mascherano,Javier,96,10,FUTTIES In Progress EVO,3,4,Basic,Argentina,LALIGA EA SPORTS,HERO,true,0,0,11250-30000,0,CLUB
+50487545,Dempsey,Clint,89,18,GOLAZO Hero,5,4,Basic,United States,Major League Soccer,HERO,true,0,0,11000-30000,0,CLUB
+50488167,Herrera,Héctor,90,14,Team of the Season,4,4,Basic,Mexico,Major League Soccer,Houston Dynamo,true,0,0,11000-32500,0,CLUB
+50496801,Benzema,Karim,91,25,Team of the Week,4,4,Basic,France,ROSHN Saudi League,Al Ittihad,true,0,0,11250-60000,0,CLUB
+50498554,Baresi,Franco,95,5,FUTTIES Icon,3,4,Basic,Italy,Icons,ICON,true,0,0,-,0,CLUB
+50498782,Papin,Jean-Pierre,96,25,FUTTIES Hero,4,5,Basic,France,Ligue 1 Uber Eats,HERO,true,0,0,11750-42500,0,CLUB
+50503439,da Rocha Fonte,José Miguel,78,5,Common,2,3,Basic,Portugal,Liga Portugal,Casa Pia AC,true,0,0,350-10000,0,CLUB
+50505256,Mato Sanmartín,José Luis,95,25,Showdown Plus,5,4,Catalyst,Spain,LALIGA EA SPORTS,Real Madrid,true,0,0,1000-10000,0,CLUB
+50508568,Torrén,Miguel Ángel,74,5,Rare,2,3,Basic,Argentina,Liga Profesional de Fútbol,Unión,false,0,0,15500-25500,259,CLUB
+50509653,dos Santos Patrício,Rui Pedro,94,0,UEFA EURO Path to Glory,3,3,GK Basic,Portugal,Serie A TIM,Roma FC,true,0,0,1000-10000,0,CLUB
+50509861,Capoue,Etienne,93,14,Flashback Player,4,4,Basic,France,LALIGA EA SPORTS,Villarreal CF,true,0,0,1000-10000,0,CLUB
+50512467,Lallana,Adam,76,18,Common,4,5,Basic,England,EFL Championship,Southampton,true,0,0,350-10000,0,CLUB
+50514142,Muslera,Fernando,92,0,Team of the Season,2,4,GK Basic,Uruguay,Trendyol Süper Lig,Galatasaray,true,0,0,11250-32500,0,CLUB
+50515900,Pratto,Lucas,70,25,CONMEBOL Libertadores,3,3,Basic,Argentina,CONMEBOL Libertadores,Olimpia,false,0,0,250-9000,245,CLUB
+50516829,Rodríguez Oterino,Yoel,72,0,Rare,1,5,GK Basic,Spain,LALIGA HYPERMOTION,Racing de Ferrol,false,0,0,300-5100,252,CLUB
+50517801,Szczęsny,Wojciech,94,0,Team of the Season,3,3,GK Basic,Poland,Serie A TIM,Juventus,true,0,0,10750-130000,0,CLUB
+50521338,Guaita Panadero,Vicente,78,0,Common,1,3,GK Basic,Spain,LALIGA EA SPORTS,RC Celta,true,0,0,300-5000,0,CLUB
+50522365,Antonio,Michail,92,25,Copa América Path to Glory,4,4,Basic,Jamaica,Premier League,West Ham,true,0,0,11250-30000,0,CLUB
+50522413,Groß,Pascal,93,14,UEFA EURO Make Your Mark Plus,4,5,Basic,Germany,Premier League,Brighton,true,0,0,150-10000,0,CLUB
+50523342,Campos,Jorge,93,0,Greats of the Game Hero,4,4,GK Basic,Mexico,Major League Soccer,HERO,true,0,0,11500-32500,0,CLUB
+50523767,Courtois,Thibaut,91,25,Winter Wildcards,4,4,GK Basic,Belgium,LALIGA EA SPORTS,Real Madrid,true,0,0,11250-30000,0,CLUB
+50524781,Larsen,Jens Stryger,74,3,Rare,3,3,Basic,Denmark,Allsvenskan,Malmö FF,false,0,0,300-5100,259,CLUB
+50525711,Greguš,Ján,69,10,Common,3,4,Basic,Slovakia,Major League Soccer,Houston Dynamo,true,0,0,150-5000,0,CLUB
+50529848,Stambouli,Benjamin,74,10,Rare,2,4,Basic,France,Ligue 1 Uber Eats,Stade de Reims,true,0,0,300-5100,0,CLUB
+50530305,Svensson,Jonas,76,3,Common,3,3,Basic,Norway,Trendyol Süper Lig,Beşiktaş,true,0,0,350-10000,0,CLUB
+50530432,Oxlade-Chamberlain,Alex,97,14,FUTTIES Premium,5,5,Basic,England,Trendyol Süper Lig,Beşiktaş,true,0,0,1000-10000,0,CLUB
+50532037,Oblak,Jan,96,0,UEFA EURO Path to Glory,4,4,GK Basic,Slovenia,LALIGA EA SPORTS,Atlético de Madrid,true,0,0,11750-70000,0,CLUB
+50532694,Saponara,Riccardo,76,16,Common,4,4,Basic,Italy,Trendyol Süper Lig,MKE Ankaragücü,true,0,0,350-10000,0,CLUB
+50533047,Icardi,Mauro,95,25,Team of the Season Plus,5,5,Basic,Argentina,Trendyol Süper Lig,Galatasaray,true,0,0,11750-32500,0,CLUB
+50533525,Dæhli,Mats Møller,70,18,Rare,3,3,Basic,Norway,Eliteserien,Molde FK,false,0,0,250-5100,245,CLUB
+50533979,Quignon,Facundo,72,10,Common,3,3,Basic,Argentina,Liga Profesional de Fútbol,Belgrano,true,0,0,150-5000,0,CLUB
+50533983,Dier,Eric,77,5,Common,2,2,Basic,England,Bundesliga,FC Bayern München,true,0,0,350-10000,0,CLUB
+50534237,Hernández González,Javier,68,18,Rare,3,2,Basic,Spain,Indian Super League,Jamshedpur FC,true,0,0,250-5100,0,CLUB
+50534459,Martínez,Emiliano,97,0,Copa América International Stars,4,4,GK Basic,Argentina,Premier League,Aston Villa,true,0,0,2000-20000,0,CLUB
+50534708,Vela,Josh,66,14,Rare,3,3,Basic,England,EFL League One,Carlisle United,true,0,0,250-5000,0,CLUB
+50535131,Klaassen,Davy,76,14,Common,3,3,Basic,Netherlands,Serie A TIM,Inter,true,0,0,300-5000,0,CLUB
+50535134,Hazard,Thorgan,78,16,Common,4,4,Basic,Belgium,1A Pro League,RSC Anderlecht,true,0,0,350-10000,0,CLUB
+50535150,De Cordova-Reid,Bobby,76,12,Common,3,3,Basic,Jamaica,EFL Championship,Leicester City,true,0,0,350-10000,0,CLUB
+50535740,Blaswich,Janis,77,0,Common,1,3,GK Basic,Germany,Österreichische Fußball-Bundesliga,RB Salzburg,true,0,0,300-5000,0,CLUB
+50536161,Dupé,Maxime,76,0,Common,1,3,GK Basic,France,Ligue 1 Uber Eats,OGC Nice,true,0,0,300-5000,0,CLUB
+50536486,Jiménez,Raúl,95,25,FUTTIES Premium,4,5,Basic,Mexico,Premier League,Fulham,true,0,0,700-10000,0,CLUB
+50537248,Umtiti,Samuel,91,5,Ultimate Birthday Evo,2,3,Basic,France,Ligue 1 Uber Eats,LOSC Lille,true,0,0,10500-30000,0,CLUB
+50537846,Heintz,Dominique,71,5,Common,2,3,Basic,Germany,Bundesliga,1. FC Köln,false,0,0,150-5000,107,CLUB
+50538141,Abdelhamid,Yunis,77,5,Common,2,3,Basic,Morocco,Ligue 2 BKT,AS Saint-Étienne,true,0,0,350-10000,0,CLUB
+50540945,de Paula Santos,Frederico,95,14,In-Progress Evolution,4,3,Basic,Brazil,Trendyol Süper Lig,Fenerbahçe,true,0,0,10500-50000,0,CLUB
+50542006,Brignoli,Alberto,76,0,Common,1,3,GK Basic,Italy,Hellas Liga,AEK Athens,true,0,0,300-5000,0,CLUB
+50542103,Castro Otto,Jonathan,76,7,Common,3,3,Basic,Spain,Hellas Liga,PAOK FC,true,0,0,350-10000,0,CLUB
+50542111,Machís,Darwin,94,16,Copa América Path to Glory,4,5,Basic,Venezuela,LALIGA EA SPORTS,Cádiz CF,true,0,0,1000-10000,0,CLUB
+50542480,Branderhorst,Mattijs,71,0,Common,1,3,GK Basic,Netherlands,Eredivisie,Fortuna Sittard,false,0,0,150-5000,107,CLUB
+50542512,Hysaj,Elseid,92,7,UEFA EURO Path to Glory,4,3,Basic,Albania,Serie A TIM,Latium,true,0,0,1000-10000,0,CLUB
+50543163,Gollini,Pierluigi,76,0,Common,1,2,GK Basic,Italy,Serie A TIM,Bergamo Calcio,true,0,0,300-5000,0,CLUB
+50544124,Medrán Just,Álvaro,76,14,Common,3,5,Basic,Spain,ROSHN Saudi League,Ettifaq FC,true,0,0,300-5000,0,CLUB
+50544326,Augustinsson,Ludwig,76,7,Common,3,2,Basic,Sweden,LALIGA EA SPORTS,Sevilla FC,true,0,0,300-5000,0,CLUB
+50544944,Bentaleb,Nabil,91,10,Team of the Season,4,4,Basic,Algeria,Ligue 1 Uber Eats,LOSC Lille,true,0,0,11250-30000,0,CLUB
+50544979,Tah,Jonathan,94,5,Team of the Season,3,4,Basic,Germany,Bundesliga,Leverkusen,true,0,0,11500-60000,0,CLUB
+50545036,Tait,Flavien,76,14,Common,3,3,Basic,France,Trendyol Süper Lig,Samsunspor,true,0,0,300-5000,0,CLUB
+50545087,Osorio,Jonathan,94,14,Copa América Path to Glory,4,5,Basic,Canada,Major League Soccer,Toronto FC,false,0,0,11500-35000,11468,CLUB
+50545303,Iwobi,Alex,76,12,Common,4,3,Basic,Nigeria,Premier League,Fulham,true,0,0,350-10000,0,CLUB
+50545309,Christensen,Andreas,93,5,UEFA EURO Path to Glory,3,4,Basic,Denmark,LALIGA EA SPORTS,FC Barcelona,true,0,0,1000-10000,0,CLUB
+50545409,Hamdallah,Abderrazak,77,25,Common,3,3,Basic,Morocco,ROSHN Saudi League,Al Shabab,true,0,0,300-5000,0,CLUB
+50545462,Di Francesco,Federico,75,27,Common,4,4,Basic,Italy,Serie BKT,Palermo,true,0,0,300-5000,0,CLUB
+50545674,Mojica,Johan,95,7,Copa América Make Your Mark Plus,5,4,Basic,Colombia,LALIGA EA SPORTS,CA Osasuna,true,0,0,1000-10000,0,CLUB
+50546287,Postigo Redondo,Sergio,70,5,Common,2,3,Basic,Spain,LALIGA HYPERMOTION,CD Mirandés,false,0,0,150-5000,105,CLUB
+50546666,Alemán,Brahian,74,14,CONMEBOL Sudamericana,3,3,Basic,Uruguay,CONMEBOL Sudamericana,Tigre,true,0,0,150-5100,0,CLUB
+50546876,Lema,Cristian,75,5,CONMEBOL Libertadores,2,2,Basic,Argentina,CONMEBOL Libertadores,Boca Juniors,false,0,0,550-5000,533,CLUB
+50547150,Drągowski,Bartłomiej,77,0,Rare,1,2,GK Basic,Poland,Hellas Liga,Panathinaikos,true,0,0,550-5000,0,CLUB
+50547194,Brouwer,Michael,68,0,Common,1,3,GK Basic,Netherlands,Eredivisie,FC Utrecht,true,0,0,150-5000,0,CLUB
+50547534,Kreilach,Damir,73,25,Rare,3,3,Basic,Croatia,Major League Soccer,Whitecaps FC,false,0,0,300-5100,256,CLUB
+50547931,Soares,Danilo Teodoro,76,7,Common,3,3,Basic,Brazil,Bundesliga 2,1. FC Nürnberg,false,0,0,300-5000,270,CLUB
+50550315,Carvalho e Silva,Bernardo Mota,91,14,Thunderstruck,4,3,Basic,Portugal,Premier League,Manchester City,true,0,0,11250-30000,0,CLUB
+50551510,Borja,Miguel,95,25,Copa América Path to Glory,5,5,Basic,Colombia,CONMEBOL Libertadores,River Plate,true,0,0,11750-37500,0,CLUB
+50552269,Benrahma,Saïd,78,16,Common,4,4,Basic,Algeria,Ligue 1 Uber Eats,OL,true,0,0,300-5000,0,CLUB
+50552281,Gray,Demarai,77,16,Common,4,4,Basic,Jamaica,ROSHN Saudi League,Ettifaq FC,true,0,0,350-10000,0,CLUB
+50552299,Esmoris Tasende,José Ángel,79,7,Common,4,3,Basic,Spain,Serie A TIM,Roma FC,true,0,0,300-5000,0,CLUB
+50552321,Tapia,Renato,92,10,Copa América Path to Glory,4,5,Basic,Peru,LALIGA EA SPORTS,RC Celta,true,0,0,1000-10000,0,CLUB
+50552596,Sydorchuk,Serhiy,75,10,Common,3,3,Basic,Ukraine,1A Pro League,KVC Westerlo,true,0,0,300-5000,0,CLUB
+50552990,Maffeo Becerra,Pablo,78,2,Common,3,3,Basic,Argentina,LALIGA EA SPORTS,RCD Mallorca,false,0,0,350-10000,277,CLUB
+50553070,Ingason,Sverrir Ingi,76,5,Common,2,3,Basic,Iceland,Hellas Liga,Panathinaikos,true,0,0,300-5000,0,CLUB
+50553557,Staněk,Jindřich,76,0,Common,1,2,GK Basic,Czech Republic,Česká Liga,Slavia Praha,true,0,0,300-5000,0,CLUB
+50553689,Boyé,Lucas,77,25,Common,4,2,Basic,Argentina,LALIGA EA SPORTS,Granada CF,true,0,0,350-10000,0,CLUB
+50553752,Adarabioyo,Tosin,77,5,Common,2,3,Basic,England,Premier League,Chelsea,true,0,0,300-5000,0,CLUB
+50553782,Hamed,Tarek,75,10,Common,2,3,Basic,Egypt,ROSHN Saudi League,Damac FC,true,0,0,300-5000,0,CLUB
+50554086,Zou,Dehai,59,0,Common,1,3,GK Basic,China PR,Chinese Football Association Super League,Changchun Yatai,false,0,0,150-5100,18,CLUB
+50554872,Jakoliš,Marin,66,25,Common,2,3,Basic,Croatia,Isuzu UTE A League,Macarthur FC,false,0,0,150-5000,99,CLUB
+50555717,Toko Ekambi,Karl,76,27,Common,3,4,Basic,Cameroon,ROSHN Saudi League,Ettifaq FC,true,0,0,300-5000,0,CLUB
+50556073,Wolf,Marius,90,3,Evolutions II,4,4,Basic,Germany,Bundesliga,Borussia Dortmund,true,0,0,150-10000,0,CLUB
+50556404,Lusamba,Arnaud,71,14,Common,4,3,Basic,DR Congo,Trendyol Süper Lig,Alanyaspor,false,0,0,150-5000,107,CLUB
+50556522,Pellegrino,Amahl,75,27,Common,4,3,Basic,Norway,Major League Soccer,SJ Earthquakes,true,0,0,300-5000,0,CLUB
+50556643,Pacheco,Walmer,71,3,CONMEBOL Libertadores,3,3,Basic,Colombia,CONMEBOL Libertadores,Junior,false,0,0,1500-11500,249,CLUB
+50556662,Castrovilli,Gaetano,78,14,Common,4,3,Basic,Italy,Serie A TIM,Latium,true,0,0,300-5000,0,CLUB
+50556733,Bamba,Jonathan,77,16,Common,4,4,Basic,Ivory Coast,LALIGA EA SPORTS,RC Celta,true,0,0,350-10000,0,CLUB
+50556809,Vallejo Lázaro,Jesús,74,5,Rare,2,3,Basic,Spain,LALIGA EA SPORTS,Real Madrid,false,0,0,300-5100,259,CLUB
+50556841,Merino Zazón,Mikel,93,14,TOTS In-Progress EVO,3,3,Basic,Spain,LALIGA EA SPORTS,Real Sociedad,true,0,0,10500-55000,0,CLUB
+50556957,Amiri,Nadiem,77,18,Common,4,3,Basic,Germany,Bundesliga,1. FSV Mainz 05,true,0,0,300-5000,0,CLUB
+50557058,Masina,Adam,72,8,Rare,3,3,Basic,Morocco,Serie A TIM,Torino,true,0,0,300-5100,0,CLUB
+50557741,Adams,Ché,75,25,Common,3,3,Basic,Scotland,Serie A TIM,Torino,true,0,0,300-5000,0,CLUB
+50557778,Miguel,Florian,69,7,Common,2,2,Basic,France,LALIGA HYPERMOTION,Burgos CF,false,0,0,150-5000,104,CLUB
+50557877,Kehrer,Thilo,76,5,Common,2,5,Basic,Germany,Ligue 1 Uber Eats,AS Monaco,true,0,0,300-5000,0,CLUB
+50557964,Leroux,Sydney,96,25,FUTTIES Premium,5,4,Basic,United States,National Women's Soccer League,Angel City FC,true,0,0,700-10000,0,CLUB
+50558008,Wang,Shuang,79,23,Common,3,4,Basic,China PR,Barclays Women’s Super League,Spurs,true,0,0,300-5000,0,CLUB
+50558104,Fornals Malla,Pablo,77,16,Common,4,3,Basic,Spain,LALIGA EA SPORTS,Real Betis,true,0,0,300-5000,0,CLUB
+50558275,Minamino,Takumi,93,21,Team of the Season,4,4,Basic,Japan,Ligue 1 Uber Eats,AS Monaco,true,0,0,1000-10000,0,CLUB
+50558598,Armstrong,Luke,64,25,Rare,2,3,Basic,England,EFL League One,Carlisle United,true,0,0,150-5100,0,CLUB
+50558754,González Polanco,Diego,70,5,Common,2,3,Basic,Spain,LALIGA HYPERMOTION,Albacete BP,false,0,0,150-5000,105,CLUB
+50558838,Paredes Hernández,Irene,95,5,Showdown Plus,4,4,Basic,Spain,Liga F,FC Barcelona,true,0,0,2000-20000,0,CLUB
+50558974,Thiney,Gaëtane,94,18,Team of the Season,4,4,Hunter,France,D1 Arkema,Paris FC,true,0,0,1000-10000,0,CLUB
+50559003,Soyer,Julie,92,3,End Of An Era,4,5,Basic,France,D1 Arkema,Paris FC,true,0,0,1000-10000,0,CLUB
+50559045,Leon,Adriana,77,25,Common,4,3,Basic,Canada,Barclays Women’s Super League,Aston Villa,true,0,0,300-5000,0,CLUB
+50559151,Larsen,Jacob Bruun,73,25,Rare,3,4,Basic,Denmark,Bundesliga,TSG Hoffenheim,false,0,0,300-5100,256,CLUB
+50559899,Pellegrini,Lorenzo,93,14,Team of the Season,4,4,Basic,Italy,Serie A TIM,Roma FC,true,0,0,11500-35000,0,CLUB
+50559943,Holding,Rob,76,5,Common,2,3,Basic,England,Premier League,Crystal Palace,false,0,0,300-5000,270,CLUB
+50560658,Amallah,Selim,75,18,Common,3,3,Basic,Morocco,LALIGA HYPERMOTION,R. Valladolid CF,true,0,0,300-5000,0,CLUB
+50560967,Cádiz,Jhonder,91,25,Copa América Make Your Mark Plus,4,5,Basic,Venezuela,Liga Portugal,FC Famalicão,true,0,0,11250-30000,0,CLUB
+50561297,Suazo,Gabriel,94,7,Copa América Make Your Mark Plus,4,4,Basic,Chile,Ligue 1 Uber Eats,Toulouse FC,true,0,0,11500-30000,0,CLUB
+50561406,Krunić,Rade,78,14,Common,3,3,Basic,Bosnia Herzegovina,Trendyol Süper Lig,Fenerbahçe,true,0,0,300-5000,0,CLUB
+50561529,Lassiter,Ariel,93,16,Copa América Path to Glory,4,5,Basic,Costa Rica,Major League Soccer,CF Montréal,true,0,0,11500-30000,0,CLUB
+50561573,Wekesser,Erik,68,7,Common,3,3,Basic,Germany,Bundesliga 2,Kaiserslautern,false,0,0,150-5000,102,CLUB
+50561628,Montes,César,77,5,Common,2,3,Basic,Mexico,LALIGA EA SPORTS,UD Almería,false,0,0,350-10000,273,CLUB
+50562798,Monteiro Alvarenga,Jamiro Gregory,73,14,Rare,3,4,Basic,Cape Verde Islands,Trendyol Süper Lig,Gaziantep,false,0,0,300-5100,256,CLUB
+50562855,Lucumí,Jhon,96,5,Copa América Path to Glory,3,4,Basic,Colombia,Serie A TIM,Bologna,true,0,0,11750-60000,0,CLUB
+50562966,Perraud,Romain,75,7,Common,3,2,Basic,France,LALIGA EA SPORTS,Real Betis,true,0,0,300-5000,0,CLUB
+50562988,Montiel,Gonzalo,96,3,Copa América Make Your Mark Plus,5,4,Basic,Argentina,Premier League,Nott'm Forest,true,0,0,150-10000,0,CLUB
+50563080,Horan,Lindsey,92,14,UWCL Road to the Final,4,4,Basic,United States,D1 Arkema,OL,true,0,0,11250-30000,0,CLUB
+50563393,Dimata,Landry,72,25,Common,3,3,Basic,Belgium,Trendyol Süper Lig,Samsunspor,true,0,0,150-5000,0,CLUB
+50563941,Osimhen,Victor,95,25,FUTTIES In Progress EVO,3,4,Basic,Nigeria,Serie A TIM,Napoli FC,true,0,0,11250-30000,0,CLUB
+50564080,Jović,Luka,77,25,Common,3,5,Basic,Serbia,Serie A TIM,Milan,true,0,0,350-10000,0,CLUB
+50564647,Adams,Tyler,96,10,Copa América Path to Glory,4,4,Basic,United States,Premier League,AFC Bournemouth,true,0,0,11750-45000,0,CLUB
+50564954,Henderson,Dean,79,0,Common,1,3,GK Basic,England,Premier League,Crystal Palace,true,0,0,300-5000,0,CLUB
+50564978,Thorisdottir,Maria,76,5,Common,2,4,Basic,Norway,Barclays Women’s Super League,Brighton,false,0,0,300-5000,270,CLUB
+50565021,Diarra,Stéphane,72,12,Rare,4,2,Basic,Ivory Coast,Ligue 1 Uber Eats,FC Lorient,true,0,0,300-5100,0,CLUB
+50565141,Sánchez,Jorge,93,3,Copa América Make Your Mark Plus,4,4,Basic,Mexico,Liga Portugal,FC Porto,true,0,0,11500-30000,0,CLUB
+50565726,Mangala,Orel,76,14,Common,3,3,Basic,Belgium,Ligue 1 Uber Eats,OL,true,0,0,300-5000,0,CLUB
+50566504,Mendes,Houboulang,71,3,Common,2,3,Basic,Guinea Bissau,LALIGA EA SPORTS,UD Almería,false,0,0,150-10000,107,CLUB
+50566721,Kobel,Gregor,94,0,Team of the Season,3,3,GK Basic,Switzerland,Bundesliga,Borussia Dortmund,true,0,0,11500-60000,0,CLUB
+50567055,Özcan,Salih,94,10,UEFA EURO Make Your Mark Plus,4,4,Basic,Türkiye,Bundesliga,Borussia Dortmund,true,0,0,11500-30000,0,CLUB
+50567242,Zadorsky,Shelina,79,5,Common,2,3,Basic,Canada,Barclays Women’s Super League,West Ham,true,0,0,300-5000,0,CLUB
+50567277,De Wolf,Ortwin,68,0,Common,1,3,GK Basic,Belgium,1A Pro League,KV Mechelen,true,0,0,150-5000,0,CLUB
+50567461,Marin,Răzvan,76,14,Common,4,4,Basic,Romania,Serie A TIM,Cagliari,true,0,0,300-5000,0,CLUB
+50567492,Álvarez,Edson,93,10,Copa América Path to Glory,3,4,Basic,Mexico,Premier League,West Ham,true,0,0,11500-30000,0,CLUB
+50567597,Strefezza Rebelato,Gabriel Tadeu,77,23,Common,3,3,Basic,Brazil,Serie BKT,Como,true,0,0,300-5000,0,CLUB
+50567610,Prince,Nichelle,79,23,Common,3,3,Basic,Canada,National Women's Soccer League,KC Current,true,0,0,300-5000,0,CLUB
+50567959,Rog,Marko,71,14,Common,3,3,Basic,Croatia,Liga Hrvatska,Dinamo Zagreb,false,0,0,150-5000,107,CLUB
+50568258,Kean,Moise,78,25,Common,3,3,Basic,Italy,Serie A TIM,Fiorentina,true,0,0,1100-20000,0,CLUB
+50568572,Valdez Wilson,Bruno Ricardo,73,5,Rare,2,3,Basic,Portugal,Major League Soccer,SJ Earthquakes,false,0,0,300-5100,256,CLUB
+50568583,Wolf,Hannes,71,16,Common,3,3,Basic,Austria,Major League Soccer,New York City FC,false,0,0,150-5000,107,CLUB
+50568682,Hernández Suárez,Juan Camilo,88,25,Team of the Season,4,4,Basic,Colombia,Major League Soccer,Columbus Crew,true,0,0,10750-30000,0,CLUB
+50568783,Da Luz Pereira,Davidson,76,27,Common,4,3,Basic,Brazil,Trendyol Süper Lig,Başakşehir,true,0,0,300-5000,0,CLUB
+50568969,Berisha,Mergim,78,25,Common,3,3,Basic,Germany,Bundesliga,TSG Hoffenheim,true,0,0,350-10000,0,CLUB
+50569234,Dossena,Alberto,71,5,Common,2,3,Basic,Italy,Serie BKT,Como,false,0,0,150-5000,107,CLUB
+50569306,Bueno,Santiago,77,5,Common,2,3,Basic,Uruguay,Premier League,Wolves,true,0,0,350-10000,0,CLUB
+50569327,Kolo Muani,Randal,84,25,Rare,4,4,Basic,France,Ligue 1 Uber Eats,Paris SG,true,0,0,1100-10000,0,CLUB
+50569543,van Crooij,Vito,73,12,Common,3,4,Basic,Netherlands,ROSHN Saudi League,Al Wehda,true,0,0,150-5000,0,CLUB
+50569608,Baldé,Mama Samba,75,25,Common,3,3,Basic,Guinea Bissau,Ligue 1 Uber Eats,OL,false,0,0,300-5000,266,CLUB
+50569633,Danso,Kevin,95,5,UEFA EURO Make Your Mark Plus,3,4,Basic,Austria,Ligue 1 Uber Eats,RC Lens,true,0,0,11750-32500,0,CLUB
+50569689,Malacia,Tyrell,96,7,FUTTIES,4,4,Basic,Netherlands,Premier League,Man Utd,true,0,0,17500-65000,0,CLUB
+50569872,Marcos Vinicius,Amaral Alves,75,25,Common,3,4,Basic,Brazil,ROSHN Saudi League,Al Ahli,true,0,0,300-5000,0,CLUB
+50569878,Campaz,Jaminton,74,16,CONMEBOL Libertadores,3,2,Basic,Colombia,CONMEBOL Libertadores,Rosario Central ,false,0,0,300-5100,259,CLUB
+50570032,Puyol Saforcada,Carles,94,5,Greats of the Game Icon,3,4,Basic,Spain,Icons,ICON,true,0,0,11500-45000,0,CLUB
+50570036,Bergkamp,Dennis,92,14,Winter Wildcards ICON,4,4,Basic,Netherlands,Icons,ICON,true,0,0,11250-30000,0,CLUB
+50570063,Petit,Emmanuel,90,10,Future Stars ICON,3,3,Basic,France,Icons,ICON,true,0,0,11000-30000,0,CLUB
+50570078,da Silva Rocha,Roberto Carlos,93,7,GOLAZO ICON,5,5,Basic,Brazil,Icons,ICON,true,0,0,11500-110000,0,CLUB
+50570083,Matthäus,Lothar,93,14,TOTY ICON,4,4,Basic,Germany,Icons,ICON,true,0,0,11500-80000,0,CLUB
+50570091,Blanc,Laurent,91,5,Ultimate Birthday ICON,3,5,Basic,France,Icons,ICON,true,0,0,11250-30000,0,CLUB
+50570733,Haaland,Erling,94,25,UCL Road to the Knockouts,4,3,Basic,Norway,Premier League,Manchester City,false,0,0,11500-40000,11468,CLUB
+50570855,Gómez,Maximiliano,77,25,Common,3,3,Basic,Uruguay,Trendyol Süper Lig,Trabzonspor,true,0,0,300-5000,0,CLUB
+50571004,Matusiwa,Azor,76,10,Common,3,3,Basic,Netherlands,Ligue 1 Uber Eats,Stade Rennais FC,true,0,0,300-5000,0,CLUB
+50571081,Maksimović,Nemanja,78,14,Common,3,3,Basic,Serbia,Hellas Liga,Panathinaikos,true,0,0,300-5000,0,CLUB
+50571455,Frattesi,Davide,94,14,UEFA EURO Make Your Mark Plus,4,5,Basic,Italy,Serie A TIM,Inter,true,0,0,11500-30000,0,CLUB
+50571466,Gato Alves Dias,Rúben Santos,96,5,FUTTIES In Progress EVO,2,4,Backbone,Portugal,Premier League,Manchester City,true,0,78500,11000-45000,0,CLUB
+50572364,Olivera,Mathías,95,5,Copa América Team of the Tournament,4,5,Basic,Uruguay,Serie A TIM,Napoli FC,true,0,0,11750-42500,0,CLUB
+50572563,Miranda González,Juan,77,7,Common,3,3,Basic,Spain,Serie A TIM,Bologna,true,0,0,300-5000,0,CLUB
+50572697,Gorosabel Espinosa,Andoni,76,3,Common,2,2,Basic,Spain,LALIGA EA SPORTS,Athletic Club,true,0,0,300-5000,0,CLUB
+50572807,Guéhi,Marc,94,5,UEFA EURO Team of the Tournament,3,4,Basic,England,Premier League,Crystal Palace,true,0,0,11500-32500,0,CLUB
+50573170,Wind,Jonas,95,25,FUTTIES Premium,5,4,Basic,Denmark,Bundesliga,VfL Wolfsburg,true,0,0,1000-10000,0,CLUB
+50573355,Gueye,Pape,77,14,Common,2,3,Basic,Senegal,LALIGA EA SPORTS,Villarreal CF,true,0,0,300-5000,0,CLUB
+50573356,Sagnan,Modibo,71,5,Common,2,3,Basic,France,Ligue 1 Uber Eats,Montpellier,true,0,0,150-5000,0,CLUB
+50573490,Johnson,Ben,74,3,Rare,2,4,Basic,England,EFL Championship,Ipswich,false,0,0,300-5100,259,CLUB
+50573807,Schuck Friedrich,Ricardo,67,0,Common,1,1,GK Basic,Brazil,Allsvenskan,Malmö FF,false,0,0,150-5000,101,CLUB
+50573928,Ferguson,Lewis,94,14,Team of the Season,4,4,Basic,Scotland,Serie A TIM,Bologna,true,0,0,11500-60000,0,CLUB
+50573942,Cacciabue,Jeronimo,67,10,CONMEBOL Sudamericana,3,3,Basic,Argentina,CONMEBOL Sudamericana,Newell's,true,0,0,150-5000,0,CLUB
+50574022,Barrow,Musa,77,21,Common,3,4,Basic,Gambia,ROSHN Saudi League,Al Taawoun,true,0,0,350-10000,0,CLUB
+50574225,Faivre,Romain,77,12,Common,4,3,Basic,France,Premier League,AFC Bournemouth,false,0,0,300-5000,273,CLUB
+50574579,Gerrard,Steven,91,14,Future Stars ICON,4,4,Basic,England,Icons,ICON,true,0,0,11250-30000,0,CLUB
+50574912,McCaskill,Savannah,79,25,Common,3,3,Basic,United States,National Women's Soccer League,San Diego Wave,true,0,0,300-5000,0,CLUB
+50575036,Sosa,Borna,78,8,Common,3,3,Basic,Croatia,Eredivisie,Ajax,true,0,0,350-10000,0,CLUB
+50575295,Bayındır,Altay,76,0,Common,1,2,GK Basic,Türkiye,Premier League,Man Utd,true,0,0,300-5000,0,CLUB
+50575423,Murphy,Casey,97,0,FUTTIES Premium,5,5,GK Basic,United States,National Women's Soccer League,NC Courage,true,0,0,1000-10000,0,CLUB
+50575580,Philipp,David,64,21,Rare,3,4,Basic,Germany,3. Liga,1860 München,true,0,0,150-5100,0,CLUB
+50575841,Borges Cabral,Jovane Eduardo,74,27,Rare,4,4,Basic,Cape Verde Islands,Liga Portugal,Sporting CP,true,0,0,300-5100,0,CLUB
+50575997,Vásquez,Johan,95,5,Copa América Make Your Mark Plus,4,4,Basic,Mexico,Serie A TIM,Genoa,true,0,0,11750-50000,0,CLUB
+50576540,Diop,Sofiane,77,16,Common,4,3,Basic,Morocco,Ligue 1 Uber Eats,OGC Nice,true,0,0,350-10000,0,CLUB
+50576883,Bah,Alexander,92,3,UEFA EURO Make Your Mark Plus,4,5,Basic,Denmark,Liga Portugal,SL Benfica,true,0,0,11250-30000,0,CLUB
+50576901,Barreiro Martins,Leandro,76,14,Common,3,3,Basic,Luxemburg,Liga Portugal,SL Benfica,true,0,0,300-5000,0,CLUB
+50576984,Kilman,Max,76,5,Common,2,4,Basic,England,Premier League,West Ham,true,0,0,300-5000,0,CLUB
+50577607,Sáez,Camila,76,5,Common,2,3,Basic,Chile,Barclays Women’s Super League,West Ham,true,0,0,300-5000,0,CLUB
+50577681,Sosa,Santiago,71,10,CONMEBOL Libertadores,2,3,Basic,Argentina,CONMEBOL Libertadores,Racing Club,false,0,0,250-5000,249,CLUB
+50577998,Le Fée,Enzo,77,14,Common,4,3,Basic,France,Serie A TIM,Roma FC,true,0,0,300-5000,0,CLUB
+50578317,Saka,Bukayo,91,23,UCL Road to the Knockouts,4,4,Basic,England,Premier League,Arsenal,true,0,0,11250-30000,0,CLUB
+50578595,Akouokou,Paul,72,10,Rare,2,2,Basic,Ivory Coast,Ligue 1 Uber Eats,OL,false,0,0,300-5100,252,CLUB
+50578741,Pedroza,Sebastián,72,10,CONMEBOL Sudamericana,2,3,Basic,Colombia,CONMEBOL Sudamericana,Santa Fe,false,0,0,150-5000,108,CLUB
+50579111,Balogun,Folarin,79,25,Common,3,4,Basic,United States,Ligue 1 Uber Eats,AS Monaco,true,0,0,350-10000,0,CLUB
+50579152,Earps,Mary,94,0,Team of the Year,3,3,GK Basic,England,Barclays Women’s Super League,Manchester Utd,true,0,0,75500-150000,0,CLUB
+50579289,Tetê,Mateus,76,12,Common,4,3,Basic,Brazil,Hellas Liga,Panathinaikos,true,0,0,300-5000,0,CLUB
+50579813,Rațiu,Andrei,92,3,UEFA EURO Path to Glory,3,4,Basic,Romania,LALIGA EA SPORTS,Rayo Vallecano,true,0,0,1000-10000,0,CLUB
+50579828,Fernandes,Raynier,58,14,Common,2,2,Basic,India,Indian Super League,Odisha FC,false,0,0,150-5100,17,CLUB
+50579855,Mallo,Facundo,70,5,CONMEBOL Libertadores,2,3,Basic,Uruguay,CONMEBOL Libertadores,Rosario Central ,false,0,0,250-5000,245,CLUB
+50582458,Ekpiteta,Marvin,69,5,Common,2,1,Basic,England,cinch Premiership,Hibernian,true,0,0,150-5000,0,CLUB
+50583068,Fornah,Tyrese,67,14,Common,3,3,Basic,Sierra Leone,EFL League One,Derby County,false,0,0,150-10000,101,CLUB
+50583069,Johnson,Brennan,76,23,Common,3,4,Basic,Wales,Premier League,Spurs,true,0,0,350-10000,0,CLUB
+50583692,Picco,Leonel,68,10,Common,2,3,Basic,Argentina,Liga Profesional de Fútbol,Platense,false,0,0,150-5000,102,CLUB
+50583712,Krejčí,Ladislav,77,5,Common,2,3,Basic,Czech Republic,LALIGA EA SPORTS,Girona FC,true,0,0,300-5000,0,CLUB
+50583975,Sánchez de la Peña,Manuel,74,7,Rare,3,3,Basic,Spain,LALIGA EA SPORTS,D. Alavés,false,0,0,300-5100,259,CLUB
+50584195,Adebisi,Rio,60,7,Common,2,4,Basic,England,EFL League One,Peterborough,true,0,0,150-5100,0,CLUB
+50584919,Cardozo,Thiago,69,0,Common,1,2,GK Basic,Uruguay,Liga Profesional de Fútbol,Unión,true,0,0,150-7400,0,CLUB
+50585366,Ramírez,Ignacio,71,25,CONMEBOL Sudamericana,3,3,Basic,Uruguay,CONMEBOL Sudamericana,Newell's,true,0,0,1500-11500,0,CLUB
+50585891,Anderson,Elliot,72,14,Rare,3,4,Basic,Scotland,Premier League,Nott'm Forest,false,0,0,300-5100,252,CLUB
+50585910,Debast,Zeno,71,5,Rare,2,4,Basic,Belgium,Liga Portugal,Sporting CP,false,0,0,250-5100,249,CLUB
+50586642,Tenho,Miro,66,5,Common,2,3,Basic,Finland,Allsvenskan,Djurgårdens IF,false,0,0,150-5000,99,CLUB
+50586871,Adli,Amine,77,25,Common,4,3,Basic,Morocco,Bundesliga,Leverkusen,true,0,0,350-10000,0,CLUB
+50586916,Martínez Calvo,Javier,70,14,Common,4,4,Basic,Spain,LALIGA EA SPORTS,CA Osasuna,false,0,0,150-5000,105,CLUB
+50587068,Kara,Ercan,73,25,Rare,2,3,Basic,Austria,Trendyol Süper Lig,Samsunspor,false,0,0,300-5100,256,CLUB
+50587285,Canales,Alfred,64,14,CONMEBOL Sudamericana,2,3,Basic,Chile,CONMEBOL Sudamericana,Uni. Católica,false,0,0,8800-18750,19,CLUB
+50588918,Pembélé,Timothée,70,3,Rare,3,3,Basic,France,EFL Championship,Sunderland,false,0,0,250-10000,245,CLUB
+50588937,Ekitike,Hugo,75,25,Common,3,3,Basic,France,Bundesliga,Frankfurt,true,0,0,300-5000,0,CLUB
+50589537,Jakić,Kristijan,75,10,Common,2,3,Basic,Croatia,Bundesliga,FC Augsburg,true,0,0,300-5000,0,CLUB
+50589628,Ndoye,Dan,93,12,UEFA EURO Path to Glory,4,4,Basic,Switzerland,Serie A TIM,Bologna,true,0,0,11500-32500,0,CLUB
+50589680,Meriluoto,Kai,60,25,Common,3,3,Basic,Finland,Finnliiga,HJK Helsinki,false,0,0,150-5100,18,CLUB
+50589973,Castro,Nicolás Eduardo,71,14,Common,3,3,Basic,Argentina,Liga Profesional de Fútbol,Atlético Tucumán,false,0,0,150-5000,107,CLUB
+50590038,Grbić,Ivo,75,0,Common,1,3,GK Basic,Croatia,Premier League,Sheffield Utd,true,0,0,300-5000,0,CLUB
+50590224,Abelleira Dueñas,Teresa José,93,10,TOTS Moments,4,4,Basic,Spain,Liga F,Real Madrid CF,true,0,0,11500-47500,0,CLUB
+50590453,Ashby,Harrison,63,2,Rare,2,3,Basic,Scotland,Premier League,Newcastle Utd,true,0,0,150-5100,0,CLUB
+50591260,Castillo,Jesús,91,10,Copa América Make Your Mark Plus,4,4,Basic,Peru,Liga Portugal,Gil Vicente,true,0,0,11250-30000,0,CLUB
+50591436,Portillo,Juan,72,7,CONMEBOL Libertadores,2,4,Basic,Argentina,CONMEBOL Libertadores,Talleres,false,0,0,300-5100,252,CLUB
+50591496,Aramburu,Jon,95,3,Copa América Team of the Tournament,4,5,Basic,Venezuela,LALIGA EA SPORTS,Real Sociedad,true,0,0,11750-55000,0,CLUB
+50592698,F. da Conceição,Francisco,74,23,Rare,4,2,Basic,Portugal,Liga Portugal,FC Porto,false,0,0,300-5100,259,CLUB
+50592836,Ndiaye,Iliman,74,25,Rare,4,3,Basic,Senegal,Premier League,Everton,false,0,0,300-5100,259,CLUB
+50593241,Kohler,Jürgen,90,5,GOLAZO Hero,3,3,Basic,Germany,Bundesliga,HERO,true,0,0,11000-30000,0,CLUB
+50593761,Zalewski,Nicola,92,16,UEFA EURO Path to Glory,4,4,Basic,Poland,Serie A TIM,Roma FC,true,0,0,11250-30000,0,CLUB
+50594078,Ribeiro Tomé,Francisco,72,27,Common,3,4,Basic,Portugal,Liga Portugal,Rio Ave FC,false,0,0,150-5000,108,CLUB
+50594108,Márquez Baena,Rosa,96,14,FUTTIES Premium,4,5,Basic,Spain,Liga F,Real Betis,true,0,0,150-10000,0,CLUB
+50594227,Čolina,David,69,7,Common,2,2,Basic,Croatia,3F Superliga,Vejle Boldklub,true,0,0,150-5000,0,CLUB
+50594233,Biuk,Stipe,70,27,Common,3,5,Basic,Croatia,LALIGA HYPERMOTION,R. Valladolid CF,true,0,0,150-5000,0,CLUB
+50594296,Goodwin,Archie,58,25,Common,2,3,Basic,Australia,Isuzu UTE A League,Adelaide United,true,0,0,150-5100,0,CLUB
+50594315,Herrmann,Luca,62,14,Rare,3,3,Basic,Germany,Bundesliga 2,SC Paderborn 07,false,0,0,150-5100,47,CLUB
+50594655,Charles,Niamh,94,7,Team of the Season,4,5,Basic,England,Barclays Women’s Super League,Chelsea,true,0,0,11500-60000,0,CLUB
+50594943,Fall,Mamadou,95,5,Team of the Season Plus,2,2,Basic,Senegal,LALIGA EA SPORTS,FC Barcelona,true,0,0,150-5000,0,CLUB
+50595045,Minda,Alan,91,12,Copa América Make Your Mark Plus,4,4,Basic,Ecuador,1A Pro League,Cercle Brugge,true,0,0,11250-30000,0,CLUB
+50595387,Macari,Lewis,60,3,Common,2,3,Basic,Scotland,EFL League Two,Notts County,true,0,0,150-5100,0,CLUB
+50595477,Carvalho Oliveira,Vítor Manuel,76,25,Common,3,3,Basic,Portugal,Serie A TIM,Genoa,true,0,0,300-5000,0,CLUB
+50595554,Ashworth,Zac,62,8,Rare,2,3,Basic,Wales,EFL League One,Blackpool,true,0,0,150-5100,0,CLUB
+50595556,Locko,Bradley,90,7,Team of the Season,4,4,Basic,France,Ligue 1 Uber Eats,Stade Brestois 29,true,0,0,11000-32500,0,CLUB
+50595577,Cancellieri,Matteo,73,23,Rare,4,3,Basic,Italy,Serie A TIM,Latium,false,0,0,300-5100,256,CLUB
+50595612,Angeldahl,Filippa,77,14,Common,3,3,Basic,Sweden,Liga F,Real Madrid CF,true,0,0,300-5000,0,CLUB
+50596300,Barcola,Bradley,76,23,Common,3,3,Basic,France,Ligue 1 Uber Eats,Paris SG,true,0,0,350-10000,0,CLUB
+50596578,Matysik,Sylwia,76,3,Common,2,3,Basic,Poland,Google Pixel Frauen-Bundesliga,1. FC Köln,true,0,0,300-5000,0,CLUB
+50596581,Dunst,Barbara,92,14,TOTS Moments,4,4,Basic,Austria,Google Pixel Frauen-Bundesliga,Frankfurt,true,0,0,11250-30000,0,CLUB
+50596642,Naschenweng,Katharina,94,7,Team of the Season Plus,4,4,Basic,Austria,Google Pixel Frauen-Bundesliga,FC Bayern München,true,0,0,11500-45000,0,CLUB
+50596662,Schmidt,Lara,70,5,Common,2,2,Basic,Germany,Google Pixel Frauen-Bundesliga,SV Werder Bremen,false,0,0,150-5000,105,CLUB
+50596673,Cerci,Selina,75,25,Common,4,4,Basic,Germany,Google Pixel Frauen-Bundesliga,TSG Hoffenheim,true,0,0,300-5000,0,CLUB
+50596690,Piljić,Katharina,73,10,Rare,3,2,Basic,Germany,Google Pixel Frauen-Bundesliga,Leverkusen,false,0,0,300-5100,256,CLUB
+50596921,Zelem,Katie,92,10,Team of the Season Plus,4,4,Basic,England,Barclays Women’s Super League,Manchester Utd,true,0,0,11250-32500,0,CLUB
+50596953,Evans,Lisa,78,23,Common,4,3,Basic,Scotland,Barclays Women’s Super League,Bristol City,true,0,0,300-5000,0,CLUB
+50597680,Bynoe-Gittens,Jamie,93,27,SHOWDOWN,5,4,Basic,England,Bundesliga,Borussia Dortmund,true,0,0,1000-10000,0,CLUB
+50598199,George,Gabrielle,77,5,Common,3,3,Basic,England,Barclays Women’s Super League,Manchester Utd,true,0,0,300-5000,0,CLUB
+50598338,da Silva Ferreira,Lucimar,92,5,Fantasy FC Hero,3,3,Basic,Brazil,Bundesliga,HERO,true,0,0,11250-30000,0,CLUB
+50598343,Brolin,Tomas,90,25,Fantasy FC Hero,4,4,Basic,Sweden,Serie A TIM,HERO,true,0,0,11000-30000,0,CLUB
+50598514,dos Santos,Éderson José,94,14,Showdown Plus,5,4,Basic,Brazil,Serie A TIM,Bergamo Calcio,true,0,0,2000-20000,0,CLUB
+50598851,Hiatt,Sam,76,5,Common,2,2,Basic,United States,National Women's Soccer League,NJ/NY Gotham,true,0,0,300-5000,0,CLUB
+50598865,Coffey,Sam,93,10,Team of the Season Plus,4,4,Basic,United States,National Women's Soccer League,Portland Thorns,true,0,0,11500-45000,0,CLUB
+50598923,Nagasato,Yuki,84,18,Rare,4,5,Basic,Japan,National Women's Soccer League,Houston Dash,true,0,0,1100-10000,0,CLUB
+50598925,St-Georges,Bianca,75,12,Common,3,3,Basic,Canada,National Women's Soccer League,NC Courage,true,0,0,300-5000,0,CLUB
+50598926,Stevens,Ella,74,25,Rare,3,3,Basic,United States,National Women's Soccer League,NJ/NY Gotham,true,0,0,300-5100,0,CLUB
+50598941,James,Angharad,73,14,Rare,2,3,Basic,Wales,National Women's Soccer League,Seattle Reign,false,0,0,300-5100,256,CLUB
+50598946,Dougherty Howard,Meggie,76,10,Common,3,3,Basic,United States,National Women's Soccer League,Angel City FC,true,0,0,300-5000,0,CLUB
+50598959,Viggiano,Marisa,77,10,Common,3,3,Basic,United States,National Women's Soccer League,Rac. Louisville,false,0,0,300-5000,273,CLUB
+50598974,Olofsson,Freja Siri,77,10,Common,3,3,Basic,Sweden,Liga F,Madrid CFF,true,0,0,300-5000,0,CLUB
+50599013,Charley,Simone,77,25,Common,3,3,Basic,United States,National Women's Soccer League,Orlando Pride,true,0,0,300-5000,0,CLUB
+50599027,Briede,Belle,76,14,Common,3,3,Basic,United States,National Women's Soccer League,Houston Dash,true,0,0,300-5000,0,CLUB
+50599032,Kornieck,Taylor,79,18,Common,3,3,Basic,United States,National Women's Soccer League,Rac. Louisville,true,0,0,300-5000,0,CLUB
+50600269,Hernández,Gastón,75,5,CONMEBOL Libertadores,2,3,Basic,Argentina,CONMEBOL Libertadores,San Lorenzo,true,0,0,550-4900,0,CLUB
+50600960,Baldanzi,Tommaso,77,18,Common,3,3,Basic,Italy,Serie A TIM,Roma FC,true,0,0,300-5000,0,CLUB
+50601050,Smolčić,Hrvoje,71,5,Common,2,3,Basic,Croatia,Österreichische Fußball-Bundesliga,LASK,false,0,0,150-5000,107,CLUB
+50601143,Buonanotte,Facundo,95,18,Copa América Festival of Football Academy,4,4,Basic,Argentina,Premier League,Brighton,true,0,0,150-10000,0,CLUB
+50602207,Carvalho Santos,Tiago,92,3,Team of the Season,4,4,Basic,Portugal,Ligue 1 Uber Eats,LOSC Lille,true,0,0,11250-60000,0,CLUB
+50603467,Flach,Paula,76,5,Common,2,2,Basic,Germany,Google Pixel Frauen-Bundesliga,SGS Essen,true,0,0,300-5000,0,CLUB
+50603485,Fürst,Vanessa,76,5,Common,3,2,Basic,Germany,Google Pixel Frauen-Bundesliga,SGS Essen,true,0,0,300-5000,0,CLUB
+50603590,Azkona Fuente,Ane,96,12,FUTTIES Premium,5,4,Basic,Spain,Liga F,Athletic Club,true,0,0,150-10000,0,CLUB
+50603592,Méndez Fernández,Maria,77,5,Common,2,2,Basic,Spain,Liga F,Real Madrid CF,true,0,0,300-5000,0,CLUB
+50603673,García Quiles,Violeta,73,16,Rare,3,3,Basic,Spain,Liga F,Real Sociedad,true,0,0,300-5100,0,CLUB
+50603713,Férnandez Pablos,Estela,77,14,Common,3,3,Basic,Spain,Liga F,Real Betis,false,0,0,300-5000,273,CLUB
+50603727,Esteve Quintero,Aida,78,14,Common,2,3,Basic,Spain,Liga F,Valencia CF,false,0,0,300-5000,277,CLUB
+50603742,Benítez Ianuzzi,Fiamma,75,18,Common,4,3,Basic,Spain,Liga F,Atlético de Madrid,true,0,0,300-5000,0,CLUB
+50603762,Lundkvist,Hanna,77,3,Common,3,3,Basic,Sweden,National Women's Soccer League,San Diego Wave,true,0,0,300-5000,0,CLUB
+50603828,Morcillo Aparicio,Raquel,70,27,Common,3,3,Basic,Spain,Liga F,Sevilla FC,false,0,0,150-5000,105,CLUB
+50603850,Arnaiz Gil,Iris,78,10,Common,3,3,Basic,Spain,Liga F,Sevilla FC,true,0,0,300-5000,0,CLUB
+50603855,Bernabé de Santiago,Alejandra,77,7,Common,3,3,Basic,Spain,Barclays Women’s Super League,Chelsea,true,0,0,300-5000,0,CLUB
+50603894,Castelló Oliver,Sandra,76,10,Common,3,3,Basic,Spain,Liga F,CA Tenerife,true,0,0,300-5000,0,CLUB
+50604418,Cabezas,Jorge,63,25,Common,2,3,Basic,Colombia,EFL Championship,Watford,true,0,0,150-5100,0,CLUB
+50604482,Gonçalves Neves,João Pedro,95,14,UEFA EURO Make Your Mark,4,4,Basic,Portugal,Liga Portugal,SL Benfica,true,0,0,11750-32500,0,CLUB
+50605051,Stierli,Julia,74,5,Rare,2,2,Basic,Switzerland,Google Pixel Frauen-Bundesliga,SC Freiburg,false,0,0,300-5100,259,CLUB
+50605117,Nighswonger,Jenna,95,7,Team of the Season Plus,4,4,Basic,United States,National Women's Soccer League,NJ/NY Gotham,false,0,0,11750-47500,11590,CLUB
+50605195,Da Silva Ferreira,Thais Cristina,96,5,FUTTIES Premium,4,4,Basic,Brazil,Liga F,CA Tenerife,true,0,0,150-10000,0,CLUB
+50605914,García Basso,Agustín,72,5,CONMEBOL Libertadores,2,3,Basic,Argentina,CONMEBOL Libertadores,Racing Club,false,0,0,5000-15000,252,CLUB
+50606402,Araújo,Ana Vitória,77,18,Common,3,3,Basic,Brazil,Liga F,Atlético de Madrid,true,0,0,300-5000,0,CLUB
+50606924,Prinz,Birgit,94,25,GOLAZO ICON,4,5,Basic,Germany,Icons,ICON,true,0,0,11500-30000,0,CLUB
+50607427,García Aguilar,Naima,76,16,Common,4,3,Basic,Spain,Liga F,Real Betis,true,0,0,350-10000,0,CLUB
+67108891,Cole,Joe,96,23,FUTTIES Hero,5,4,Basic,England,Premier League,HERO,true,0,0,-,0,CLUB
+67108915,Shearer,Alan,94,25,Greats of the Game Icon,4,5,Basic,England,Icons,ICON,true,0,0,150-10000,0,CLUB
+67109388,Ricken,Lars,95,18,FUTTIES Hero,4,5,Basic,Germany,Bundesliga,HERO,true,0,0,11750-30000,0,CLUB
+67109952,Nesta,Alessandro,92,5,Ultimate Birthday ICON,3,5,Basic,Italy,Icons,ICON,true,0,0,11250-30000,0,CLUB
+67110469,Pirès,Robert,90,16,Ultimate Birthday ICON,5,4,Basic,France,Icons,ICON,true,0,0,11000-30000,0,CLUB
+67112511,Ballack,Michael,96,14,Greats of the Game Icon,4,5,Basic,Germany,Icons,ICON,true,0,0,11750-95000,0,CLUB
+67113867,de Morais,Marcos,94,2,GOLAZO ICON,5,4,Basic,Brazil,Icons,ICON,true,0,0,11500-60000,0,CLUB
+67114343,Casillas Fernández,Iker,96,0,Greats of the Game Icon,3,3,Glove,Spain,Icons,ICON,true,0,0,150-10000,0,CLUB
+67114543,Kanu,Nwankwo,95,21,FUTTIES Hero,4,5,Basic,Nigeria,Premier League,HERO,true,0,0,700-10000,0,CLUB
+67119399,Hernández Creus,Xavier,94,14,Greats of the Game Icon,4,5,Basic,Spain,Icons,ICON,true,0,0,11500-70000,0,CLUB
+67124587,Kuyt,Dirk,96,18,FUTTIES Hero,4,5,Basic,Netherlands,Premier League,HERO,true,0,0,150-10000,0,CLUB
+67125483,Córdoba,Iván,95,5,Greats of the Game Hero,3,4,Basic,Colombia,Serie A TIM,HERO,true,0,0,11750-95000,0,CLUB
+67133494,Reina Páez,José Manuel,77,0,Common,1,3,GK Basic,Spain,Serie BKT,Como,true,0,0,300-5000,0,CLUB
+67135573,Márquez,Rafael,95,5,FUTTIES Hero,4,5,Basic,Mexico,LALIGA EA SPORTS,HERO,true,0,0,11750-55000,0,CLUB
+67148250,Beasley,DaMarcus,95,16,Greats of the Game Hero,5,4,Basic,United States,Major League Soccer,HERO,true,0,0,11750-35000,0,CLUB
+67153761,Dudek,Jerzy,95,0,Greats of the Game Hero,3,3,GK Basic,Poland,Premier League,HERO,true,0,0,1000-10000,0,CLUB
+67157804,Čech,Petr,96,0,FUTTIES Icon,3,3,Glove,Czech Republic,Icons,ICON,true,0,0,-,0,CLUB
+67159616,King,Ledley,95,5,FUTTIES Hero,4,4,Basic,England,Premier League,HERO,true,0,0,11750-65000,0,CLUB
+67160121,Crouch,Peter,95,25,FUTTIES Hero,4,5,Basic,England,Premier League,HERO,true,0,0,700-10000,0,CLUB
+67160403,van der Sar,Edwin,92,0,Ultimate Birthday ICON,5,5,GK Basic,Netherlands,Icons,ICON,true,0,0,11250-85000,0,CLUB
+67162914,Rooney,Wayne,91,25,Future Stars ICON,4,4,Basic,England,Icons,ICON,true,0,0,11250-90000,0,CLUB
+67230808,Schweinsteiger,Bastian,91,14,Ultimate Birthday ICON,5,4,Basic,Germany,Icons,ICON,true,0,0,11250-30000,0,CLUB
+67247313,dos Santos Leite,Ricardo Izecson,93,18,GOLAZO ICON,5,4,Basic,Brazil,Icons,ICON,true,0,0,11500-37500,0,CLUB
+67249465,Vidić,Nemanja,91,5,GOLAZO ICON,3,3,Basic,Serbia,Icons,ICON,true,0,0,11250-30000,0,CLUB
+67255400,Navas González,Jesús,97,3,UEFA EURO Path to Glory,5,5,Basic,Spain,LALIGA EA SPORTS,Sevilla FC,true,0,0,-,0,CLUB
+67264761,Dempsey,Clint,97,18,FUTTIES Hero,5,5,Basic,United States,Premier League,HERO,true,0,0,12000-65000,0,CLUB
+67265217,Hernández,Luis,94,25,Greats of the Game Icon,5,5,Basic,Mexico,Icons,ICON,true,0,0,11500-32500,0,CLUB
+67266887,Messi,Lionel,97,21,Team of the Year,5,4,Hunter,Argentina,Major League Soccer,Inter Miami CF,true,0,0,-,0,CLUB
+67273104,da Silva,Thiago Emiliano,95,5,End Of An Era,3,3,Anchor,Brazil,Premier League,Chelsea,true,0,0,1000-10000,0,CLUB
+67275999,Torres,Carlos Alberto,93,3,Ultimate Birthday ICON,4,5,Basic,Brazil,Icons,ICON,true,0,0,11500-40000,0,CLUB
+67286547,Sommer,Yann,95,0,Team of the Season,3,4,GK Basic,Switzerland,Serie A TIM,Inter,true,0,0,11750-50000,0,CLUB
+67291385,Kroos,Toni,94,10,UCL Road to the Final,5,5,Basic,Germany,LALIGA EA SPORTS,Real Madrid,true,0,0,34000-650000,0,CLUB
+67297241,Walker,Kyle,97,3,UEFA EURO Path to Glory,5,5,Basic,England,Premier League,Manchester City,true,0,0,-,0,CLUB
+67297409,Lewandowski,Robert,94,25,UCL Road to the Knockouts,4,4,Basic,Poland,LALIGA EA SPORTS,FC Barcelona,true,0,0,11500-30000,0,CLUB
+67298196,Alba Ramos,Jordi,93,7,TOTS Moments,5,4,Basic,Spain,Major League Soccer,Inter Miami CF,true,0,0,11500-50000,0,CLUB
+67298439,Muniain Goñi,Iker,94,18,End Of An Era,4,4,Basic,Spain,LALIGA EA SPORTS,Athletic Club,true,0,0,1000-10000,0,CLUB
+67298908,Moore,Bobby,98,5,FUTTIES Icon,3,4,Basic,England,Icons,ICON,true,0,0,-,0,CLUB
+67298909,Cruyff,Johan,97,21,GOLAZO ICON,5,5,Basic,Netherlands,Icons,ICON,true,0,0,-,0,CLUB
+67298910,Vieira de Oliveira,Sócrates,97,18,Team of the Year,5,5,Hunter,Brazil,Icons,ICON,true,0,0,-,0,CLUB
+67299324,Eriksen,Christian,96,14,UEFA EURO Team of the Tournament,5,5,Basic,Denmark,Premier League,Man Utd,true,0,0,11750-80000,0,CLUB
+67299441,Blanco,Sebastián,73,18,CONMEBOL Libertadores,3,5,Basic,Argentina,CONMEBOL Libertadores,San Lorenzo,true,0,0,300-5100,0,CLUB
+67301312,ter Stegen,Marc-André,95,0,UEFA EURO Make Your Mark,3,4,GK Basic,Germany,LALIGA EA SPORTS,FC Barcelona,true,0,0,11750-80000,0,CLUB
+67301493,Aspas Juncal,Iago,91,25,Fantasy FC,4,4,Basic,Spain,LALIGA EA SPORTS,RC Celta,false,0,0,11250-30000,11102,CLUB
+67302005,Pillud,Iván,70,3,Common,2,2,Basic,Argentina,Liga Profesional de Fútbol,Central Córdoba,false,0,0,150-9000,105,CLUB
+67308851,Cillessen,Jasper,78,0,Common,1,3,GK Basic,Netherlands,LALIGA EA SPORTS,UD Las Palmas,true,0,0,300-5000,0,CLUB
+67309888,Koulibaly,Kalidou,94,5,Team of the Season Plus,3,4,Basic,Senegal,ROSHN Saudi League,Al Hilal,true,0,0,11500-35000,0,CLUB
+67310169,Armando de Abreu,Gabriel,78,5,Common,2,2,Basic,Brazil,Trendyol Süper Lig,Beşiktaş,true,0,0,350-10000,0,CLUB
+67310319,Kondogbia,Geoffrey,95,14,FUTTIES Premium,4,5,Basic,CAR,Ligue 1 Uber Eats,OM,true,0,0,47750-900000,0,CLUB
+67312127,Maguire,Harry,95,5,UEFA EURO Festival of Football Academy,3,3,Basic,England,Premier League,Man Utd,true,0,0,150-10000,0,CLUB
+67313393,Batshuayi,Michy,77,25,Common,4,5,Basic,Belgium,Trendyol Süper Lig,Galatasaray,false,0,0,350-10000,273,CLUB
+67317438,Kostić,Filip,94,16,UEFA EURO Make Your Mark Plus,5,4,Basic,Serbia,Serie A TIM,Juventus,true,0,0,11500-42500,0,CLUB
+67317460,Belotti,Andrea,78,25,Common,3,5,Basic,Italy,Serie BKT,Como,true,0,0,350-10000,0,CLUB
+67317482,Vázquez Iglesias,Lucas,93,3,Live Team of the Season,4,5,Sentinel,Spain,LALIGA EA SPORTS,Real Madrid,true,0,0,2000-20000,0,CLUB
+67318363,Henrique Tavares,Fábio,94,10,FUTTIES Premium,4,4,Basic,Brazil,ROSHN Saudi League,Al Ittihad,true,0,0,150-10000,0,CLUB
+67321466,Llorente Ríos,Diego Javier,77,5,Common,2,3,Basic,Spain,LALIGA EA SPORTS,Real Betis,true,0,0,300-5000,0,CLUB
+67321695,Ramses Becker,Alisson,95,0,Team of the Year,2,3,GK Basic,Brazil,Premier League,Liverpool,true,0,0,76000-150000,0,CLUB
+67322400,Crépeau,Maxime,95,0,Copa América Team of the Tournament,3,4,GK Basic,Canada,Major League Soccer,Portland Timbers,true,0,0,11750-40000,0,CLUB
+67323131,Lineker,Gary,92,25,GOLAZO ICON,4,5,Basic,England,Icons,ICON,true,0,0,11250-30000,0,CLUB
+67323513,Šuker,Davor,96,25,Greats of the Game Icon,4,4,Basic,Croatia,Icons,ICON,true,0,0,11750-47500,0,CLUB
+67324019,Zuqui,Fernando,74,14,CONMEBOL Sudamericana,3,3,Basic,Argentina,CONMEBOL Sudamericana,Uni. Católica,false,0,0,15500-25500,111,CLUB
+67325065,Williams Arthuer,Iñaki,92,12,Team of the Season,4,4,Basic,Ghana,LALIGA EA SPORTS,Athletic Club,true,0,0,1000-10000,0,CLUB
+67325131,Robertson,Andrew,96,7,FUTTIES,5,4,Basic,Scotland,Premier League,Liverpool,true,0,0,700-10000,0,CLUB
+67325299,Lobotka,Stanislav,95,14,UEFA EURO Team of the Tournament,4,4,Basic,Slovakia,Serie A TIM,Napoli FC,true,0,0,11750-40000,0,CLUB
+67325324,Giménez,José María,94,5,Copa América Path to Glory,3,4,Basic,Uruguay,LALIGA EA SPORTS,Atlético de Madrid,true,0,0,11500-32500,0,CLUB
+67325491,Moore,Kieffer,73,25,Common,3,3,Basic,Wales,Premier League,Sheffield Utd,true,0,0,150-5000,0,CLUB
+67328557,Santos Silva,Diego Carlos,95,5,FUTTIES,4,4,Basic,Brazil,Premier League,Aston Villa,true,0,0,17250-65000,0,CLUB
+67329387,Mina,Yerry,77,5,Common,2,3,Basic,Colombia,Serie A TIM,Cagliari,true,0,0,300-5000,0,CLUB
+67330227,van de Beek,Donny,77,14,Common,3,3,Basic,Netherlands,LALIGA EA SPORTS,Girona FC,true,0,0,300-5000,0,CLUB
+67332442,Mata Arnaiz,Jaime,73,25,Rare,3,3,Basic,Spain,LALIGA EA SPORTS,UD Las Palmas,false,0,0,300-5100,256,CLUB
+67333157,da Silva Neves,Rúben Diogo,92,10,Team of the Season,4,5,Basic,Portugal,ROSHN Saudi League,Al Hilal,true,0,0,11250-37500,0,CLUB
+67334527,Golovin,Alexandr,94,21,Team of the Season,4,4,Basic,Russia,Ligue 1 Uber Eats,AS Monaco,true,0,0,11500-37500,0,CLUB
+67334723,Niakhaté,Moussa,77,5,Common,2,3,Basic,Senegal,Ligue 1 Uber Eats,OL,true,0,0,300-5000,0,CLUB
+67335135,Ruiz Peña,Fabián,97,14,UEFA EURO Team of the Tournament,5,5,Basic,Spain,Ligue 1 Uber Eats,Paris SG,true,0,0,-,0,CLUB
+67335172,Marozsán,Dzsenifer,96,18,FUTTIES Premium,5,5,Basic,Germany,D1 Arkema,OL,true,0,0,700-10000,0,CLUB
+67335491,Minamino,Takumi,96,16,FUTTIES Premium,5,5,Basic,Japan,Ligue 1 Uber Eats,AS Monaco,true,0,0,1000-10000,0,CLUB
+67335877,Rolfö,Fridolina,93,7,Fantasy FC,4,5,Basic,Sweden,Liga F,FC Barcelona,true,0,0,150-10000,0,CLUB
+67335966,Hansen,Caroline Graham,92,23,Evolutions II,5,4,Basic,Norway,Liga F,FC Barcelona,true,0,0,11250-75000,0,CLUB
+67336067,Putellas Segura,Alexia,95,14,FUTTIES In Progress EVO,5,5,Basic,Spain,Liga F,FC Barcelona,true,0,0,11250-47500,0,CLUB
+67336118,Greenwood,Alex,94,5,Team of the Season,3,3,Basic,England,Barclays Women’s Super League,Manchester City,true,0,0,11500-35000,0,CLUB
+67336127,Smith,Kelly,91,25,Future Stars ICON,4,4,Basic,England,Icons,ICON,true,0,0,11250-30000,0,CLUB
+67336187,Reiten,Guro,95,27,FUTTIES,4,5,Basic,Norway,Barclays Women’s Super League,Chelsea,true,0,0,150-10000,0,CLUB
+67336188,Abily,Camille,94,14,Ultimate Birthday ICON,4,5,Basic,France,Icons,ICON,true,0,0,11500-30000,0,CLUB
+67336399,Bentancur,Rodrigo,97,14,Copa América Path to Glory,4,5,Basic,Uruguay,Premier League,Spurs,true,0,0,21750-410000,0,CLUB
+67336511,Mittelstädt,Maximilian,93,8,UEFA EURO Make Your Mark Plus,4,4,Basic,Germany,Bundesliga,VfB Stuttgart,true,0,0,11500-30000,0,CLUB
+67337677,García Serrano,Aleix,93,14,TOTS Champions,4,4,Basic,Spain,LALIGA EA SPORTS,Girona FC,true,0,0,40000-750000,0,CLUB
+67338101,Akanji,Manuel,94,5,UEFA EURO Path to Glory,3,4,Basic,Switzerland,Premier League,Manchester City,true,0,0,11500-140000,0,CLUB
+67338889,Charlton,Bobby,94,18,GOLAZO ICON,4,5,Basic,England,Icons,ICON,true,0,0,11500-35000,0,CLUB
+67340737,Montiel Caballero,Jonathan,75,18,Common,3,2,Basic,Spain,LALIGA EA SPORTS,Rayo Vallecano,true,0,0,300-5000,0,CLUB
+67341227,Škriniar,Milan,94,5,UEFA EURO Path to Glory,3,4,Basic,Slovakia,Ligue 1 Uber Eats,Paris SG,true,0,0,11500-30000,0,CLUB
+67341960,Dumfries,Denzel,96,2,FUTTIES Premium,4,4,Basic,Netherlands,Serie A TIM,Inter,true,0,0,700-10000,0,CLUB
+67342165,Kristensen,Rasmus,75,2,Common,3,4,Basic,Denmark,Bundesliga,Frankfurt,true,0,0,300-5000,0,CLUB
+67342564,Vialli,Gianluca,93,25,GOLAZO Hero,4,5,Basic,Italy,Serie A TIM,HERO,true,0,0,11500-30000,0,CLUB
+67342610,Miedema,Vivianne,91,25,Fantasy FC,4,4,Basic,Netherlands,Barclays Women’s Super League,Arsenal,true,0,0,11250-30000,0,CLUB
+67342749,Cömert,Eray,76,5,Common,2,4,Basic,Switzerland,LALIGA HYPERMOTION,R. Valladolid CF,false,0,0,300-5000,270,CLUB
+67342924,Herrera,Yangel,94,14,Copa América Path to Glory,4,4,Basic,Venezuela,LALIGA EA SPORTS,Girona FC,true,0,0,11500-35000,0,CLUB
+67342976,Cordeiro dos Santos,Domilson,95,3,FUTTIES,5,5,Basic,Brazil,Serie A TIM,Fiorentina,true,0,0,1000-10000,0,CLUB
+67343100,Schick,Patrik,92,25,UEFA EURO Path to Glory,4,5,Basic,Czech Republic,Bundesliga,Leverkusen,true,0,0,11250-30000,0,CLUB
+67344433,Ndombele,Tanguy,78,14,Common,4,3,Basic,France,Ligue 1 Uber Eats,OGC Nice,true,0,0,350-10000,0,CLUB
+67344654,Havertz,Kai,94,14,Live Team of the Season,4,5,Gladiator,Germany,Premier League,Arsenal,true,0,0,150-10000,0,CLUB
+67344704,Di Gregorio,Michele,79,0,Common,1,3,GK Basic,Italy,Serie A TIM,Juventus,true,0,0,300-5000,0,CLUB
+67345504,Williams,Lynn,91,27,Team of the Season,4,4,Basic,United States,National Women's Soccer League,NJ/NY Gotham,true,0,0,11250-30000,0,CLUB
+67345668,Medina,Facundo,91,5,Team of the Season,3,4,Basic,Argentina,Ligue 1 Uber Eats,RC Lens,true,0,0,11250-32500,0,CLUB
+67345950,Kim,Min Jae,89,5,TOTY Honourable Mentions,2,3,Basic,Korea Republic,Bundesliga,FC Bayern München,true,0,0,11000-30000,0,CLUB
+67346153,Guijarro Gutiérrez,Patricia,94,14,Team of the Season Plus,4,4,Hunter,Spain,Liga F,FC Barcelona,true,0,0,11500-45000,0,CLUB
+67346705,Murillo,Michael,92,3,Copa América Make Your Mark Plus,4,4,Basic,Panama,Ligue 1 Uber Eats,OM,true,0,0,11250-35000,0,CLUB
+67346868,Guðmundsson,Albert,94,25,Team of the Season,4,4,Basic,Iceland,Serie A TIM,Genoa,true,0,0,1000-10000,0,CLUB
+67346938,James,Reece,91,3,Ultimate Birthday,4,5,Basic,England,Premier League,Chelsea,true,0,0,150-10000,0,CLUB
+67347294,da Silva Rocha,Roberto Carlos,96,7,Greats of the Game Icon,5,5,Basic,Brazil,Icons,ICON,true,0,0,-,0,CLUB
+67347608,McKennie,Weston,94,14,Copa América Make Your Mark Plus,5,4,Basic,United States,Serie A TIM,Juventus,true,0,0,11500-30000,0,CLUB
+67348955,Vicario,Guglielmo,93,0,UEFA EURO Path to Glory,3,3,GK Basic,Italy,Premier League,Spurs,true,0,0,1000-10000,0,CLUB
+67350325,Torres García,Ferran,97,27,UEFA EURO Path to Glory,5,5,Basic,Spain,LALIGA EA SPORTS,FC Barcelona,true,0,0,37250-700000,0,CLUB
+67350574,Opoku,Jerome,71,5,Common,2,3,Basic,Ghana,Trendyol Süper Lig,Başakşehir,false,0,0,150-10000,107,CLUB
+67350635,Nwakaeme,Anthony,77,25,Common,4,4,Basic,Nigeria,Trendyol Süper Lig,Trabzonspor,false,0,0,300-5000,273,CLUB
+67350792,Sambi Lokonga,Albert,74,10,Rare,3,3,Basic,Belgium,LALIGA EA SPORTS,Sevilla FC,false,0,0,300-5100,259,CLUB
+67351893,Campbell,Sol,91,5,GOLAZO ICON,3,3,Basic,England,Icons,ICON,true,0,0,11250-30000,0,CLUB
+67352268,Stanway,Georgia,93,10,Fantasy FC,4,4,Basic,England,Google Pixel Frauen-Bundesliga,FC Bayern München,true,0,0,11500-30000,0,CLUB
+67354494,Fofana,Youssouf,94,14,UEFA EURO Path to Glory,4,5,Basic,France,Ligue 1 Uber Eats,AS Monaco,true,0,0,150-10000,0,CLUB
+67355083,Shaw,Khadija,96,25,Team of the Season Plus,4,5,Catalyst,Jamaica,Barclays Women’s Super League,Manchester City,true,0,0,11750-55000,0,CLUB
+67355127,Weigandt,Marcelo,72,3,Common,3,2,Basic,Argentina,Major League Soccer,Inter Miami CF,false,0,0,5000-15000,108,CLUB
+67355204,Mudryk,Mykhailo,91,27,Ultimate Birthday,5,4,Basic,Ukraine,Premier League,Chelsea,true,0,0,11250-30000,0,CLUB
+67355228,Cometti,Aldana,91,5,Team of the Season Plus,4,4,Basic,Argentina,Liga F,Madrid CFF,true,0,0,11250-30000,0,CLUB
+67355664,Buchanan,Tajon,88,23,Ultimate Birthday,5,3,Basic,Canada,Serie A TIM,Inter,true,0,0,10750-30000,0,CLUB
+67356110,Thuram,Khéphren,94,14,TOTS Moments,4,5,Basic,France,Ligue 1 Uber Eats,OGC Nice,true,0,0,11500-55000,0,CLUB
+67356127,Tapsoba,Edmond,91,5,TOTS Moments,3,3,Basic,Burkina Faso,Bundesliga,Leverkusen,true,0,0,11250-30000,0,CLUB
+67356327,Balogun,Folarin,94,25,Copa América Path to Glory,4,5,Basic,United States,Ligue 1 Uber Eats,AS Monaco,true,0,0,1000-10000,0,CLUB
+67356683,Schlotterbeck,Nico,93,5,Team of the Season,3,3,Basic,Germany,Bundesliga,Borussia Dortmund,true,0,0,11500-50000,0,CLUB
+67356715,Guimarães Moura,Bruno,96,14,Copa América Path to Glory,4,4,Basic,Brazil,Premier League,Newcastle Utd,true,0,0,11750-65000,0,CLUB
+67357466,Greaves,Jacob,71,5,Common,2,2,Basic,England,EFL Championship,Ipswich,false,0,0,150-5000,107,CLUB
+67357657,Wieffer,Mats,76,10,Common,3,3,Basic,Netherlands,Premier League,Brighton,true,0,0,300-5000,0,CLUB
+67359754,Zambrotta,Gianluca,93,3,Greats of the Game Icon,5,5,Basic,Italy,Icons,ICON,true,0,0,11500-42500,0,CLUB
+67359823,Stiller,Angelo,95,14,UEFA EURO Festival of Football Academy,4,4,Basic,Germany,Bundesliga,VfB Stuttgart,true,0,0,150-10000,0,CLUB
+67360334,De Ketelaere,Charles,95,18,UEFA EURO Make Your Mark Plus,4,5,Basic,Belgium,Serie A TIM,Bergamo Calcio,true,0,0,11750-32500,0,CLUB
+67360437,Lodi dos Santos,Renan Augusto,79,7,Common,4,3,Basic,Brazil,ROSHN Saudi League,Al Hilal,false,0,0,300-5000,280,CLUB
+67360806,Loureiro da Costa,João Pedro,89,2,Team of the Season,3,3,Basic,Portugal,Liga Portugal,Rio Ave FC,true,0,0,11000-30000,0,CLUB
+67361936,Núñez,Darwin,98,25,Copa América Make Your Mark Plus,4,5,Basic,Uruguay,Premier League,Liverpool,true,0,0,150-10000,0,CLUB
+67362041,Musah,Yunus,95,14,Copa América Make Your Mark Plus,4,5,Basic,United States,Serie A TIM,Milan,true,0,0,11750-75000,0,CLUB
+67362147,Pellistri,Facundo,95,23,Copa América Path to Glory,4,4,Basic,Uruguay,Premier League,Man Utd,false,0,0,11750-45000,11590,CLUB
+67362170,Ugarte,Manuel,94,14,Copa América Make Your Mark Plus,4,4,Basic,Uruguay,Ligue 1 Uber Eats,Paris SG,true,0,0,11500-30000,0,CLUB
+67363792,Franjić,Bartol,71,10,Common,2,3,Basic,Croatia,Ukrayina Liha,Shakhtar Donetsk,false,0,0,150-5000,107,CLUB
+67364518,Kalulu,Pierre,95,5,FUTTIES Premium,3,4,Basic,France,Serie A TIM,Milan,true,0,0,11750-55000,0,CLUB
+67364582,Sosa,Ramón,93,16,Copa América Make Your Mark Plus,5,4,Basic,Paraguay,Liga Profesional de Fútbol,Talleres,true,0,0,11500-30000,0,CLUB
+67364971,Johnston,Alistair,96,3,Copa América Make Your Mark Plus,4,4,Basic,Canada,cinch Premiership,Celtic,true,0,0,11750-55000,0,CLUB
+67365132,Broja,Armando,94,25,UEFA EURO Make Your Mark Plus,4,5,Basic,Albania,Premier League,Fulham,true,0,0,11500-30000,0,CLUB
+67365266,Alcaraz,Carlos,95,18,Copa América Festival of Football Academy,4,4,Basic,Argentina,Serie A TIM,Juventus,true,0,0,150-10000,0,CLUB
+67365889,de la Fuente,Konrad,71,16,Common,3,4,Basic,United States,Credit Suisse Super League,Lausanne-Sport,false,0,0,150-5000,107,CLUB
+67365921,Onana,Amadou,76,10,Common,3,4,Basic,Belgium,Premier League,Aston Villa,true,0,0,300-5000,0,CLUB
+67366366,Smal,Gijs,75,7,Common,2,3,Basic,Netherlands,Eredivisie,Feyenoord,false,0,0,300-5000,266,CLUB
+67367547,Ilić,Ivan,93,14,UEFA EURO Make Your Mark Plus,4,4,Basic,Serbia,Serie A TIM,Torino,true,0,0,11500-30000,0,CLUB
+67368447,Udogie,Destiny,95,7,FUTTIES,4,4,Basic,Italy,Premier League,Spurs,true,0,0,150-10000,0,CLUB
+67370729,Gutiérrez Ortega,Miguel,92,7,Team of the Season,4,4,Basic,Spain,LALIGA EA SPORTS,Girona FC,true,0,0,11250-32500,0,CLUB
+67371135,Milito,Diego,95,25,FUTTIES Hero,5,4,Basic,Argentina,Serie A TIM,HERO,true,0,0,11750-32500,0,CLUB
+67372386,Sarmiento,Jeremy,94,27,Copa América Team of the Tournament,5,4,Basic,Ecuador,Premier League,Brighton,true,0,0,11500-42500,0,CLUB
+67373985,Lührßen,Nina,75,16,Common,3,4,Basic,Germany,Google Pixel Frauen-Bundesliga,Frankfurt,true,0,0,300-5000,0,CLUB
+67374141,Thomas,Martha,76,25,Common,3,3,Basic,Scotland,Barclays Women’s Super League,Spurs,false,0,0,300-5000,270,CLUB
+67374557,Kiwior,Jakub,94,7,UEFA EURO Make Your Mark Plus,3,4,Basic,Poland,Premier League,Arsenal,true,0,0,11500-55000,0,CLUB
+67375337,Park,Ji Sung,92,14,GOLAZO Hero,5,5,Basic,Korea Republic,Premier League,HERO,true,0,0,11250-30000,0,CLUB
+67376063,Alonso Costantino,Angelina,75,18,Common,4,4,Basic,Brazil,National Women's Soccer League,Orlando Pride,true,0,0,300-5000,0,CLUB
+67376184,Kizer,CeCe,76,16,Common,3,4,Basic,United States,National Women's Soccer League,Houston Dash,true,0,0,300-5000,0,CLUB
+67376246,Girma,Naomi,94,5,Team of the Season,3,3,Basic,United States,National Women's Soccer League,San Diego Wave,true,0,0,11500-32500,0,CLUB
+67377377,Ventura Filho,Jair,94,23,GOLAZO ICON,5,4,Basic,Brazil,Icons,ICON,true,0,0,11500-85000,0,CLUB
+67379807,Stoppa,Matteo,95,5,FUTTIES Premium,4,5,Basic,Italy,Serie BKT,Sampdoria,true,0,0,700-10000,0,CLUB
+67380914,Martín-Prieto,Cristina,92,25,TOTS Moments,4,4,Basic,Spain,Liga F,Sevilla FC,true,0,0,11250-47500,0,CLUB
+67381271,Keita,Cheick,70,5,Common,2,3,Basic,France,1A Pro League,Sp. Charleroi,true,0,0,150-5000,0,CLUB
+67381433,Rodríguez,Kevin,93,25,Copa América Path to Glory,4,4,Basic,Ecuador,1A Pro League,R. Union St.-G.,true,0,0,11500-32500,0,CLUB
+83886650,Okocha,Jay-Jay,95,18,FUTTIES Hero,5,5,Basic,Nigeria,Premier League,HERO,true,0,0,700-10000,0,CLUB
+83887105,César Costa,Rui Manuel,93,18,Greats of the Game Hero,4,5,Basic,Portugal,Serie A TIM,HERO,true,0,0,11500-30000,0,CLUB
+83887477,Zidane,Zinedine,98,18,Greats of the Game Icon,5,5,Hunter,France,Icons,ICON,true,0,0,-,0,CLUB
+83887631,Giuly,Ludovic,96,12,FUTTIES Hero,5,4,Basic,France,Ligue 1 Uber Eats,HERO,true,0,0,11750-110000,0,CLUB
+83891534,Lizarazu,Bixente,95,8,Greats of the Game Hero,4,4,Basic,France,Bundesliga,HERO,true,0,0,150-10000,0,CLUB
+83892064,Trezeguet,David,94,25,Greats of the Game Icon,4,4,Basic,France,Icons,ICON,true,0,0,11500-42500,0,CLUB
+83894553,Rosický,Tomáš,92,18,GOLAZO Hero,4,5,Basic,Czech Republic,Premier League,HERO,true,0,0,11250-30000,0,CLUB
+83896344,van Nistelrooy,Ruud,96,25,FUTTIES Icon,4,5,Basic,Netherlands,Icons,ICON,true,0,0,11750-80000,0,CLUB
+83906369,Touré,Yaya,97,10,FUTTIES Hero,4,5,Basic,Ivory Coast,Premier League,HERO,true,0,0,-,0,CLUB
+83916190,Berbatov,Dimitar,93,25,GOLAZO Hero,5,4,Basic,Bulgaria,Premier League,HERO,true,0,0,11500-30000,0,CLUB
+84024529,dos Santos Leite,Ricardo Izecson,97,25,FUTTIES Icon,5,5,Basic,Brazil,Icons,ICON,true,0,0,-,0,CLUB
+84026681,Vidić,Nemanja,94,5,GOLAZO ICON,3,5,Basic,Serbia,Icons,ICON,true,0,0,11500-150000,0,CLUB
+84062023,Mertens,Dries,94,21,FUTTIES Premium,5,4,Basic,Belgium,Trendyol Süper Lig,Galatasaray,true,0,0,150-10000,0,CLUB
+84064642,Banega,Éver,96,14,FUTTIES Premium,4,5,Basic,Argentina,Liga Profesional de Fútbol,Newell's,true,0,0,700-10000,0,CLUB
+84071021,Sánchez,Alexis,94,25,Copa América Path to Glory,5,5,Basic,Chile,Serie A TIM,Inter,true,0,0,1000-10000,0,CLUB
+84073022,Gündoğan,İlkay,93,14,Team of the Season,4,4,Basic,Germany,LALIGA EA SPORTS,FC Barcelona,true,0,0,11500-35000,0,CLUB
+84074625,Lewandowski,Robert,92,25,POTM LALIGA EA SPORTS,4,4,Basic,Poland,LALIGA EA SPORTS,FC Barcelona,true,0,0,500-10000,0,CLUB
+84078199,Courtois,Thibaut,95,0,FUTTIES,3,3,GK Basic,Belgium,LALIGA EA SPORTS,Real Madrid,true,0,0,17250-130000,0,CLUB
+84083525,Alaba,David,97,5,FUTTIES,4,4,Basic,Austria,LALIGA EA SPORTS,Real Madrid,true,0,0,-,0,CLUB
+84083971,Jiménez López,Juan Miguel,79,16,Common,3,3,Basic,Spain,LALIGA EA SPORTS,Real Betis,true,0,0,350-10000,0,CLUB
+84086225,Venancio Casimiro,Carlos Henrique,95,10,Copa América Festival of Football Academy,3,4,Basic,Brazil,Premier League,Man Utd,true,0,0,150-10000,0,CLUB
+84088451,Meunier,Thomas,76,3,Common,3,4,Basic,Belgium,Ligue 1 Uber Eats,LOSC Lille,true,0,0,350-10000,0,CLUB
+84088636,Depay,Memphis,97,21,UEFA EURO Path to Glory,5,4,Basic,Netherlands,LALIGA EA SPORTS,Atlético de Madrid,true,0,0,1000-10000,0,CLUB
+84091511,Füllkrug,Niclas,94,25,UEFA EURO Path to Glory,4,5,Basic,Germany,Bundesliga,Borussia Dortmund,true,0,0,11500-42500,0,CLUB
+84091532,Rüdiger,Antonio,94,5,Team of the Season,3,3,Basic,Germany,LALIGA EA SPORTS,Real Madrid,true,0,0,11500-47500,0,CLUB
+84094208,Çalhanoğlu,Hakan,94,10,Team of the Season,5,4,Basic,Türkiye,Serie A TIM,Inter,true,0,0,11500-55000,0,CLUB
+84096088,Rabiot,Adrien,92,14,TOTS Champions,4,4,Basic,France,Serie A TIM,Juventus,true,0,0,40000-750000,0,CLUB
+84098278,Borges Fernandes,Bruno Miguel,96,18,FUTTIES In Progress EVO,4,4,Basic,Portugal,Premier League,Man Utd,true,0,0,1000-10000,0,CLUB
+84098911,Ramses Becker,Alisson,94,0,Team of the Season,3,3,Cat,Brazil,Premier League,Liverpool,false,0,59500,11500-80000,11468,CLUB
+84100181,dos Santos Futre,Paulo Jorge,95,18,FUTTIES Hero,5,4,Basic,Portugal,LALIGA EA SPORTS,HERO,true,0,0,700-10000,0,CLUB
+84101077,Correa,Ángel,93,25,Flashback Player,5,4,Deadeye,Argentina,LALIGA EA SPORTS,Atlético de Madrid,true,0,0,2000-20000,0,CLUB
+84102546,Nascimento Borges,Wendell,94,7,Copa América Path to Glory,5,4,Basic,Brazil,Liga Portugal,FC Porto,true,0,0,11500-40000,0,CLUB
+84103950,Di Lorenzo,Giovanni,91,3,TOTS Moments,4,3,Basic,Italy,Serie A TIM,Napoli FC,true,0,0,11250-50000,0,CLUB
+84107777,Watkins,Ollie,94,25,Team of the Season,4,4,Basic,England,Premier League,Aston Villa,true,0,0,11500-35000,0,CLUB
+84108572,Sané,Leroy,93,12,Team of the Season,5,4,Basic,Germany,Bundesliga,FC Bayern München,true,0,0,150-10000,0,CLUB
+84108817,Silva de Oliveira,Malcom Filipe,95,12,FUTTIES Premium,5,4,Basic,Brazil,ROSHN Saudi League,Al Hilal,true,0,0,1000-10000,0,CLUB
+84111588,Bailly,Eric,76,5,Common,3,3,Basic,Ivory Coast,LALIGA EA SPORTS,Villarreal CF,false,0,0,300-5000,270,CLUB
+84112453,Keßler,Nadine,94,14,Greats of the Game Hero,5,4,Basic,Germany,Google Pixel Frauen-Bundesliga,HERO,true,0,0,11500-30000,0,CLUB
+84112571,Tierney,Kieran,93,7,UEFA EURO Path to Glory,4,4,Basic,Scotland,LALIGA EA SPORTS,Real Sociedad,true,0,0,1000-10000,0,CLUB
+84112973,de Oliveira,Débora C.,95,18,Team of the Season Plus,5,5,Basic,Brazil,National Women's Soccer League,KC Current,true,0,0,11750-50000,0,CLUB
+84113341,Scott,Alex,95,3,FUTTIES Hero,4,4,Basic,England,Barclays Women’s Super League,HERO,true,0,0,150-10000,0,CLUB
+84113343,Smith,Kelly,96,25,FUTTIES Icon,5,5,Basic,England,Icons,ICON,true,0,0,11750-95000,0,CLUB
+84115268,Pavlidis,Vangelis,78,25,Common,3,4,Basic,Greece,Liga Portugal,SL Benfica,true,0,0,300-5000,0,CLUB
+84115556,Anton,Waldemar,75,5,Common,3,3,Basic,Germany,Bundesliga,Borussia Dortmund,false,0,0,300-5000,266,CLUB
+84116100,Lees-Melou,Pierre,93,10,Team of the Season,4,4,Basic,France,Ligue 1 Uber Eats,Stade Brestois 29,true,0,0,11500-32500,0,CLUB
+84116979,Lookman,Ademola,95,25,FUTTIES Premium,5,5,Basic,Nigeria,Serie A TIM,Bergamo Calcio,true,0,0,700-10000,0,CLUB
+84117692,Del Castillo,Romain,93,23,Team of the Season,4,4,Basic,France,Ligue 1 Uber Eats,Stade Brestois 29,true,0,0,11500-50000,0,CLUB
+84117732,Banza,Simon,90,25,Team of the Season Plus,4,4,Basic,DR Congo,Liga Portugal,SC Braga,true,0,0,11000-30000,0,CLUB
+84118023,de Andrade,Richarlison,95,25,Copa América Festival of Football Academy,4,5,Basic,Brazil,Premier League,Spurs,true,0,0,150-10000,0,CLUB
+84122579,Soares de Paulo,Douglas Luiz,96,10,Copa América Path to Glory,4,4,Basic,Brazil,Serie A TIM,Juventus,true,0,0,18000-340000,0,CLUB
+84124523,Blanc,Laurent,97,5,FUTTIES Icon,5,4,Basic,France,Icons,ICON,true,0,0,60000-1140000,0,CLUB
+84125660,Silva Nascimento,Gleison Bremer,92,5,Team of the Season,3,3,Basic,Brazil,Serie A TIM,Juventus,true,0,0,11250-50000,0,CLUB
+84125898,Gato Alves Dias,Rúben Santos,97,5,UEFA EURO Path to Glory,3,4,Basic,Portugal,Premier League,Manchester City,true,0,0,-,0,CLUB
+84127566,Koundé,Jules,94,5,Team of the Season,3,3,Anchor,France,LALIGA EA SPORTS,FC Barcelona,true,0,0,1000-10000,0,CLUB
+84127926,Pajor,Ewa,93,25,Team of the Season Plus,5,4,Basic,Poland,Google Pixel Frauen-Bundesliga,VfL Wolfsburg,true,0,0,11500-47500,0,CLUB
+84129484,Stanway,Georgia,94,10,Team of the Season,4,5,Basic,England,Google Pixel Frauen-Bundesliga,FC Bayern München,false,0,0,11500-55000,11468,CLUB
+84129795,Saliba,William,94,5,Team of the Season,3,3,Basic,France,Premier League,Arsenal,true,0,0,11500-47500,0,CLUB
+84130340,Olmo Carvajal,Daniel,98,18,UEFA EURO Path to Glory,5,5,Basic,Spain,Bundesliga,RB Leipzig,true,0,0,17500-330000,0,CLUB
+84130449,Tsygankov,Viktor,92,12,UEFA EURO Path to Glory,4,4,Basic,Ukraine,LALIGA EA SPORTS,Girona FC,true,0,0,1000-10000,0,CLUB
+84131232,Giménez,Santiago,95,25,Copa América Path to Glory,4,4,Basic,Mexico,Eredivisie,Feyenoord,true,0,0,1000-10000,0,CLUB
+84131447,Simons,Xavi,93,18,Team of the Season,4,4,Basic,Netherlands,Bundesliga,RB Leipzig,true,0,0,11500-37500,0,CLUB
+84131952,Little,Kim,95,14,Flashback Player,4,5,Basic,Scotland,Barclays Women’s Super League,Arsenal,true,0,0,150-10000,0,CLUB
+84132352,Katoto,Marie,94,25,Team of the Season,4,4,Basic,France,D1 Arkema,Paris SG,true,0,0,11500-60000,0,CLUB
+84132436,Banini,Estefanía,95,14,Flashback Player,4,5,Basic,Argentina,Liga F,Atlético de Madrid,true,0,0,150-10000,0,CLUB
+84132510,Vlahović,Dušan,88,25,Team of the Week,4,4,Basic,Serbia,Serie A TIM,Juventus,true,0,0,-,0,CLUB
+84134874,da Silva Ferreira,Geyse,91,25,Fantasy FC,4,5,Basic,Brazil,Barclays Women’s Super League,Manchester Utd,true,0,0,11250-30000,0,CLUB
+84137026,Rochelt,Jannik,69,16,Common,3,4,Basic,Germany,Bundesliga 2,Hannover 96,true,0,0,150-5000,0,CLUB
+84137035,Stanišić,Josip,75,3,Common,2,4,Basic,Croatia,Bundesliga,FC Bayern München,false,0,0,300-5000,266,CLUB
+84137563,Kompany,Vincent,97,5,FUTTIES Hero,4,4,Basic,Belgium,Premier League,HERO,true,0,0,-,0,CLUB
+84137597,Gvardiol,Joško,94,5,UEFA EURO Path to Glory,4,4,Basic,Croatia,Premier League,Manchester City,true,0,0,11500-95000,0,CLUB
+84137886,Timber,Quinten,92,14,Team of the Season Plus,4,5,Basic,Netherlands,Eredivisie,Feyenoord,true,0,0,11250-30000,0,CLUB
+84138034,Summerville,Crysencio,92,12,Team of the Season Plus,5,4,Basic,Netherlands,EFL Championship,Leeds United,true,0,0,11250-50000,0,CLUB
+84139516,Batlle Pascual,Ona,95,3,Team of the Season,4,4,Basic,Spain,Liga F,FC Barcelona,true,0,0,1000-10000,0,CLUB
+84140631,Mikautadze,Georges,93,25,UEFA EURO Make Your Mark Plus,4,4,Basic,Georgia,Ligue 1 Uber Eats,FC Metz,true,0,0,11500-30000,0,CLUB
+84140722,Puskás,Ferenc,98,21,Greats of the Game Icon,4,5,Catalyst,Hungary,Icons,ICON,true,0,0,-,0,CLUB
+84141333,Machado Ferreira,Vítor,96,14,Team of the Season,5,5,Basic,Portugal,Ligue 1 Uber Eats,Paris SG,true,0,0,11750-75000,0,CLUB
+84142277,Hincapié,Piero,92,5,Live Team of the Season,3,3,Basic,Ecuador,Bundesliga,Leverkusen,true,0,0,11250-37500,0,CLUB
+84145452,del Castillo,Athenea,94,23,Team of the Season Plus,4,5,Basic,Spain,Liga F,Real Madrid CF,true,0,0,11500-35000,0,CLUB
+84146185,Drăgușin,Radu,94,5,UEFA EURO Make Your Mark Plus,3,4,Basic,Romania,Premier League,Spurs,true,0,0,11500-60000,0,CLUB
+84146672,Šeško,Benjamin,95,25,UEFA EURO Make Your Mark Plus,4,4,Basic,Slovenia,Bundesliga,RB Leipzig,true,0,0,11750-30000,0,CLUB
+84147673,Kohler,Jürgen,95,5,FUTTIES Hero,4,4,Basic,Germany,Bundesliga,HERO,true,0,0,11750-32500,0,CLUB
+84152774,Al Owairan,Saeed,97,23,FUTTIES Hero,5,4,Basic,Saudi Arabia,ROSHN Saudi League,HERO,true,0,0,150-10000,0,CLUB
+84158081,Ramírez,Mayra,93,25,Live Team of the Season,4,4,Basic,Colombia,Barclays Women’s Super League,Chelsea,true,0,0,850-10000,0,CLUB
+84158195,Santos,Leicy,94,18,Live Team of the Season,5,5,Basic,Colombia,Liga F,Atlético de Madrid,true,0,0,11500-40000,0,CLUB
+84159892,McManaman,Steve,94,12,Greats of the Game Hero,5,4,Basic,England,Premier League,HERO,true,0,0,11500-45000,0,CLUB
+84160830,Sneijder,Wesley,97,18,FUTTIES Hero,5,5,Basic,Netherlands,Serie A TIM,HERO,true,0,0,13000-250000,0,CLUB
+84161046,Tévez,Carlos,96,25,Greats of the Game Hero,5,4,Basic,Argentina,Premier League,HERO,true,0,0,11750-180000,0,CLUB
+84161129,Francescoli,Enzo,94,21,Greats of the Game Hero,4,5,Basic,Uruguay,Liga Profesional de Fútbol,HERO,true,0,0,11500-35000,0,CLUB
+84161172,Bompastor,Sonia,96,7,FUTTIES Hero,4,5,Basic,France,D1 Arkema,HERO,true,0,0,11750-110000,0,CLUB
+100664337,Zanetti,Javier,92,3,Ultimate Birthday ICON,4,5,Basic,Argentina,Icons,ICON,true,0,0,11250-100000,0,CLUB
+100666918,Silveira Carvalho,Ricardo Alberto,96,5,FUTTIES Hero,3,4,Basic,Portugal,Liga Portugal,HERO,true,0,0,1000-10000,0,CLUB
+100693406,Berbatov,Dimitar,96,25,FUTTIES Hero,5,5,Basic,Bulgaria,Premier League,HERO,true,0,0,25000-475000,0,CLUB
+100697375,Cole,Ashley,95,7,Greats of the Game Icon,4,5,Basic,England,Icons,ICON,true,0,0,11750-130000,0,CLUB
+100708493,Alonso Olano,Xabier,95,10,Greats of the Game Icon,4,4,Basic,Spain,Icons,ICON,true,0,0,11750-120000,0,CLUB
+100819158,Ramos García,Sergio,96,5,FUTTIES EVO Complete,3,4,Shadow,Spain,LALIGA EA SPORTS,Sevilla FC,true,0,0,11750-65000,0,CLUB
+100829445,Sánchez,Hugo,93,25,Greats of the Game Icon,5,4,Basic,Mexico,Icons,ICON,true,0,0,11500-47500,0,CLUB
+100841805,Giroud,Olivier,96,25,Team of the Season,5,4,Basic,France,Serie A TIM,Milan,false,0,0,11750-55000,11712,CLUB
+100845817,Kroos,Toni,97,14,End Of An Era,5,5,Basic,Germany,LALIGA EA SPORTS,Real Madrid,true,0,0,1000-10000,0,CLUB
+100847640,Bonucci,Leonardo,93,5,TOTS Moments,3,4,Basic,Italy,Trendyol Süper Lig,Fenerbahçe,false,0,0,11500-45000,11346,CLUB
+100861077,Alarcón Suárez,Francisco Román,94,18,Team of the Season,5,4,Basic,Spain,LALIGA EA SPORTS,Real Betis,true,0,0,11500-55000,0,CLUB
+100863441,Venancio Casimiro,Carlos Henrique,96,10,FUTTIES,5,5,Basic,Brazil,Premier League,Man Utd,true,0,0,17500-85000,0,CLUB
+100864320,Koulibaly,Kalidou,95,5,FUTTIES Premium,4,4,Basic,Senegal,ROSHN Saudi League,Al Hilal,true,0,0,11750-42500,0,CLUB
+100864449,Morata Martín,Álvaro Borja,83,25,Rare,3,4,Basic,Spain,Serie A TIM,Milan,true,0,0,-,0,CLUB
+100865422,Kane,Harry,96,25,FUTTIES EVO Complete,3,5,Hunter,England,Bundesliga,FC Bayern München,true,0,0,1000-10000,0,CLUB
+100865948,Sterling,Raheem,95,27,UEFA EURO Festival of Football Academy,4,4,Deadeye,England,Premier League,Chelsea,true,0,0,150-10000,0,CLUB
+100874231,Berardi,Domenico,93,12,TOTS Moments,5,4,Basic,Italy,Serie A TIM,Sassuolo,true,0,0,11500-35000,0,CLUB
+100877392,Kleindienst,Tim,75,25,Common,2,5,Basic,Germany,Bundesliga,M'gladbach,true,0,0,300-5000,0,CLUB
+100878293,Correa,Ángel,97,25,FUTTIES,5,4,Basic,Argentina,LALIGA EA SPORTS,Atlético de Madrid,true,0,0,700-10000,0,CLUB
+100879845,Sørloth,Alexander,92,25,Team of the Season,4,5,Basic,Norway,LALIGA EA SPORTS,Villarreal CF,true,0,0,1000-10000,0,CLUB
+100881963,Carvalho e Silva,Bernardo Mota,95,18,UEFA EURO Path to Glory,4,5,Basic,Portugal,Premier League,Manchester City,true,0,0,1000-10000,0,CLUB
+100883993,Maddison,James,95,18,UEFA EURO Festival of Football Academy,4,4,Basic,England,Premier League,Spurs,true,0,0,150-10000,0,CLUB
+100885961,Ødegaard,Martin,95,14,Team of the Season,5,4,Hunter,Norway,Premier League,Arsenal,true,0,0,150-10000,0,CLUB
+100889564,Dimarco,Federico,93,8,Team of the Season,4,3,Basic,Italy,Serie A TIM,Inter,true,0,0,11500-37500,0,CLUB
+100892854,Upamecano,Dayot,94,5,TOTS Moments,3,4,Basic,France,Bundesliga,FC Bayern München,true,0,0,11500-60000,0,CLUB
+100894577,Alexander-Arnold,Trent,96,3,UEFA EURO Make Your Mark Plus,4,5,Basic,England,Premier League,Liverpool,true,0,0,43250-800000,0,CLUB
+100895784,Romero,Cristian,92,5,Live Team of the Season,4,3,Basic,Argentina,Premier League,Spurs,true,0,0,11250-60000,0,CLUB
+100897674,Rice,Declan,96,14,Team of the Season,4,4,Basic,England,Premier League,Arsenal,true,0,0,11750-60000,0,CLUB
+100898448,Kadıoğlu,Ferdi,94,7,UEFA EURO Team of the Tournament,4,5,Basic,Türkiye,Trendyol Süper Lig,Fenerbahçe,true,0,0,11500-42500,0,CLUB
+100900068,Szoboszlai,Dominik,94,14,TOTS Champions,4,4,Hunter,Hungary,Premier League,Liverpool,true,0,0,80000-1500000,0,CLUB
+100900682,Dewsbury-Hall,Kiernan,76,14,Common,3,3,Basic,England,Premier League,Chelsea,true,0,0,300-5000,0,CLUB
+100900975,Kolo Muani,Randal,97,25,UEFA EURO Make Your Mark Plus,4,5,Basic,France,Ligue 1 Uber Eats,Paris SG,true,0,0,12000-200000,0,CLUB
+100900977,Kubo,Takefusa,92,23,Team of the Season,4,5,Basic,Japan,LALIGA EA SPORTS,Real Sociedad,true,0,0,1000-10000,0,CLUB
+100901684,Bergkamp,Dennis,97,21,FUTTIES Icon,5,5,Basic,Netherlands,Icons,ICON,true,0,0,-,0,CLUB
+100902196,Demirović,Ermedin,75,16,Common,3,3,Basic,Bosnia Herzegovina,Bundesliga,VfB Stuttgart,false,0,0,300-5000,266,CLUB
+100904380,Díaz,Luis,94,27,TOTS Moments,5,4,Basic,Colombia,Premier League,Liverpool,true,0,0,11500-65000,0,CLUB
+100905754,Dovbyk,Artem,91,25,Team of the Season,4,5,Basic,Ukraine,LALIGA EA SPORTS,Girona FC,true,0,0,11250-37500,0,CLUB
+100906537,Buongiorno,Alessandro,77,5,Common,2,3,Basic,Italy,Serie A TIM,Napoli FC,true,0,0,300-5000,0,CLUB
+100907472,Undav,Deniz,95,25,UEFA EURO Path to Glory,4,5,Basic,Germany,Bundesliga,VfB Stuttgart,true,0,0,11750-35000,0,CLUB
+100909636,Mudryk,Mykhailo,95,16,UEFA EURO Make Your Mark Plus,5,5,Basic,Ukraine,Premier League,Chelsea,true,0,0,12750-240000,0,CLUB
+100911123,Olise,Michael,78,23,Common,4,2,Basic,France,Bundesliga,FC Bayern München,true,0,0,300-5000,0,CLUB
+100915148,Adeyemi,Karim,95,25,UEFA EURO Festival of Football Academy,4,4,Basic,Germany,Bundesliga,Borussia Dortmund,true,0,0,150-10000,0,CLUB
+100933705,Moreira de Oliveira,Sávio,94,16,TOTS Champions,4,4,Basic,Brazil,LALIGA EA SPORTS,Girona FC,true,0,0,50000-950000,0,CLUB
+100935346,Martín-Prieto,Cristina,78,25,Common,3,3,Basic,Spain,Liga Portugal Feminino,SL Benfica,true,0,0,300-5000,0,CLUB
+117643888,van Dijk,Virgil,96,5,Team of the Year,3,3,Basic,Netherlands,Premier League,Liverpool,true,0,0,77000-380000,0,CLUB
+117648377,Aoás Corrêa,Marcos,96,5,Copa América Team of the Tournament,3,3,Basic,Brazil,Ligue 1 Uber Eats,Paris SG,true,0,0,11750-200000,0,CLUB
+117652700,Werner,Timo,97,25,FUTTIES,4,5,Basic,Germany,Premier League,Spurs,true,0,0,700-10000,0,CLUB
+117653857,Coman,Kingsley,91,16,Ultimate Birthday,5,5,Basic,France,Bundesliga,FC Bayern München,true,0,0,1000-10000,0,CLUB
+117654178,Loftus-Cheek,Ruben,95,14,FUTTIES Premium,4,5,Basic,England,Serie A TIM,Milan,true,0,0,700-10000,0,CLUB
+117655953,Guirassy,Serhou,92,25,Team of the Season,4,4,Basic,Guinea,Bundesliga,VfB Stuttgart,true,0,0,11250-32500,0,CLUB
+117656426,Kanté,N'Golo,94,10,TOTS Moments,4,4,Basic,France,ROSHN Saudi League,Al Ittihad,true,0,0,11500-55000,0,CLUB
+117667873,Diani,Kadidiatou,94,23,Team of the Season,5,4,Basic,France,D1 Arkema,OL,true,0,0,1000-10000,0,CLUB
+117671133,Donnarumma,Gianluigi,95,0,Team of the Season,3,3,GK Basic,Italy,Ligue 1 Uber Eats,Paris SG,true,0,0,11750-60000,0,CLUB
+117673931,Dias Belloli,Raphael,96,23,Copa América Path to Glory,4,5,Basic,Brazil,LALIGA EA SPORTS,FC Barcelona,true,0,0,1000-10000,0,CLUB
+117679306,de Oliveira Júnior,Vinícius José,91,25,POTM LALIGA EA SPORTS,5,4,Basic,Brazil,LALIGA EA SPORTS,Real Madrid,true,0,0,2000-20000,0,CLUB
+117683428,Sugawara,Yukinari,76,3,Common,3,3,Basic,Japan,EFL Championship,Southampton,true,0,0,300-5000,0,CLUB
+117685667,Kudus,Mohammed,95,23,FUTTIES Premium,4,5,Basic,Ghana,Premier League,West Ham,true,0,0,700-10000,0,CLUB
+117688755,Camavinga,Eduardo,98,10,UEFA EURO Path to Glory,4,4,Basic,France,LALIGA EA SPORTS,Real Madrid,true,0,0,-,0,CLUB
+117689229,Oberdorf,Lena,97,10,FUTTIES,5,4,Basic,Germany,Google Pixel Frauen-Bundesliga,FC Bayern München,true,0,0,150-10000,0,CLUB
+117693516,Fati,Anssumane,96,27,FUTTIES,5,4,Basic,Spain,LALIGA EA SPORTS,FC Barcelona,true,0,0,150-10000,0,CLUB
+117696709,Hincapié,Piero,95,5,Copa América Path to Glory,3,3,Basic,Ecuador,Bundesliga,Leverkusen,true,0,0,11750-150000,0,CLUB
+117698046,Palmer,Cole,94,12,Team of the Season,5,4,Basic,England,Premier League,Chelsea,true,0,0,11500-50000,0,CLUB
+117699218,Malard,Melvine,93,27,TOTS Moments,4,4,Hunter,France,Barclays Women’s Super League,Manchester Utd,true,0,0,11500-47500,0,CLUB
+117708950,Garnacho Ferreyra,Alejandro,96,27,Copa América Make Your Mark Plus,5,4,Deadeye,Argentina,Premier League,Man Utd,true,0,0,1000-10000,0,CLUB
+134406295,Aubameyang,Pierre-Emerick,93,25,Team of the Season,4,5,Basic,Gabon,Ligue 1 Uber Eats,OM,true,0,0,11500-32500,0,CLUB
+134408599,da Silva Santos Jr.,Neymar,96,27,TOTS Moments,5,5,Basic,Brazil,ROSHN Saudi League,Al Hilal,true,0,0,73000-1400000,0,CLUB
+134441417,Weghorst,Wout,77,25,Common,2,3,Basic,Netherlands,Premier League,Burnley,true,0,0,300-5000,0,CLUB
+134445089,Diani,Kadidiatou,95,23,FUTTIES,5,4,Basic,France,D1 Arkema,OL,true,0,0,150-10000,0,CLUB
+134449405,Rashford,Marcus,97,27,FUTTIES,5,4,Basic,England,Premier League,Man Utd,true,0,0,-,0,CLUB
+134449594,Hernández Cascante,Rodrigo,97,10,UEFA EURO International Stars,4,5,Basic,Spain,Premier League,Manchester City,true,0,0,700-10000,0,CLUB
+134452106,Rice,Declan,97,10,UEFA EURO International Stars,4,4,Basic,England,Premier League,Arsenal,true,0,0,1000-10000,0,CLUB
+134455420,Foden,Phil,94,18,TOTS In-Progress EVO,4,3,Basic,England,Premier League,Manchester City,true,0,0,11000-75000,0,CLUB
+134456821,Clauss,Jonathan,96,2,UEFA EURO Path to Glory,4,4,Basic,France,Ligue 1 Uber Eats,OM,true,0,0,1000-10000,0,CLUB
+134464158,Vlahović,Dušan,93,25,UEFA EURO Path to Glory,4,5,Basic,Serbia,Serie A TIM,Juventus,true,0,0,11500-30000,0,CLUB
+134470877,Frimpong,Jeremie,94,2,Team of the Year,4,4,Basic,Netherlands,Bundesliga,Leverkusen,true,0,0,75500-140000,0,CLUB
+134483402,Bacha,Selma,94,7,Team of the Season,4,4,Basic,France,D1 Arkema,OL,true,0,0,11500-45000,0,CLUB
+151187929,De Bruyne,Kevin,98,18,UEFA EURO Team of the Tournament,4,5,Basic,Belgium,Premier League,Manchester City,true,0,0,-,0,CLUB
+151193661,Zaha,Wilfried,97,27,FUTTIES Premium,5,4,Basic,Ivory Coast,Trendyol Süper Lig,Galatasaray,true,0,0,12000-110000,0,CLUB
+151198320,van Dijk,Virgil,97,5,Team of the Season,3,3,Anchor,Netherlands,Premier League,Liverpool,true,0,0,-,0,CLUB
+151204602,Goretzka,Leon,95,14,TOTS Moments,4,5,Basic,Germany,Bundesliga,FC Bayern München,true,0,0,11750-37500,0,CLUB
+151206054,Dybala,Paulo,96,21,Team of the Season,5,5,Basic,Argentina,Serie A TIM,Roma FC,true,0,0,11750-65000,0,CLUB
+151207142,Borges Fernandes,Bruno Miguel,96,18,UEFA EURO Team of the Tournament,5,4,Basic,Portugal,Premier League,Man Utd,true,0,0,11750-160000,0,CLUB
+151210385,Guirassy,Serhou,77,25,Common,3,3,Basic,Guinea,Bundesliga,Borussia Dortmund,false,0,0,300-5000,273,CLUB
+151219176,Barella,Nicolò,97,14,FUTTIES,4,5,Basic,Italy,Serie A TIM,Inter,true,0,0,50000-250000,0,CLUB
+151232141,Geyoro,Grace,98,14,FUTTIES,5,5,Basic,France,D1 Arkema,Paris SG,true,0,0,1000-10000,0,CLUB
+151236611,Bonmatí Conca,Aitana,98,14,FUTTIES,4,5,Basic,Spain,Liga F,FC Barcelona,true,0,0,-,0,CLUB
+151242579,Kvaratskhelia,Khvicha,96,27,UEFA EURO Path to Glory,5,5,Basic,Georgia,Serie A TIM,Napoli FC,true,0,0,21000-400000,0,CLUB
+151242623,Boniface,Victor,93,25,Team of the Season,4,4,Basic,Nigeria,Bundesliga,Leverkusen,true,0,0,11500-37500,0,CLUB
+167949163,Modrić,Luka,97,14,FUTTIES Premium,5,5,Basic,Croatia,LALIGA EA SPORTS,Real Madrid,true,0,0,700-10000,0,CLUB
+167960727,Aubameyang,Pierre-Emerick,96,25,FUTTIES,4,5,Basic,Gabon,Ligue 1 Uber Eats,OM,true,0,0,150-10000,0,CLUB
+167972264,Son,Heung Min,94,25,Team of the Season,4,5,Basic,Korea Republic,Premier League,Spurs,true,0,0,11500-75000,0,CLUB
+184760486,Dybala,Paulo,97,18,FUTTIES,5,5,Basic,Argentina,Serie A TIM,Roma FC,true,0,0,1000-10000,0,CLUB
+186200,Borini,Fabio,77,16,Common,3,3,Basic,Italy,Serie BKT,Sampdoria,false,0,0,350-10000,273,TRADEPILE
+189558,Salamon,Bartosz,71,5,Common,2,3,Basic,Poland,PKO Bank Polski Ekstraklasa,Lech Poznań,false,0,0,150-10000,107,TRADEPILE
+189908,Skorupski,Łukasz,77,0,Common,1,2,GK Basic,Poland,Serie A TIM,Bologna,false,0,0,350-10000,273,TRADEPILE
+190243,Hitz,Marwin,76,0,Common,1,3,GK Basic,Switzerland,Credit Suisse Super League,FC Basel 1893,false,0,0,350-10000,270,TRADEPILE
+190813,El Shaarawy,Stephan,78,16,Common,4,3,Basic,Italy,Serie A TIM,Roma FC,false,0,0,350-10000,277,TRADEPILE
+190815,Blind,Daley,77,5,Common,3,3,Basic,Netherlands,LALIGA EA SPORTS,Girona FC,false,0,0,350-10000,273,TRADEPILE
+191740,Herrera Agüera,Ander,79,14,Common,3,4,Basic,Spain,LALIGA EA SPORTS,Athletic Club,false,0,0,350-10000,280,TRADEPILE
+195859,Ings,Danny,77,25,Common,3,3,Basic,England,Premier League,West Ham,false,0,0,350-10000,273,TRADEPILE
+200752,Nunes Jesus,Juan Guilherme,75,5,Common,2,3,Basic,Brazil,Serie A TIM,Napoli FC,false,0,0,300-10000,266,TRADEPILE
+201143,Mandi,Aïssa,76,5,Common,2,3,Basic,Algeria,LALIGA EA SPORTS,Villarreal CF,false,0,0,350-10000,270,TRADEPILE
+201143,Mandi,Aïssa,76,5,Common,2,3,Basic,Algeria,LALIGA EA SPORTS,Villarreal CF,false,0,0,350-10000,270,TRADEPILE
+202808,Li,Ke,65,14,Common,3,3,Basic,China PR,Chinese Football Association Super League,Beijing FC,false,0,0,150-10000,98,TRADEPILE
+203581,Balliu,Iván,77,3,Common,3,3,Basic,Albania,LALIGA EA SPORTS,Rayo Vallecano,false,0,0,350-10000,273,TRADEPILE
+206098,Gabarrón Gil,Patricio,76,5,Common,2,3,Basic,Spain,Serie A TIM,Latium,false,0,0,350-10000,270,TRADEPILE
+212261,Thomas Llamas,Brandon,71,25,Rare,4,3,Basic,Spain,Hellas Liga,PAOK FC,false,0,0,250-10000,249,TRADEPILE
+213418,Akpom,Chuba,76,25,Common,3,3,Basic,England,Eredivisie,Ajax,false,0,0,350-10000,270,TRADEPILE
+215363,Montipò,Lorenzo,77,0,Common,1,3,GK Basic,Italy,Serie A TIM,Hellas Verona,false,0,0,350-10000,273,TRADEPILE
+216466,Nascimento Borges,Wendell,76,7,Common,4,2,Basic,Brazil,Liga Portugal,FC Porto,false,0,0,350-10000,270,TRADEPILE
+216939,Blake,Andre,78,0,Common,1,2,GK Basic,Jamaica,Major League Soccer,Philadelphia,false,0,0,350-10000,277,TRADEPILE
+220837,Machado,Deiver,76,8,Common,2,3,Basic,Colombia,Ligue 1 Uber Eats,RC Lens,false,0,0,350-10000,270,TRADEPILE
+221479,Calvert-Lewin,Dominic,77,25,Common,3,3,Basic,England,Premier League,Everton,false,0,0,350-10000,273,TRADEPILE
+222501,Castagne,Timothy,77,3,Common,3,3,Basic,Belgium,Premier League,Fulham,false,0,0,350-10000,273,TRADEPILE
+226537,Janssen,Vincent,77,25,Common,3,4,Basic,Netherlands,1A Pro League,Royal Antwerp FC,false,0,0,350-10000,273,TRADEPILE
+227222,Guilbert,Frédéric,76,2,Common,3,3,Basic,France,Ligue 1 Uber Eats,Strasbourg,false,0,0,350-10000,270,TRADEPILE
+228336,Grillitsch,Florian,76,10,Common,3,3,Basic,Austria,Bundesliga,TSG Hoffenheim,false,0,0,350-10000,270,TRADEPILE
+232562,Nakamura,Kosuke,76,0,Common,1,3,GK Basic,Japan,Liga Portugal,Portimonense SC,false,0,0,350-10000,270,TRADEPILE
+234678,Mæhle,Joakim,77,8,Common,3,3,Basic,Denmark,Bundesliga,VfL Wolfsburg,false,0,0,350-10000,273,TRADEPILE
+234913,Fassnacht,Christian,76,12,Common,3,3,Basic,Switzerland,EFL Championship,Norwich,false,0,0,350-10000,270,TRADEPILE
+235432,Munetsi,Marshall,77,10,Common,3,3,Basic,Zimbabwe,Ligue 1 Uber Eats,Stade de Reims,false,0,0,350-10000,273,TRADEPILE
+237477,Tavernier,Marcus,75,16,Common,3,3,Basic,England,Premier League,AFC Bournemouth,false,0,0,300-10000,266,TRADEPILE
+238216,Gallagher,Conor,78,14,Common,3,2,Basic,England,Premier League,Chelsea,false,0,0,350-10000,277,TRADEPILE
+238277,Gazdag,Dániel,76,18,Common,3,2,Basic,Hungary,Major League Soccer,Philadelphia,false,0,0,350-10000,270,TRADEPILE
+240702,Yaremchuk,Roman,72,25,Common,2,3,Basic,Ukraine,1A Pro League,Club Brugge,false,0,0,150-10000,108,TRADEPILE
+240744,Ojeda,Martín,76,12,Common,3,4,Basic,Argentina,Major League Soccer,Orlando City,false,0,0,350-10000,270,TRADEPILE
+240744,Ojeda,Martín,76,12,Common,3,4,Basic,Argentina,Major League Soccer,Orlando City,false,0,0,350-10000,270,TRADEPILE
+240900,Núñez Gestoso,Unai,77,5,Common,2,2,Basic,Spain,LALIGA EA SPORTS,RC Celta,false,0,0,350-10000,273,TRADEPILE
+241042,Skipp,Oliver,77,10,Common,2,3,Basic,England,Premier League,Spurs,false,0,0,350-10000,273,TRADEPILE
+241487,Ferreira,Jesus,76,25,Common,2,4,Basic,United States,Major League Soccer,FC Dallas,false,0,0,350-10000,270,TRADEPILE
+241508,Damsgaard,Mikkel,76,18,Common,4,3,Basic,Denmark,Premier League,Brentford,false,0,0,350-10000,270,TRADEPILE
+241522,Wind,Jonas,76,25,Common,3,3,Basic,Denmark,Bundesliga,VfL Wolfsburg,false,0,0,350-10000,270,TRADEPILE
+242087,Morita,Hidemasa,78,14,Common,3,2,Basic,Japan,Liga Portugal,Sporting CP,false,0,0,350-10000,277,TRADEPILE
+243282,McNeil,Dwight,76,16,Common,3,2,Basic,England,Premier League,Everton,false,0,0,350-10000,270,TRADEPILE
+243559,de Frutos Sebastián,Jorge,77,12,Common,4,4,Basic,Spain,LALIGA EA SPORTS,Rayo Vallecano,false,0,0,350-10000,273,TRADEPILE
+246286,García Pérez,Nahikari,78,25,Common,4,3,Basic,Spain,Liga F,Athletic Club,false,0,0,350-10000,277,TRADEPILE
+246568,Meffometou,Falone,76,3,Common,3,4,Basic,Cameroon,D1 Arkema,FC Fleury 91,false,0,0,350-10000,270,TRADEPILE
+247729,Ribeiro Almeida,Domingos André,78,14,Common,3,3,Basic,Portugal,LALIGA EA SPORTS,Valencia CF,false,0,0,350-10000,277,TRADEPILE
+251116,Holeš,Tomáš,77,5,Common,2,4,Basic,Czech Republic,Česká Liga,Slavia Praha,false,0,0,350-10000,273,TRADEPILE
+251616,Teixeira Carmo,David Mota,76,5,Common,2,2,Basic,Portugal,Liga Portugal,FC Porto,false,0,0,350-10000,270,TRADEPILE
+259307,Gusto,Malo,76,3,Common,3,3,Basic,France,Premier League,Chelsea,false,0,0,350-10000,270,TRADEPILE
+261204,Uzuni,Myrto,78,25,Common,4,3,Basic,Albania,LALIGA EA SPORTS,Granada CF,false,0,0,350-10000,277,TRADEPILE
+264989,Corley,Gia,77,14,Common,3,2,Basic,United States,Google Pixel Frauen-Bundesliga,TSG Hoffenheim,false,0,0,350-10000,273,TRADEPILE
+265052,Ostermeier,Selina,76,5,Common,2,3,Basic,Germany,Google Pixel Frauen-Bundesliga,Leverkusen,false,0,0,350-10000,270,TRADEPILE
+265188,Scalvini,Giorgio,75,5,Common,2,3,Basic,Italy,Serie A TIM,Bergamo Calcio,false,0,0,300-10000,266,TRADEPILE
+265294,Connolly,Megan,77,10,Common,2,3,Basic,Republic of Ireland,Barclays Women’s Super League,Bristol City,false,0,0,350-10000,273,TRADEPILE
+265332,Turner,Danielle,76,5,Common,2,3,Basic,England,Barclays Women’s Super League,Aston Villa,false,0,0,350-10000,270,TRADEPILE
+265332,Turner,Danielle,76,5,Common,2,3,Basic,England,Barclays Women’s Super League,Aston Villa,false,0,0,350-10000,270,TRADEPILE
+265450,Bakayoko,Johan,75,23,Common,3,3,Basic,Belgium,Eredivisie,PSV,false,0,0,300-10000,266,TRADEPILE
+265571,Lacasse,Cloé,76,27,Common,3,5,Basic,Canada,Barclays Women’s Super League,Arsenal,false,0,0,350-10000,270,TRADEPILE
+265850,Mpome,Maelys,76,5,Common,2,3,Basic,France,D1 Arkema,Montpellier,false,0,0,350-10000,270,TRADEPILE
+266872,Gatti,Federico,76,5,Common,2,3,Basic,Italy,Serie A TIM,Juventus,false,0,0,350-10000,270,TRADEPILE
+266949,Codina Panedas,Laia,73,5,Rare,2,2,Basic,Spain,Barclays Women’s Super League,Arsenal,false,0,0,300-10000,256,TRADEPILE
+271490,Garrido López,Javier,59,0,Common,1,3,GK Basic,Spain,LALIGA HYPERMOTION,CD Leganés,false,0,0,150-10000,18,TRADEPILE
+272067,Domínguez Rojo,Laura,79,8,Common,3,3,Basic,Spain,Liga F,Madrid CFF,false,0,0,350-10000,280,TRADEPILE
+272067,Domínguez Rojo,Laura,79,8,Common,3,3,Basic,Spain,Liga F,Madrid CFF,false,0,0,350-10000,280,TRADEPILE
+272089,Real,Kerlly,75,3,Common,2,3,Basic,Ecuador,Liga F,Valencia CF,false,0,0,300-10000,266,TRADEPILE
+6400780,---,---,75,-1,Common,0,-1,playstyles.playstyle0,Greece,Hellas Liga,AEK Athens,false,0,0,150-5000,227,TRADEPILE
+6400920,---,---,75,-1,Common,0,-1,playstyles.playstyle0,Switzerland,Credit Suisse Super League,BSC Young Boys,false,0,0,150-5000,227,TRADEPILE
+6414759,---,---,75,-1,Common,0,-1,playstyles.playstyle0,Spain,Liga F,Real Betis,false,0,0,150-5000,227,TRADEPILE
+6841035,---,---,80,-1,Rare,0,-1,playstyles.playstyle0,search.nationName.nation0,global.leagueFull.2024.league0,global.teamabbr15.2024.team0,false,0,0,150-5000,485,TRADEPILE
+6864013,---,---,80,-1,Common,0,-1,playstyles.playstyle0,search.nationName.nation0,global.leagueFull.2024.league0,global.teamabbr15.2024.team0,false,0,0,150-5000,242,TRADEPILE
+7000083,---,---,55,-1,Common,0,-1,playstyles.playstyle0,Scotland,cinch Premiership,Motherwell,false,0,0,150-5000,21,TRADEPILE
+7001794,---,---,75,-1,Common,0,-1,playstyles.playstyle0,England,Premier League,Sheffield Utd,false,0,0,150-5000,227,TRADEPILE
+8000264,---,---,55,-1,Common,0,-1,playstyles.playstyle0,Switzerland,Credit Suisse Super League,FC Winterthur,false,0,0,150-5000,21,TRADEPILE
+50508568,Torrén,Miguel Ángel,74,5,Rare,2,3,Basic,Argentina,Liga Profesional de Fútbol,Unión,false,0,0,15500-25500,259,TRADEPILE
+50512467,Lallana,Adam,76,18,Common,4,5,Basic,England,EFL Championship,Southampton,false,0,0,350-10000,270,TRADEPILE
+50514142,Muslera,Fernando,92,0,Team of the Season,2,4,GK Basic,Uruguay,Trendyol Süper Lig,Galatasaray,false,0,0,11250-32500,11224,TRADEPILE
+50539525,Martínez,Josef,75,25,Common,3,4,Basic,Venezuela,Major League Soccer,CF Montréal,false,0,0,300-10000,266,TRADEPILE
+50552281,Gray,Demarai,77,16,Common,4,4,Basic,Jamaica,ROSHN Saudi League,Ettifaq FC,false,0,0,350-10000,273,TRADEPILE
+50556404,Lusamba,Arnaud,71,14,Common,4,3,Basic,DR Congo,Trendyol Süper Lig,Alanyaspor,false,0,0,150-5000,107,TRADEPILE
+50556522,Pellegrino,Amahl,75,27,Common,4,3,Basic,Norway,Major League Soccer,SJ Earthquakes,false,0,0,300-5000,266,TRADEPILE
+50557778,Miguel,Florian,69,7,Common,2,2,Basic,France,LALIGA HYPERMOTION,Burgos CF,false,0,0,150-5000,104,TRADEPILE
+50557877,Kehrer,Thilo,76,5,Common,2,5,Basic,Germany,Ligue 1 Uber Eats,AS Monaco,false,0,0,300-5000,270,TRADEPILE
+50557877,Kehrer,Thilo,76,5,Common,2,5,Basic,Germany,Ligue 1 Uber Eats,AS Monaco,false,0,0,300-5000,270,TRADEPILE
+50569689,Malacia,Tyrell,96,7,FUTTIES,4,4,Basic,Netherlands,Premier League,Man Utd,false,0,0,17500-65000,11712,TRADEPILE
+50572697,Gorosabel Espinosa,Andoni,76,3,Common,2,2,Basic,Spain,LALIGA EA SPORTS,Athletic Club,false,0,0,300-5000,270,TRADEPILE
+50572697,Gorosabel Espinosa,Andoni,76,3,Common,2,2,Basic,Spain,LALIGA EA SPORTS,Athletic Club,false,0,0,300-5000,270,TRADEPILE
+50576984,Kilman,Max,76,5,Common,2,4,Basic,England,Premier League,West Ham,false,0,0,300-5000,270,TRADEPILE
+50591496,Aramburu,Jon,95,3,Copa América Team of the Tournament,4,5,Basic,Venezuela,LALIGA EA SPORTS,Real Sociedad,false,0,0,11750-55000,11590,TRADEPILE
+50603762,Lundkvist,Hanna,77,3,Common,3,3,Basic,Sweden,National Women's Soccer League,San Diego Wave,false,0,0,300-5000,273,TRADEPILE
+67286547,Sommer,Yann,95,0,Team of the Season,3,4,GK Basic,Switzerland,Serie A TIM,Inter,false,0,60500,11750-50000,11590,TRADEPILE
+67329387,Mina,Yerry,77,5,Common,2,3,Basic,Colombia,Serie A TIM,Cagliari,false,0,0,300-5000,273,TRADEPILE
+67340737,Montiel Caballero,Jonathan,75,18,Common,3,2,Basic,Spain,LALIGA EA SPORTS,Rayo Vallecano,false,0,0,300-5000,266,TRADEPILE
+67344704,Di Gregorio,Michele,79,0,Common,1,3,GK Basic,Italy,Serie A TIM,Juventus,false,0,0,300-5000,280,TRADEPILE
+67360806,Loureiro da Costa,João Pedro,89,2,Team of the Season,3,3,Basic,Portugal,Liga Portugal,Rio Ave FC,false,0,0,11000-30000,10858,TRADEPILE
+84115268,Pavlidis,Vangelis,78,25,Common,3,4,Basic,Greece,Liga Portugal,SL Benfica,false,0,0,300-5000,277,TRADEPILE
+84140631,Mikautadze,Georges,93,25,UEFA EURO Make Your Mark Plus,4,4,Basic,Georgia,Ligue 1 Uber Eats,FC Metz,false,0,0,11500-30000,11346,TRADEPILE
+100874231,Berardi,Domenico,93,12,TOTS Moments,5,4,Basic,Italy,Serie A TIM,Sassuolo,false,0,0,11500-35000,11346,TRADEPILE
+100906537,Buongiorno,Alessandro,77,5,Common,2,3,Basic,Italy,Serie A TIM,Napoli FC,false,0,0,300-5000,273,TRADEPILE
+117671133,Donnarumma,Gianluigi,95,0,Team of the Season,3,3,Glove,Italy,Ligue 1 Uber Eats,Paris SG,false,0,61500,11750-60000,11590,TRADEPILE
+117698046,Palmer,Cole,94,12,Team of the Season,5,4,Basic,England,Premier League,Chelsea,false,0,0,11500-50000,11468,TRADEPILE

@@ -12,7 +12,7 @@ from widgets.image_label import ImageLabel
 
 
 class FutSummaryWidget(GenericWidget):
-    LIST_SIZE: int = 10
+    LIST_SIZE: int = 20
 
     def __init__(self, fut_manager_ui: GenericWidget):
         super(FutSummaryWidget, self).__init__()
@@ -57,6 +57,7 @@ class FutSummaryWidget(GenericWidget):
         Event for data combo box
         """
         self.update_data()
+        self.data_combo_box.setFocus()
 
     def update_data(self):
         """

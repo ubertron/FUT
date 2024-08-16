@@ -129,11 +129,17 @@ class FutManager:
 
     @property
     def num_tots(self) -> int:
-        return len(self.find_value(attribute=FutAttr.rarity, value=Rarity.tots.value))
+        tots = len(self.find_value(attribute=FutAttr.rarity, value=Rarity.tots.value))
+        moments = len(self.find_value(attribute=FutAttr.rarity, value=Rarity.tots_moments.value))
+        return tots + moments
 
     @property
-    def num_tots_moments(self) -> int:
-        return len(self.find_value(attribute=FutAttr.rarity, value=Rarity.tots_moments.value))
+    def num_futties(self) -> int:
+        futties = len(self.find_value(attribute=FutAttr.rarity, value=Rarity.futties.value))
+        premium = len(self.find_value(attribute=FutAttr.rarity, value=Rarity.futties_premium.value))
+        hero = len(self.find_value(attribute=FutAttr.rarity, value=Rarity.futties_hero.value))
+        icon = len(self.find_value(attribute=FutAttr.rarity, value=Rarity.futties_icon.value))
+        return futties + premium + hero + icon
 
     @property
     def num_gold(self) -> int:
